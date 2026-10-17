@@ -5,7 +5,7 @@ import { formatDate, t } from '../i18n';
 import { allStages, stagePath, tripPath } from '../lib/content';
 
 interface Props {
-  /** id of an element drawn over the map (bottom band or left column); markers are fitted around it. */
+  /** id of an element that may be drawn over the map (bottom band or left column); markers are fitted around it. */
   overlay?: string;
 }
 
@@ -77,19 +77,21 @@ const trips = await Promise.all(
         </g></svg>`,
     });
 
-  // Space covered by the overlay: a band along the bottom (narrow screens) or a column on the left (wide screens).
+  // Space of the map covered by the overlay: a band along the bottom or a column on the left. Nothing when
+  // the overlay is laid out outside the map (below it, on phones).
   function covered() {
     const overlay = el.dataset.overlay ? document.getElementById(el.dataset.overlay)?.getBoundingClientRect() : undefined;
     const box = el.getBoundingClientRect();
-    const left = overlay && overlay.width < box.width * 0.7 ? overlay.right - box.left : 0;
-    const bottom = overlay && !left ? box.bottom - overlay.top : 0;
+    if (!overlay || overlay.top >= box.bottom) return { left: 0, bottom: 0 };
+    const left = overlay.width < box.width * 0.7 ? overlay.right - box.left : 0;
+    const bottom = left ? 0 : box.bottom - overlay.top;
     return { left, bottom };
   }
 
   function fit(bounds: L.LatLngBounds) {
     const { left, bottom } = covered();
-    // Extra top padding: pins stand above their point.
-    map.fitBounds(bounds, { paddingTopLeft: [30 + left, 50], paddingBottomRight: [30, 20 + bottom], maxZoom: 9 });
+    // Pins are 46px wide and stand 34px above their point: keep them whole inside the map.
+    map.fitBounds(bounds, { paddingTopLeft: [40 + left, 50], paddingBottomRight: [40, 20 + bottom], maxZoom: 9 });
   }
 
   // A stage popup is a small photo tile linking to the stage, built with DOM nodes (no HTML strings from content).
