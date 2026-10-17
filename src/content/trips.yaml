@@ -1,0 +1,60 @@
+- id: "raid-al-magrib-2003"
+  name: "Raid Al Magrib"
+  year: 2003
+  country: "Marruecos"
+  color: "#e6194b"
+- id: "mongolia-bike-challenge-2010"
+  name: "Mongolia Bike Challenge"
+  year: 2010
+  country: "Mongolia"
+  color: "#3cb44b"
+- id: "jordania-2011"
+  name: "Jordania, de Madaba a Áqaba"
+  year: 2011
+  country: "Jordania"
+  color: "#4363d8"
+- id: "etiopia-wild-bike-2012"
+  name: "Etiopía Wild Bike"
+  year: 2012
+  country: "Etiopía"
+  color: "#f58231"
+- id: "camino-de-santiago-2013"
+  name: "Camino de Santiago con Planeta Bike"
+  year: 2013
+  country: "España"
+  color: "#911eb4"
+- id: "namibia-2015"
+  name: "Namibia"
+  year: 2015
+  country: "Namibia"
+  color: "#42d4f4"
+- id: "camino-primitivo-2016"
+  name: "Camino Primitivo"
+  year: 2016
+  country: "España"
+  color: "#f032e6"
+- id: "ruta-de-la-plata-2016"
+  name: "Ruta de la Plata"
+  year: 2016
+  country: "España"
+  color: "#9a6324"
+- id: "tanzania-2017"
+  name: "Tanzania"
+  year: 2017
+  country: "Tanzania"
+  color: "#469990"
+- id: "eslovenia-2018"
+  name: "Eslovenia"
+  year: 2018
+  country: "Eslovenia"
+  color: "#808000"
+- id: "georgia-2019"
+  name: "Georgia"
+  year: 2019
+  country: "Georgia"
+  color: "#000075"
+- id: "ardennes-arbalete-2022"
+  name: "Ardennes Arbalète"
+  year: 2022
+  country: "Bélgica"
+  color: "#800000"
