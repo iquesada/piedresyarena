@@ -1,0 +1,24 @@
+{
+  "name": "piedresyarena",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check && astro build && python3 tools/check_build.py",
+    "test": "python3 -m pytest tools"
+  },
+  "dependencies": {
+    "@astrojs/markdown-remark": "^7.3.3",
+    "astro": "^7.4.0",
+    "leaflet": "^1.9.4",
+    "remark-breaks": "^4.0.0",
+    "unist-util-visit": "^5.1.0"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "@types/leaflet": "^1.9.22",
+    "typescript": "^6.0.3"
+  }
+}

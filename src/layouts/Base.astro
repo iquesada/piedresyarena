@@ -1,0 +1,72 @@
+---
+import { Image } from 'astro:assets';
+import logo from '../assets/logo.png';
+import { t } from '../i18n';
+
+interface Props {
+  title?: string;
+  seoTitle?: string;
+  description?: string;
+  noCanonical?: boolean;
+}
+
+const { title, seoTitle, description, noCanonical } = Astro.props;
+const locale = Astro.currentLocale;
+const site = t(locale, 'site.title');
+const fullTitle = seoTitle ?? (title ? `${title} | ${site}` : site);
+const canonical = new URL(Astro.url.pathname, Astro.site);
+---
+<!doctype html>
+<html lang={locale}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description || t(locale, 'site.description')} />
+    {!noCanonical && <link rel="canonical" href={canonical} />}
+  </head>
+  <body>
+    <header>
+      <a href="/" class="logo"><Image src={logo} alt={site} layout="fixed" /></a>
+      <nav>
+        <a href="/">{t(locale, 'nav.trips')}</a>
+        <a href="/sobre-mi/">{t(locale, 'nav.about')}</a>
+      </nav>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer>
+      <p>{site} · {new Date().getFullYear()}</p>
+    </footer>
+  </body>
+</html>
+
+<style is:global>
+  :root {
+    --content-width: 760px; /* keep in sync with sizes in astro.config.mjs */
+    --wide-width: 1120px;
+    --text: #222;
+    --muted: #666;
+    --accent: #b5521b;
+    --bar: #222;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 1.0625rem/1.6 system-ui, sans-serif; color: var(--text); background: #fff; }
+  a { color: var(--accent); }
+  header { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: space-between; padding: 0.75rem 1rem; background: var(--bar); }
+  header .logo { display: block; line-height: 0; }
+  header nav { display: flex; gap: 1.25rem; }
+  header nav a { color: #fff; text-decoration: none; }
+  main { max-width: var(--wide-width); margin: 0 auto; padding: 1rem; }
+  footer { text-align: center; color: var(--muted); font-size: 0.875rem; padding: 2rem 1rem; }
+  h1 { line-height: 1.2; }
+  .prose { max-width: var(--content-width); margin: 0 auto; }
+  .prose img { display: block; margin: 0 auto; }
+  figure { margin: 1.5rem 0; }
+  figcaption { color: var(--muted); font-size: 0.9rem; text-align: center; margin-top: 0.4rem; }
+  .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 0.5rem; }
+  .gallery p { margin: 0; }
+  .embed iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; }
+  .meta { color: var(--muted); }
+</style>
