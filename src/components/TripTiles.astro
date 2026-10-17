@@ -1,0 +1,39 @@
+---
+import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
+import { stageCount, t } from '../i18n';
+import { stagesOf, tripPath } from '../lib/content';
+
+// Trips without stages are skipped. Newest first; trips from the same year by their first stage's date.
+const all = await Promise.all((await getCollection('trips')).map(async (trip) => ({ trip, stages: await stagesOf(trip.id) })));
+const trips = all.filter(({ stages }) => stages.length > 0);
+trips.sort((a, b) => b.trip.data.year - a.trip.data.year || b.stages[0].data.date.getTime() - a.stages[0].data.date.getTime());
+const locale = Astro.currentLocale;
+---
+<ul class="tiles" aria-label={t(locale, 'trips.label')}>
+  {trips.map(({ trip, stages }, i) => (
+    <li class:list={{ wide: i % 5 === 0 }}>
+      <a href={tripPath(trip)} class="tile">
+        <Image
+          src={stages[0].data.image}
+          alt=""
+          widths={[480, 760, 1080, 1600]}
+          sizes={i % 5 === 0 ? '100vw' : '(min-width: 900px) 50vw, 100vw'}
+        />
+        <div class="tile-text">
+          <h2>{trip.data.name}</h2>
+          <p class="facts"><span class="dot" style={`--c:${trip.data.color}`}></span>{trip.data.year}, {trip.data.country}, {stageCount(locale, stages.length)}</p>
+        </div>
+      </a>
+    </li>
+  ))}
+</ul>
+
+<style>
+  .facts { display: flex; align-items: center; gap: 0.5rem; }
+  @media (min-width: 900px) {
+    .wide { grid-column: span 2; }
+    .wide .tile { aspect-ratio: 21 / 9; }
+    .wide h2 { font-size: clamp(3.5rem, 7vw, 6rem); }
+  }
+</style>

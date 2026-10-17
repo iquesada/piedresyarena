@@ -33,10 +33,10 @@ src/content/stages/es/      One folder per stage: index.md and its images
 src/content/pages/es/       Standalone pages ("Sobre mí")
 src/content.config.ts       Content schemas
 src/redirects.json          Old WordPress URLs -> new URLs
-src/assets/                 Logo
+src/assets/                 Original logo (the site uses a vector redraw in src/components/LogoIcon.astro)
 src/i18n/                   Interface text per language (es.ts)
 src/lib/                    Content helpers and Markdown plugins
-src/components/             Astro components (map, trip card, stage navigation)
+src/components/             Astro components (map, logo icon, stage navigation)
 src/layouts/                Page layout
 src/pages/                  Routes
 public/                     Static files served as-is (CNAME)

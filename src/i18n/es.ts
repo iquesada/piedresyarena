@@ -8,10 +8,21 @@ export default {
   'trip.stages': '{n} etapas',
   'trip.stage': '1 etapa',
   'map.label': 'Mapa de etapas',
+  'home.title': 'Un atlas de viajes en bicicleta',
+  'home.summary': '{trips} viajes y {stages} etapas, del Sáhara al Cáucaso. Toca un viaje en el mapa para ver sus etapas.',
+  'trips.label': 'Viajes',
+  'trip.stages.label': 'Etapas del viaje',
+  'stage.number': 'Etapa {n}',
+  'stage.position': 'etapa {n} de {total}',
+  'gallery.prev': 'Foto anterior',
+  'gallery.next': 'Foto siguiente',
   'map.attribution': '© colaboradores de OpenStreetMap',
   'notFound.title': 'Página no encontrada',
-  'notFound.text': 'La página que buscas no existe o ha cambiado de sitio.',
-  'notFound.home': 'Ir a la portada',
+  'notFound.heading': 'Te has perdido',
+  'notFound.where': '0° N, 0° E',
+  'notFound.text': 'Estás en Null Island, el punto del golfo de Guinea donde acaban los lugares sin coordenadas. La página que buscas no existe o ha cambiado de sitio.',
+  'notFound.home': 'Volver al mapa',
+  'notFound.random': 'Llévame a una etapa al azar',
 } as const;
 
 export const dateFormat: Intl.DateTimeFormatOptions = { day: 'numeric', month: 'long', year: 'numeric' };

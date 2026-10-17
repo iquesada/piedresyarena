@@ -1,13 +1,102 @@
 ---
 import Base from '../layouts/Base.astro';
 import { t } from '../i18n';
+import { allStages, stagePath } from '../lib/content';
 
 const locale = Astro.currentLocale;
+const stages = (await allStages()).map(stagePath);
+// Compass ticks every 10°, longer every 30°.
+const ticks = Array.from({ length: 36 }, (_, i) => i * 10);
+const cardinals = [
+  { label: 'N', angle: 0 },
+  { label: 'E', angle: 90 },
+  { label: 'S', angle: 180 },
+  { label: 'O', angle: 270 },
+];
 ---
-<Base title={t(locale, 'notFound.title')} noCanonical>
-  <div class="prose">
-    <h1>{t(locale, 'notFound.title')}</h1>
-    <p>{t(locale, 'notFound.text')}</p>
-    <p><a href="/">{t(locale, 'notFound.home')}</a></p>
-  </div>
+<Base title={t(locale, 'notFound.title')} noCanonical dark>
+  <section class="lost">
+    <svg class="compass" viewBox="-110 -110 220 220" aria-hidden="true">
+      <circle r="104" class="rim" />
+      <circle r="92" class="face" />
+      {ticks.map((a) => (
+        <line y1={-92} y2={a % 30 === 0 ? -80 : -86} transform={`rotate(${a})`} class:list={['tick', { major: a % 30 === 0 }]} />
+      ))}
+      {cardinals.map(({ label, angle }) => (
+        <text transform={`rotate(${angle}) translate(0 -64) rotate(${-angle})`} class:list={['cardinal', { north: label === 'N' }]}>{label}</text>
+      ))}
+      <g class="needle">
+        <polygon points="0,-74 9,0 -9,0" class="needle-n" />
+        <polygon points="0,74 9,0 -9,0" class="needle-s" />
+        <circle r="5" class="hub" />
+      </g>
+    </svg>
+
+    <div class="text">
+      <p class="where">{t(locale, 'notFound.where')}</p>
+      <h1 class="display">{t(locale, 'notFound.heading')}</h1>
+      <p>{t(locale, 'notFound.text')}</p>
+      <p class="ways">
+        <a href="/" class="way primary">{t(locale, 'notFound.home')}</a>
+        <a href="/" class="way" data-random-stage={JSON.stringify(stages)}>{t(locale, 'notFound.random')}</a>
+      </p>
+    </div>
+  </section>
 </Base>
+
+<script>
+  // Without JavaScript the random link goes to the home page.
+  const link = document.querySelector<HTMLAnchorElement>('[data-random-stage]');
+  if (link) {
+    const stages: string[] = JSON.parse(link.dataset.randomStage!);
+    link.href = stages[Math.floor(Math.random() * stages.length)];
+  }
+</script>
+
+<style>
+  .lost {
+    display: grid; gap: 2rem; justify-items: center; align-content: center;
+    min-height: calc(100svh - 4rem); padding: 2.5rem 1.1rem 3.5rem;
+  }
+  .compass { width: min(70vw, 20rem); height: auto; }
+  .rim { fill: none; stroke: var(--khaki); stroke-width: 3; }
+  .face { fill: #23231f; stroke: #3a3a34; stroke-width: 1; }
+  .tick { stroke: var(--stone); stroke-width: 1.5; }
+  .tick.major { stroke: var(--khaki); stroke-width: 2.5; }
+  .cardinal { fill: var(--khaki); font: 700 15px var(--display); text-anchor: middle; dominant-baseline: central; }
+  .cardinal.north { fill: var(--sand); }
+  .needle-n { fill: var(--sand); }
+  .needle-s { fill: var(--khaki); opacity: 0.55; }
+  .hub { fill: var(--night); stroke: var(--khaki); stroke-width: 2; }
+  /* The needle never settles on north. */
+  .needle { transform: rotate(137deg); animation: lost 9s ease-in-out infinite; }
+  @keyframes lost {
+    0% { transform: rotate(137deg); }
+    14% { transform: rotate(52deg); }
+    22% { transform: rotate(78deg); }
+    38% { transform: rotate(-96deg); }
+    47% { transform: rotate(-60deg); }
+    63% { transform: rotate(210deg); }
+    71% { transform: rotate(186deg); }
+    86% { transform: rotate(301deg); }
+    100% { transform: rotate(497deg); }
+  }
+  @media (prefers-reduced-motion: reduce) { .needle { animation: none; } }
+
+  .text { max-width: 34rem; }
+  .where { margin: 0 0 0.5rem; font: 600 1rem var(--display); color: var(--sand); }
+  h1 { font-size: clamp(3.5rem, 17vw, 8rem); }
+  .text p { color: #e8e6de; }
+  .ways { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 2rem; }
+  .way {
+    display: inline-block; padding: 0.75rem 1.1rem; border: 2px solid var(--khaki); color: var(--white);
+    font: 700 1rem var(--display); text-decoration: none;
+  }
+  .way.primary { background: var(--sand); border-color: var(--sand); color: var(--black); }
+  .way:hover { background: var(--white); border-color: var(--white); color: var(--black); }
+
+  @media (min-width: 900px) {
+    .lost { grid-template-columns: auto 1fr; justify-content: center; justify-items: start; align-items: center; gap: 4rem; max-width: 70rem; margin: 0 auto; padding-inline: 2rem; }
+    .compass { width: 24rem; }
+  }
+</style>

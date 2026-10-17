@@ -1,24 +1,45 @@
 ---
-import { t } from '../i18n';
-import { allStages, stagePath } from '../lib/content';
 import { getCollection } from 'astro:content';
+import { getImage } from 'astro:assets';
+import { formatDate, t } from '../i18n';
+import { allStages, stagePath, tripPath } from '../lib/content';
 
-const colors = new Map((await getCollection('trips')).map((trip) => [trip.id, trip.data.color]));
-const markers = (await allStages()).map((s) => ({
-  lat: s.data.lat,
-  lng: s.data.lng,
-  title: s.data.title,
-  url: stagePath(s),
-  color: colors.get(s.data.trip.id),
-}));
+interface Props {
+  /** id of an element drawn over the map (bottom band or left column); markers are fitted around it. */
+  overlay?: string;
+}
+
+const { overlay } = Astro.props;
 const locale = Astro.currentLocale;
+const stages = await allStages();
+const trips = await Promise.all(
+  (await getCollection('trips')).map(async (trip) => ({
+    name: trip.data.name,
+    url: tripPath(trip),
+    color: trip.data.color,
+    stages: await Promise.all(
+      stages
+        .filter((s) => s.data.trip.id === trip.id)
+        .map(async (s, i) => ({
+          lat: s.data.lat,
+          lng: s.data.lng,
+          title: s.data.title,
+          url: stagePath(s),
+          n: t(locale, 'stage.number', { n: i + 1 }),
+          date: formatDate(locale, s.data.date),
+          thumb: (await getImage({ src: s.data.image, width: 480, height: 360, fit: 'cover', format: 'webp' })).src,
+        })),
+    ),
+  })),
+).then((all) => all.filter((trip) => trip.stages.length > 0));
 ---
 <div
   id="map"
   role="region"
   aria-label={t(locale, 'map.label')}
-  data-markers={JSON.stringify(markers)}
+  data-trips={JSON.stringify(trips)}
   data-attribution={t(locale, 'map.attribution')}
+  data-overlay={overlay}
 >
 </div>
 
@@ -26,26 +47,121 @@ const locale = Astro.currentLocale;
   import L from 'leaflet';
   import 'leaflet/dist/leaflet.css';
 
-  type Marker = { lat: number; lng: number; title: string; url: string; color: string };
+  type Stage = { lat: number; lng: number; title: string; url: string; n: string; date: string; thumb: string };
+  type Trip = { name: string; url: string; color: string; stages: Stage[] };
+
+  /** Below this zoom each trip is one pin; from it on, each stage has its own. */
+  const STAGES_ZOOM = 5;
 
   const el = document.getElementById('map')!;
-  const markers: Marker[] = JSON.parse(el.dataset.markers!);
-  const map = L.map(el, { scrollWheelZoom: false });
+  const trips: Trip[] = JSON.parse(el.dataset.trips!);
+  const map = L.map(el, { scrollWheelZoom: false, zoomSnap: 0.25 });
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 18,
     attribution: `<a href="https://www.openstreetmap.org/copyright">${el.dataset.attribution}</a>`,
   }).addTo(map);
-  for (const m of markers) {
-    const link = document.createElement('a');
-    link.href = m.url;
-    link.textContent = m.title;
-    L.circleMarker([m.lat, m.lng], { radius: 7, color: '#fff', weight: 1.5, fillColor: m.color, fillOpacity: 0.9 })
-      .bindPopup(link)
-      .addTo(map);
+
+  // The rider from the logo (stone, two wheels, head) on a white tag pointing at the place.
+  const rider = (color: string) =>
+    L.divIcon({
+      className: 'pin',
+      iconSize: [46, 34],
+      iconAnchor: [23, 34],
+      popupAnchor: [0, -30],
+      html: `<svg viewBox="0 0 46 34" width="46" height="34" aria-hidden="true">
+        <path d="M4 1h38a3 3 0 0 1 3 3v20a3 3 0 0 1-3 3H28l-5 6-5-6H4a3 3 0 0 1-3-3V4a3 3 0 0 1 3-3z" fill="#fff" stroke="rgb(0 0 0 / .25)"/>
+        <g transform="translate(3 2)" fill="none" stroke="${color}" stroke-width="2.6">
+          <polygon points="2,21 5.25,15 8.5,21" fill="${color}" stroke="none"/>
+          <circle cx="16" cy="14" r="5.2"/><circle cx="32" cy="14" r="5.2"/>
+          <circle cx="18" cy="3.5" r="2" fill="${color}" stroke="none"/>
+        </g></svg>`,
+    });
+
+  // Space covered by the overlay: a band along the bottom (narrow screens) or a column on the left (wide screens).
+  function covered() {
+    const overlay = el.dataset.overlay ? document.getElementById(el.dataset.overlay)?.getBoundingClientRect() : undefined;
+    const box = el.getBoundingClientRect();
+    const left = overlay && overlay.width < box.width * 0.7 ? overlay.right - box.left : 0;
+    const bottom = overlay && !left ? box.bottom - overlay.top : 0;
+    return { left, bottom };
   }
-  map.fitBounds(L.latLngBounds(markers.map((m) => [m.lat, m.lng])), { padding: [20, 20] });
+
+  function fit(bounds: L.LatLngBounds) {
+    const { left, bottom } = covered();
+    // Extra top padding: pins stand above their point.
+    map.fitBounds(bounds, { paddingTopLeft: [30 + left, 50], paddingBottomRight: [30, 20 + bottom], maxZoom: 9 });
+  }
+
+  // A stage popup is a small photo tile linking to the stage, built with DOM nodes (no HTML strings from content).
+  function popupFor(trip: Trip, s: Stage): HTMLElement {
+    const make = <K extends keyof HTMLElementTagNameMap>(tag: K, className: string, text?: string) => {
+      const node = document.createElement(tag);
+      node.className = className;
+      if (text) node.textContent = text;
+      return node;
+    };
+    const link = make('a', 'pop');
+    link.href = s.url;
+    const img = make('img', 'pop-img');
+    img.src = s.thumb;
+    img.alt = '';
+    img.loading = 'lazy';
+    const kicker = make('span', 'pop-kicker');
+    const dot = make('span', 'pop-dot');
+    dot.style.setProperty('--c', trip.color);
+    kicker.append(dot, `${trip.name}, ${s.n.toLowerCase()}`);
+    const body = make('span', 'pop-body');
+    body.append(kicker, make('span', 'pop-title', s.title), make('span', 'pop-date', s.date));
+    link.append(img, body);
+    return link;
+  }
+
+  const tripPins = L.layerGroup();
+  const stagePins = L.layerGroup();
+  for (const trip of trips) {
+    const icon = rider(trip.color);
+    const bounds = L.latLngBounds(trip.stages.map((s) => [s.lat, s.lng]));
+    // A trip's pin zooms into its stages.
+    L.marker(bounds.getCenter(), { icon, title: trip.name, alt: trip.name, riseOnHover: true })
+      .on('click', () => fit(bounds))
+      .addTo(tripPins);
+    for (const s of trip.stages) {
+      L.marker([s.lat, s.lng], { icon, title: s.title, alt: s.title, riseOnHover: true })
+        .bindPopup(popupFor(trip, s), { className: 'popup', maxWidth: 240, minWidth: 240 })
+        // Keep the open popup clear of the overlay.
+        .on('popupopen', (e) => {
+          const { left, bottom } = covered();
+          Object.assign(e.popup.options, { autoPanPaddingTopLeft: [10 + left, 10], autoPanPaddingBottomRight: [10, 10 + bottom] });
+        })
+        .addTo(stagePins);
+    }
+  }
+
+  const showPins = () => {
+    const detailed = map.getZoom() >= STAGES_ZOOM;
+    (detailed ? tripPins : stagePins).remove();
+    (detailed ? stagePins : tripPins).addTo(map);
+  };
+  map.on('zoomend', showPins);
+  fit(L.latLngBounds(trips.flatMap((trip) => trip.stages.map((s): [number, number] => [s.lat, s.lng]))));
+  showPins();
 </script>
 
 <style>
   #map { height: min(60vh, 520px); margin-bottom: 2rem; }
+  #map :global(.pin) { background: none; border: 0; filter: drop-shadow(0 1px 1.5px rgb(0 0 0 / 0.35)); }
+
+  /* Stage popups: a small photo tile with the text over the photo. */
+  #map :global(.popup .leaflet-popup-content-wrapper) { padding: 0; border-radius: 0; overflow: hidden; }
+  #map :global(.popup .leaflet-popup-content) { margin: 0; width: 240px !important; }
+  #map :global(.popup .leaflet-popup-tip) { background: #000; }
+  #map :global(.popup .leaflet-popup-close-button) { color: #fff; }
+  #map :global(.pop) { position: relative; display: block; color: #fff; text-decoration: none; background: #000; }
+  #map :global(.pop-img) { display: block; width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; }
+  #map :global(.pop-body) { position: absolute; inset: auto 0 0; padding: 2.5rem 0.85rem 0.75rem; background: linear-gradient(transparent, rgb(0 0 0 / 0.8) 45%); }
+  #map :global(.pop-kicker) { display: flex; align-items: center; gap: 0.4rem; font: 600 0.8rem/1.2 var(--display); color: var(--sand); }
+  #map :global(.pop-dot) { flex: none; width: 0.55rem; height: 0.55rem; border-radius: 50%; background: var(--c); box-shadow: 0 0 0 1.5px #fff; }
+  #map :global(.pop-title) { display: block; margin: 0.3rem 0; font: 850 1.5rem/0.95 var(--display); font-stretch: 62%; text-transform: uppercase; }
+  #map :global(.pop-date) { display: block; font: 0.8rem/1.3 var(--display); color: #e8e6de; }
+  #map :global(.pop:focus-visible) { outline: 3px solid var(--sand); outline-offset: -3px; }
 </style>
