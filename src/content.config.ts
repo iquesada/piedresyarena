@@ -35,12 +35,14 @@ const stages = defineCollection({
 
 const pages = defineCollection({
   loader: glob({ pattern: '**/index.md', base: 'src/content/pages', generateId: folderId }),
-  schema: z.object({
-    title: z.string(),
-    seoTitle: z.string().optional(),
-    seoDescription: z.string().optional(),
-    translationKey: z.string(),
-  }),
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      image: image().optional(),
+      seoTitle: z.string().optional(),
+      seoDescription: z.string().optional(),
+      translationKey: z.string(),
+    }),
 });
 
 export const collections = { trips, stages, pages };

@@ -36,18 +36,18 @@ MAX_EDGE = 1600
 
 # (slug, name, year, country, map colour)
 TRIPS = [
-    ('raid-al-magrib-2003', 'Raid Al Magrib', 2003, 'Marruecos', '#e6194b'),
-    ('mongolia-bike-challenge-2010', 'Mongolia Bike Challenge', 2010, 'Mongolia', '#3cb44b'),
-    ('jordania-2011', 'Jordania, de Madaba a Áqaba', 2011, 'Jordania', '#4363d8'),
-    ('etiopia-wild-bike-2012', 'Etiopía Wild Bike', 2012, 'Etiopía', '#f58231'),
-    ('camino-de-santiago-2013', 'Camino de Santiago con Planeta Bike', 2013, 'España', '#911eb4'),
-    ('namibia-2015', 'Namibia', 2015, 'Namibia', '#42d4f4'),
-    ('camino-primitivo-2016', 'Camino Primitivo', 2016, 'España', '#f032e6'),
-    ('ruta-de-la-plata-2016', 'Ruta de la Plata', 2016, 'España', '#9a6324'),
-    ('tanzania-2017', 'Tanzania', 2017, 'Tanzania', '#469990'),
-    ('eslovenia-2018', 'Eslovenia', 2018, 'Eslovenia', '#808000'),
-    ('georgia-2019', 'Georgia', 2019, 'Georgia', '#000075'),
-    ('ardennes-arbalete-2022', 'Ardennes Arbalète', 2022, 'Bélgica', '#800000'),
+    ('raid-al-magrib-2003', 'Raid Al Magrib', 2003, 'Marruecos', '#e15759'),
+    ('mongolia-bike-challenge-2010', 'Mongolia Bike Challenge', 2010, 'Mongolia', '#59a14f'),
+    ('jordania-2011', 'Jordania, de Madaba a Áqaba', 2011, 'Jordania', '#f28e2b'),
+    ('etiopia-wild-bike-2012', 'Etiopía Wild Bike', 2012, 'Etiopía', '#b07aa1'),
+    ('camino-de-santiago-2013', 'Camino de Santiago con Planeta Bike', 2013, 'España', '#4e79a7'),
+    ('namibia-2015', 'Namibia', 2015, 'Namibia', '#d4a017'),
+    ('camino-primitivo-2016', 'Camino Primitivo', 2016, 'España', '#9c755f'),
+    ('ruta-de-la-plata-2016', 'Ruta de la Plata', 2016, 'España', '#1b9e77'),
+    ('tanzania-2017', 'Tanzania', 2017, 'Tanzania', '#e377c2'),
+    ('eslovenia-2018', 'Eslovenia', 2018, 'Eslovenia', '#1f3a93'),
+    ('georgia-2019', 'Georgia', 2019, 'Georgia', '#17becf'),
+    ('ardennes-arbalete-2022', 'Ardennes Arbalète', 2022, 'Bélgica', '#bc6c25'),
 ]
 
 # old WordPress post_name -> (trip slug, new stage slug)

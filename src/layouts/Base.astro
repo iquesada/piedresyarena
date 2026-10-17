@@ -1,6 +1,8 @@
 ---
-import { Image } from 'astro:assets';
-import logo from '../assets/logo.png';
+import '@fontsource-variable/archivo/wdth.css';
+import '@fontsource-variable/source-serif-4/opsz.css';
+import '@fontsource-variable/source-serif-4/opsz-italic.css';
+import LogoIcon from '../components/LogoIcon.astro';
 import { t } from '../i18n';
 
 interface Props {
@@ -8,11 +10,16 @@ interface Props {
   seoTitle?: string;
   description?: string;
   noCanonical?: boolean;
+  /** The page opens with a full-bleed photo: the header is drawn over it. */
+  overlay?: boolean;
+  /** Dark page background (the home page and trip pages). */
+  dark?: boolean;
 }
 
-const { title, seoTitle, description, noCanonical } = Astro.props;
+const { title, seoTitle, description, noCanonical, overlay = false, dark = false } = Astro.props;
 const locale = Astro.currentLocale;
 const site = t(locale, 'site.title');
+const wordmark = site.replaceAll(' ', ''); // written as one word, like the original logo
 const fullTitle = seoTitle ?? (title ? `${title} | ${site}` : site);
 const canonical = new URL(Astro.url.pathname, Astro.site);
 ---
@@ -25,9 +32,9 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta name="description" content={description || t(locale, 'site.description')} />
     {!noCanonical && <link rel="canonical" href={canonical} />}
   </head>
-  <body>
-    <header>
-      <a href="/" class="logo"><Image src={logo} alt={site} layout="fixed" /></a>
+  <body class:list={{ dark }}>
+    <header class:list={['bar', { overlay }]}>
+      <a href="/" class="brand"><LogoIcon /><span>{wordmark}</span></a>
       <nav>
         <a href="/">{t(locale, 'nav.trips')}</a>
         <a href="/sobre-mi/">{t(locale, 'nav.about')}</a>
@@ -37,36 +44,108 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
       <slot />
     </main>
     <footer>
-      <p>{site} · {new Date().getFullYear()}</p>
+      <a href="/" class="brand"><LogoIcon /><span>{wordmark}</span></a>
+      <p>{t(locale, 'site.description')}</p>
     </footer>
   </body>
 </html>
 
 <style is:global>
   :root {
-    --content-width: 760px; /* keep in sync with sizes in astro.config.mjs */
-    --wide-width: 1120px;
-    --text: #222;
-    --muted: #666;
-    --accent: #b5521b;
-    --bar: #222;
+    --white: #ffffff;
+    --black: #000000;
+    --stone: #77736b;
+    --sand: #f0e887;
+    --khaki: #cfccaa;
+    --night: #1a1a17;
+    --display: 'Archivo Variable', 'Arial Narrow', sans-serif;
+    --serif: 'Source Serif 4 Variable', Georgia, serif;
+    --measure: 48rem; /* about 90 characters of body text */
+    --wide: 64rem; /* figures break out to this width: keep in sync with sizes in astro.config.mjs */
   }
   * { box-sizing: border-box; }
-  body { margin: 0; font: 1.0625rem/1.6 system-ui, sans-serif; color: var(--text); background: #fff; }
-  a { color: var(--accent); }
-  header { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: space-between; padding: 0.75rem 1rem; background: var(--bar); }
-  header .logo { display: block; line-height: 0; }
-  header nav { display: flex; gap: 1.25rem; }
-  header nav a { color: #fff; text-decoration: none; }
-  main { max-width: var(--wide-width); margin: 0 auto; padding: 1rem; }
-  footer { text-align: center; color: var(--muted); font-size: 0.875rem; padding: 2rem 1rem; }
-  h1 { line-height: 1.2; }
-  .prose { max-width: var(--content-width); margin: 0 auto; }
-  .prose img { display: block; margin: 0 auto; }
-  figure { margin: 1.5rem 0; }
-  figcaption { color: var(--muted); font-size: 0.9rem; text-align: center; margin-top: 0.4rem; }
-  .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 0.5rem; }
-  .gallery p { margin: 0; }
-  .embed iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; }
-  .meta { color: var(--muted); }
+  html { -webkit-text-size-adjust: 100%; }
+  body { margin: 0; background: var(--white); color: var(--black); font: 1.1875rem/1.65 var(--serif); font-optical-sizing: auto; }
+  body.dark { background: var(--night); color: var(--white); }
+  a { color: inherit; }
+  a:focus-visible { outline: 3px solid var(--sand); outline-offset: 2px; }
+  h1, h2, h3 { font-family: var(--display); line-height: 0.95; margin: 0; }
+
+  .bar {
+    display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+    padding: 0.9rem 1.1rem; background: var(--night); color: var(--white); font-family: var(--display);
+  }
+  .bar.overlay { position: absolute; inset: 0 0 auto; z-index: 1000; background: linear-gradient(rgb(0 0 0 / 0.55), transparent); }
+  .brand {
+    display: inline-flex; align-items: center; gap: 0.55rem; text-decoration: none;
+    font-family: var(--display); font-weight: 800; font-stretch: 112%; font-size: 1.05rem; letter-spacing: 0.02em; text-transform: uppercase;
+  }
+  .bar nav { display: flex; gap: 1.2rem; font-weight: 600; font-stretch: 90%; font-size: 1rem; }
+  .bar nav a { text-decoration: none; }
+  .bar nav a:hover { color: var(--sand); }
+  footer { background: var(--night); color: var(--khaki); padding: 3rem 1.1rem; display: grid; gap: 0.5rem; justify-items: start; }
+  footer .brand { color: var(--white); }
+  footer p { margin: 0; font-size: 1rem; }
+
+  /* Full-bleed photo opening of trip and stage pages, and the photo tiles. */
+  .opener { position: relative; overflow: hidden; color: var(--white); background: var(--black); }
+  .opener > img, .tile > img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; max-width: none; }
+  .opener::after, .tile::after { content: ''; position: absolute; inset: 40% 0 0; background: linear-gradient(transparent, rgb(0 0 0 / 0.78)); }
+  .opener-text, .tile-text { position: absolute; z-index: 1; inset: auto 0 0; padding: 1rem 1.1rem 1.25rem; }
+  .opener-text { padding-bottom: 2.25rem; }
+  .kicker { margin: 0 0 0.6rem; font-family: var(--display); font-weight: 600; font-size: 1rem; color: var(--sand); display: flex; align-items: center; gap: 0.5rem; }
+  .kicker a { text-decoration: none; }
+  .dot { flex: none; width: 0.65rem; height: 0.65rem; border-radius: 50%; background: var(--c); box-shadow: 0 0 0 2px rgb(255 255 255 / 0.85); }
+  .display { font-weight: 850; font-stretch: 62%; text-transform: uppercase; }
+  .tile { position: relative; display: block; aspect-ratio: 4 / 5; overflow: hidden; color: var(--white); text-decoration: none; background: var(--black); }
+  .tile > img { transition: transform 0.6s ease; }
+  .tile:hover > img { transform: scale(1.03); }
+  .tile:focus-visible { outline-offset: -4px; }
+  .tile h2 { font-size: clamp(2rem, 9vw, 3.25rem); font-weight: 800; font-stretch: 66%; text-transform: uppercase; }
+  .tile p { margin: 0.4rem 0 0; font-size: 1rem; }
+  .tiles { list-style: none; margin: 0; padding: 4px 0; display: grid; gap: 4px; }
+  @media (prefers-reduced-motion: reduce) { .tile > img { transition: none; } }
+  @media (min-width: 900px) {
+    .tiles { grid-template-columns: 1fr 1fr; }
+    .tile { aspect-ratio: 4 / 3; }
+  }
+
+  /* Long-form text: stages and standalone pages. */
+  .prose { max-width: var(--measure); margin: 0 auto; }
+  .prose p { margin: 0 0 1.2em; }
+  .prose a { text-decoration-thickness: 1px; text-underline-offset: 0.18em; }
+  .prose figure { margin: 2.5rem -1.1rem; }
+  .prose figure img { display: block; width: 100%; height: auto; }
+  .prose figcaption { font-family: var(--display); font-size: 0.9rem; color: var(--stone); padding: 0.5rem 1.1rem 0; }
+  .prose .embed { margin: 2rem -1.1rem; }
+  .prose .embed iframe { display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; }
+  .prose .gallery { display: grid; grid-template-columns: 1fr 1fr; gap: 4px; margin: 2rem -1.1rem; }
+  .prose .gallery p { margin: 0; }
+  .prose .gallery img { display: block; width: 100%; height: 100%; aspect-ratio: 1; object-fit: cover; }
+  .prose blockquote {
+    margin: 2.5rem 0; padding: 0; font-style: italic; font-size: clamp(1.75rem, 6vw, 2.6rem); line-height: 1.15;
+  }
+  .prose blockquote p { margin: 0; }
+  .prose blockquote p::before { content: '«'; }
+  .prose blockquote p::after { content: '»'; }
+  /* A gallery marked `strip` is a row of large photos scrolled sideways. */
+  .prose .gallery.strip {
+    display: flex; gap: 4px; overflow-x: auto; scroll-snap-type: x mandatory; overscroll-behavior-x: contain;
+    margin-bottom: 0.75rem; scrollbar-width: thin;
+  }
+  .prose .gallery.strip p { flex: 0 0 min(85%, 40rem); scroll-snap-align: center; }
+  .prose .gallery.strip img { aspect-ratio: 4 / 3; }
+  .strip-controls { display: flex; justify-content: flex-end; gap: 0.5rem; margin-bottom: 2rem; }
+  .strip-controls button {
+    width: 2.75rem; height: 2.75rem; border: 2px solid var(--black); background: none; color: var(--black);
+    font: 600 1.25rem var(--display); cursor: pointer;
+  }
+  .strip-controls button:hover { background: var(--black); color: var(--white); }
+  .strip-controls button:focus-visible { outline: 3px solid var(--sand); outline-offset: 2px; }
+  @media (min-width: 760px) {
+    .prose blockquote { margin-inline: -3rem; }
+    .prose figure, .prose .gallery { margin-inline: calc((min(100vw, var(--wide)) - var(--measure)) / -2); }
+    .prose .gallery { grid-template-columns: repeat(4, 1fr); }
+    .prose figcaption { padding-inline: 0; max-width: var(--measure); margin: 0 auto; }
+  }
 </style>

@@ -1,4 +1,5 @@
 ---
+import { Image } from 'astro:assets';
 import { t } from '../i18n';
 import { prevNext, stagePath, type Stage } from '../lib/content';
 
@@ -8,16 +9,33 @@ interface Props {
 
 const { prev, next } = await prevNext(Astro.props.stage);
 const locale = Astro.currentLocale;
+const links = [
+  { stage: prev, rel: 'prev', label: t(locale, 'stage.prev') },
+  { stage: next, rel: 'next', label: t(locale, 'stage.next') },
+].filter((l): l is { stage: Stage; rel: string; label: string } => Boolean(l.stage));
 ---
-{(prev || next) && (
-  <nav class="stage-nav">
-    {prev && <a rel="prev" href={stagePath(prev)}>← {t(locale, 'stage.prev')}<br /><span>{prev.data.title}</span></a>}
-    {next && <a rel="next" href={stagePath(next)}>{t(locale, 'stage.next')} →<br /><span>{next.data.title}</span></a>}
+{links.length > 0 && (
+  <nav class="stage-nav" aria-label={t(locale, 'trip.stages.label')}>
+    {links.map(({ stage, rel, label }) => (
+      <a rel={rel} href={stagePath(stage)} class="tile">
+        <Image src={stage.data.image} alt="" widths={[480, 760, 1080]} sizes="(min-width: 700px) 50vw, 100vw" />
+        <div class="tile-text">
+          <p class="kicker">{label}</p>
+          <h2>{stage.data.title}</h2>
+        </div>
+      </a>
+    ))}
   </nav>
 )}
 
 <style>
-  .stage-nav { display: flex; justify-content: space-between; gap: 1rem; margin: 2rem 0; }
-  .stage-nav a[rel='next'] { margin-left: auto; text-align: right; }
-  .stage-nav span { color: var(--muted); font-size: 0.9rem; }
+  .stage-nav { display: grid; gap: 4px; margin-top: 3rem; }
+  .tile { aspect-ratio: 16 / 9; }
+  .tile h2 { font-size: 2rem; }
+  .kicker { margin-bottom: 0.3rem; }
+  @media (min-width: 700px) {
+    .stage-nav { grid-template-columns: 1fr 1fr; }
+    .tile { aspect-ratio: 4 / 3; }
+    [rel='next'] { grid-column: 2; text-align: right; }
+  }
 </style>
