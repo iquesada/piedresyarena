@@ -39,7 +39,7 @@ src/lib/                    Content helpers and Markdown plugins
 src/components/             Astro components (map, logo icon, stage navigation)
 src/layouts/                Page layout
 src/pages/                  Routes
-public/                     Static files served as-is (CNAME)
+public/                     Static files served as-is (CNAME, favicons)
 tools/                      Migration script, its tests and the post-build check
 .github/workflows/          Build and deploy to GitHub Pages
 ```
