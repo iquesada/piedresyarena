@@ -1,0 +1,51 @@
+---
+import { t } from '../i18n';
+import { allStages, stagePath } from '../lib/content';
+import { getCollection } from 'astro:content';
+
+const colors = new Map((await getCollection('trips')).map((trip) => [trip.id, trip.data.color]));
+const markers = (await allStages()).map((s) => ({
+  lat: s.data.lat,
+  lng: s.data.lng,
+  title: s.data.title,
+  url: stagePath(s),
+  color: colors.get(s.data.trip.id),
+}));
+const locale = Astro.currentLocale;
+---
+<div
+  id="map"
+  role="region"
+  aria-label={t(locale, 'map.label')}
+  data-markers={JSON.stringify(markers)}
+  data-attribution={t(locale, 'map.attribution')}
+>
+</div>
+
+<script>
+  import L from 'leaflet';
+  import 'leaflet/dist/leaflet.css';
+
+  type Marker = { lat: number; lng: number; title: string; url: string; color: string };
+
+  const el = document.getElementById('map')!;
+  const markers: Marker[] = JSON.parse(el.dataset.markers!);
+  const map = L.map(el, { scrollWheelZoom: false });
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 18,
+    attribution: `<a href="https://www.openstreetmap.org/copyright">${el.dataset.attribution}</a>`,
+  }).addTo(map);
+  for (const m of markers) {
+    const link = document.createElement('a');
+    link.href = m.url;
+    link.textContent = m.title;
+    L.circleMarker([m.lat, m.lng], { radius: 7, color: '#fff', weight: 1.5, fillColor: m.color, fillOpacity: 0.9 })
+      .bindPopup(link)
+      .addTo(map);
+  }
+  map.fitBounds(L.latLngBounds(markers.map((m) => [m.lat, m.lng])), { padding: [20, 20] });
+</script>
+
+<style>
+  #map { height: min(60vh, 520px); margin-bottom: 2rem; }
+</style>

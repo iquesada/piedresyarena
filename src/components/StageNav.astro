@@ -1,0 +1,23 @@
+---
+import { t } from '../i18n';
+import { prevNext, stagePath, type Stage } from '../lib/content';
+
+interface Props {
+  stage: Stage;
+}
+
+const { prev, next } = await prevNext(Astro.props.stage);
+const locale = Astro.currentLocale;
+---
+{(prev || next) && (
+  <nav class="stage-nav">
+    {prev && <a rel="prev" href={stagePath(prev)}>← {t(locale, 'stage.prev')}<br /><span>{prev.data.title}</span></a>}
+    {next && <a rel="next" href={stagePath(next)}>{t(locale, 'stage.next')} →<br /><span>{next.data.title}</span></a>}
+  </nav>
+)}
+
+<style>
+  .stage-nav { display: flex; justify-content: space-between; gap: 1rem; margin: 2rem 0; }
+  .stage-nav a[rel='next'] { margin-left: auto; text-align: right; }
+  .stage-nav span { color: var(--muted); font-size: 0.9rem; }
+</style>

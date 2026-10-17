@@ -1,0 +1,22 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Map from '../components/Map.astro';
+import TripCard from '../components/TripCard.astro';
+import { stagesOf } from '../lib/content';
+
+// Trips without stages are skipped. Newest first; trips from the same year by their first stage's date.
+const all = await Promise.all((await getCollection('trips')).map(async (trip) => ({ trip, first: (await stagesOf(trip.id))[0] })));
+const trips = all.filter(({ first }) => first).map(({ trip, first }) => ({ trip, start: first!.data.date.getTime() }));
+trips.sort((a, b) => b.trip.data.year - a.trip.data.year || b.start - a.start);
+---
+<Base>
+  <Map />
+  <div class="cards">
+    {trips.map(({ trip }) => <TripCard trip={trip} />)}
+  </div>
+</Base>
+
+<style>
+  .cards { display: grid; gap: 2rem 1.5rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); }
+</style>

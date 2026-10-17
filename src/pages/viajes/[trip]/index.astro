@@ -1,0 +1,46 @@
+---
+import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
+import Base from '../../../layouts/Base.astro';
+import { formatDate, stageCount } from '../../../i18n';
+import { stagePath, stagesOf, type Stage, type Trip } from '../../../lib/content';
+
+export async function getStaticPaths() {
+  const trips = await getCollection('trips');
+  const withStages = await Promise.all(trips.map(async (trip) => ({ trip, stages: await stagesOf(trip.id) })));
+  return withStages
+    .filter(({ stages }) => stages.length > 0)
+    .map(({ trip, stages }) => ({ params: { trip: trip.id }, props: { trip, stages } }));
+}
+
+const { trip, stages } = Astro.props as { trip: Trip; stages: Stage[] };
+const locale = Astro.currentLocale;
+---
+<Base title={trip.data.name}>
+  <h1>{trip.data.name}</h1>
+  <p class="meta">{trip.data.country} · {trip.data.year} · {stageCount(locale, stages.length)}</p>
+  <ol class="stages">
+    {stages.map((s) => (
+      <li>
+        <a href={stagePath(s)}>
+          <Image src={s.data.image} alt="" width={240} height={160} sizes="240px" layout="fixed" />
+        </a>
+        <div>
+          <h2><a href={stagePath(s)}>{s.data.title}</a></h2>
+          <p class="meta">{formatDate(locale, s.data.date)}</p>
+          {s.data.description && <p>{s.data.description}</p>}
+        </div>
+      </li>
+    ))}
+  </ol>
+</Base>
+
+<style>
+  .stages { list-style: none; padding: 0; display: grid; gap: 1.5rem; }
+  .stages li { display: grid; grid-template-columns: 240px 1fr; gap: 1rem; align-items: start; }
+  .stages h2 { font-size: 1.2rem; margin: 0; }
+  .stages p { margin: 0.25rem 0 0; }
+  @media (max-width: 560px) {
+    .stages li { grid-template-columns: 1fr; }
+  }
+</style>

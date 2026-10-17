@@ -1,0 +1,37 @@
+---
+import { render } from 'astro:content';
+import { Image } from 'astro:assets';
+import Base from '../../../layouts/Base.astro';
+import StageNav from '../../../components/StageNav.astro';
+import { formatDate } from '../../../i18n';
+import { allStages, tripOf, tripPath, type Stage } from '../../../lib/content';
+
+export async function getStaticPaths() {
+  return (await allStages()).map((stage) => {
+    const [, folderTrip, slug] = stage.id.split('/');
+    if (folderTrip !== stage.data.trip.id) {
+      throw new Error(`src/content/stages/${stage.id}/index.md: front matter trip "${stage.data.trip.id}" does not match its folder "${folderTrip}"`);
+    }
+    return { params: { trip: stage.data.trip.id, stage: slug }, props: { stage } };
+  });
+}
+
+const { stage } = Astro.props as { stage: Stage };
+const { Content } = await render(stage);
+const trip = await tripOf(stage);
+const { title, date, image, description, seoTitle, seoDescription } = stage.data;
+const locale = Astro.currentLocale;
+---
+<Base title={title} seoTitle={seoTitle} description={seoDescription ?? description}>
+  <article class="prose">
+    <h1>{title}</h1>
+    <p class="meta">
+      <time datetime={date.toISOString().slice(0, 10)}>{formatDate(locale, date)}</time> ·
+      <a href={tripPath(trip)}>{trip.data.name}</a>
+    </p>
+    {/* 760 = --content-width in Base.astro and sizes.content in astro.config.mjs; keep in sync. */}
+    <Image src={image} alt="" width={760} sizes="(min-width: 760px) 760px, 100vw" priority />
+    <Content />
+    <StageNav stage={stage} />
+  </article>
+</Base>

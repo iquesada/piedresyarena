@@ -1,0 +1,13 @@
+---
+import Base from '../layouts/Base.astro';
+import { t } from '../i18n';
+
+const locale = Astro.currentLocale;
+---
+<Base title={t(locale, 'notFound.title')} noCanonical>
+  <div class="prose">
+    <h1>{t(locale, 'notFound.title')}</h1>
+    <p>{t(locale, 'notFound.text')}</p>
+    <p><a href="/">{t(locale, 'notFound.home')}</a></p>
+  </div>
+</Base>

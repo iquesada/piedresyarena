@@ -1,0 +1,14 @@
+---
+import { getEntry, render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+
+const page = (await getEntry('pages', 'es/sobre-mi'))!;
+const { Content } = await render(page);
+const { title, seoTitle, seoDescription } = page.data;
+---
+<Base title={title} seoTitle={seoTitle} description={seoDescription}>
+  <article class="prose">
+    <h1>{title}</h1>
+    <Content />
+  </article>
+</Base>
