@@ -3,6 +3,7 @@ import '@fontsource-variable/archivo/wdth.css';
 import '@fontsource-variable/source-serif-4/opsz.css';
 import '@fontsource-variable/source-serif-4/opsz-italic.css';
 import LogoIcon from '../components/LogoIcon.astro';
+import InstagramLink from '../components/InstagramLink.astro';
 import { t } from '../i18n';
 
 interface Props {
@@ -49,6 +50,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <footer>
       <a href="/" class="brand"><LogoIcon /><span>{wordmark}</span></a>
       <p>{t(locale, 'site.description')}</p>
+      <InstagramLink />
     </footer>
   </body>
 </html>

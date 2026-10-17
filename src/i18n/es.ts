@@ -3,6 +3,7 @@ export default {
   'site.description': 'Blog de viajes en bicicleta por el mundo.',
   'nav.trips': 'Viajes',
   'nav.about': 'Sobre mí',
+  'social.instagram': 'Sígueme en Instagram',
   'stage.prev': 'Etapa anterior',
   'stage.next': 'Siguiente etapa',
   'trip.stages': '{n} etapas',
