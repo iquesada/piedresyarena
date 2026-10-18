@@ -26,4 +26,4 @@ En la parte final del viaje pasé por el imponente <a href="https://goo.gl/maps/
 
 ![](./wine.jpg)
 
-Y de ahí hasta el final, poco más que contar. Finalmente llegué a Telavi, donde pude relajarme en la ciudad más tranuila de todas las que he visto a mi paso por Georgia. He de reconocer que el viaje no funcionó como esperaba pero, con todo, me queda un gran sabor de boca de mi paso por Georgia. Unos paisajes maravillosos, una gente encantadora y una gastronomía que, si no la habéis probado, os la recomiendo.
+Y de ahí hasta el final, poco más que contar. Finalmente llegué a Telavi, donde pude relajarme en la ciudad más tranquila de todas las que he visto a mi paso por Georgia. He de reconocer que el viaje no funcionó como esperaba pero, con todo, me queda un gran sabor de boca de mi paso por Georgia. Unos paisajes maravillosos, una gente encantadora y una gastronomía que, si no la habéis probado, os la recomiendo.

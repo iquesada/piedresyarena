@@ -10,7 +10,7 @@ image: "./roads.jpg"
 translationKey: "georgia-2019/5-de-shatili-a-zhinvali"
 ---
 
-En Shatili tenía dos opciones: seguir hacia el sureste y atravesar el Atsunta, o bien volver sobre mis pasos. El paso del Atsunta parece espectacular, y sin duda merece la pena. Pero no voy equipado para la ocasión; hacer el paso en un solo día no parece factible, y no me he traido la tienda de campaña ni hornillo, así que habrá que dejarlo para otra ocasión.
+En Shatili tenía dos opciones: seguir hacia el sureste y atravesar el Atsunta, o bien volver sobre mis pasos. El paso del Atsunta parece espectacular, y sin duda merece la pena. Pero no voy equipado para la ocasión; hacer el paso en un solo día no parece factible, y no me he traído la tienda de campaña ni hornillo, así que habrá que dejarlo para otra ocasión.
 
 Así pues, doy la vuelta rumbo a Zhinvali. Esta vez no haré parada intermedia, sino que haré el recorrido completo. Son muchos kilómetros, pero una vez se corone el puerto, el terreno es muy favorable. Siempre en ligero descenso. Pero claro, primero hay que coronar el larguísimo puerto que descendí hace ya dos días.
 
@@ -20,9 +20,9 @@ Desde una zona más o menos segura, intento hacer señas y grito para que me oig
 
 El tiempo es fresco,  se agradece para una subida tan dura. Ésta cara es más corta y dura que la otra, y algunas rampas tienen tanta inclinación que tengo que echar pie a tierra y empujar la bici. Además, curiosamente, no siempre el terreno está bien pisado lo que hace que me hunda de tanto en tanto. En definitiva, es un terreno bastante pegajoso. Y así, entre piedras y empujones a la bici, llego a la cima.
 
-Noto la subida de temperatura al cambiar de vertiente. De ahora en adelante, me limito a soltar frenos y dejarme caer. La bajada es muy larga y me obliga a pedalear durante un buen rato. Me cruzo con un buen número de camiones que levantan muchísimo polvo y acabo como si me hubiese revolcado por el suelo..
+Noto la subida de temperatura al cambiar de vertiente. De ahora en adelante, me limito a soltar frenos y dejarme caer. La bajada es muy larga y me obliga a pedalear durante un buen rato. Me cruzo con un buen número de camiones que levantan muchísimo polvo y acabo como si me hubiese revolcado por el suelo.
 
-Antes de llegar a destino, paro en un pequeño bar para comer algo. Lo lleva una familia muy simpática. La mujer habla italiano, y así poco a poco nos vamos entendiendo. Me cuenta que trabaja varios meses al año en Italia, en la vendimia (o eso quiero entender) . Total, que pPensaba en pedir algo para llenar el estómago, sin más, pero acabo comiendo los mejores <a href="https://es.wikipedia.org/wiki/Khinkali">khinkalis</a> de todo el viaje. Eso sí, he de reconocer que me dejé llevar por la gula y comí más de la cuenta. Afortunadamente, ¡el camino sigue siendo favorable!
+Antes de llegar a destino, paro en un pequeño bar para comer algo. Lo lleva una familia muy simpática. La mujer habla italiano, y así poco a poco nos vamos entendiendo. Me cuenta que trabaja varios meses al año en Italia, en la vendimia (o eso quiero entender) . Total, que pensaba en pedir algo para llenar el estómago, sin más, pero acabo comiendo los mejores <a href="https://es.wikipedia.org/wiki/Khinkali">khinkalis</a> de todo el viaje. Eso sí, he de reconocer que me dejé llevar por la gula y comí más de la cuenta. Afortunadamente, ¡el camino sigue siendo favorable!
 
 ![Khinkali](./khinkali.jpg)
 
