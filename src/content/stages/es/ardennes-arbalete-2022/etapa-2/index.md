@@ -12,13 +12,13 @@ translationKey: "ardennes-arbalete-2022/etapa-2"
 
 ¿Cómo iba a amanecer hoy? Sorpresa... de las buenas. Aunque frío, el día amanece despejado, lo que anima mucho a pedalear. Al poco de salir de Malmedy ya me meto en bosques. Discurro toda la mañana por estrechos senderos que me llevan de un bosque a otro, cruzados de tarde en tarde por una carretera, y vuelta al sendero. ¡El sueño de cualquier ciclista!
 
-Me salgo de los senderos un momento para uno de los vicios ciclistas más extendidos: tomar un café con un pastel. Cual sería mi sorpresa cuando, una vez me había acostumbrado al <em>bonjour</em>, al entrar en la cafetería me saludan con un <em>guten morgen</em>. Sin darme cuenta había entrado en zona de habla alemana. Lo cierto es que, de cara al viajero, tiene su gracia.
+Me salgo de los senderos un momento para uno de los vicios ciclistas más extendidos: tomar un café con un pastel. Cuál sería mi sorpresa cuando, una vez me había acostumbrado al <em>bonjour</em>, al entrar en la cafetería me saludan con un <em>Guten Morgen</em>. Sin darme cuenta había entrado en zona de habla alemana. Lo cierto es que, de cara al viajero, tiene su gracia.
 
 Después de la pausa para el café vuelvo a los senderos. Esta zona es especialmente bonita. Los senderos están limpios, los árboles me permiten rodar a la sombra...
 
 ![](./IMG_20220708_111444.jpg)
 
-... y hasta tengo arándanos grátis.
+... y hasta tengo arándanos gratis.
 
 ![](./IMG_20220708_111424.jpg)
 
@@ -26,4 +26,4 @@ Una cosa que me llama la atención es que, de las pocas veces que me salgo de lo
 
 ![](./IMG_20220708_202748.jpg)
 
-El último de estos cementerios que visitaré se encuentra en Houffalize, destino final de mi ruta en el día de hoy. Tras montar mi tienda de campaña en el camping y antes de irme a dormir, aplaco mi hambre a base de freuduría belga. Sin duda, una mala elección para una cena. Pero había que probarla.
+El último de estos cementerios que visitaré se encuentra en Houffalize, destino final de mi ruta en el día de hoy. Tras montar mi tienda de campaña en el camping y antes de irme a dormir, aplaco mi hambre a base de freiduría belga. Sin duda, una mala elección para una cena. Pero había que probarla.

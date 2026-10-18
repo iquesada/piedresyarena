@@ -10,7 +10,7 @@ image: "./couettes.jpg"
 translationKey: "ardennes-arbalete-2022/etapa-4"
 ---
 
-El siguiente fue el peor día de todos, sobre todo en el inicio. Me desperté con migraña. No terrible, porque no mme habría dejado continuar, pero sí bastante fuerte. Demasiado tarde par tomar algún medicamento. Desmonté la tienda con pocas ganas y bajé al pueblo, donde traté de desayunar algo. A duras penas me metí un café y medio croissant, ya que a mis migrañas les suelen acompañar las nauseas, e intenté continuar. A pesar de todo, aún me quedaron ganas de sacar algunas (pocas) fotos.
+El siguiente fue el peor día de todos, sobre todo en el inicio. Me desperté con migraña. No terrible, porque no me habría dejado continuar, pero sí bastante fuerte. Demasiado tarde para tomar algún medicamento. Desmonté la tienda con pocas ganas y bajé al pueblo, donde traté de desayunar algo. A duras penas me metí un café y medio croissant, ya que a mis migrañas les suelen acompañar las náuseas, e intenté continuar. A pesar de todo, aún me quedaron ganas de sacar algunas (pocas) fotos.
 
 ![](./selfie1.jpg)
 
@@ -18,6 +18,6 @@ Por fortuna la migraña fue remitiendo poco a poco hasta desaparecer, lo que me 
 
 ![](./alojamiento.jpg)
 
-Finalmente pude disfrutar de la hospitalidad de la familia francesa dueña de este alojamiento, de su comida (tremendo desayuno) e includo jugar hasta caer agotado (literalmente) con su perro. Un cachorro que, sin duda, tenía más energía que yo.
+Finalmente pude disfrutar de la hospitalidad de la familia francesa dueña de este alojamiento, de su comida (tremendo desayuno) e incluso jugar hasta caer agotado (literalmente) con su perro. Un cachorro que, sin duda, tenía más energía que yo.
 
 ![](./descanso.jpg)
