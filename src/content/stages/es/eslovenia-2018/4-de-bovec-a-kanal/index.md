@@ -4,7 +4,7 @@ date: 2018-08-03
 trip: "eslovenia-2018"
 lat: 46.33653849532159
 lng: 13.55822368438703
-description: "Por el valle del Soca"
+description: "Por el valle del Soča"
 image: "./soca_mountain.jpg"
 translationKey: "eslovenia-2018/4-de-bovec-a-kanal"
 ---
@@ -23,11 +23,11 @@ Una sucesión de <em>zetas</em> me esperan, para perder en poco tiempo los metro
 
 ![](./stol_downhill.jpg)
 
-Desde ahí, mucha carretera y carril bici. Y sobre todo, mucho calor. Se nota que he perdido metros (el resto de la ruta ronda los 200 metros sobre el nivel del mar) y que estoy metido en un valle (el valle del Soca). Poco más adelante, por una carretera poco recomendable para montar en bici (mucho tráfico y sin arcén) me detengo a beber algo en un Grill-Bar de carretera. La intención era simplemente beber algo, con este calor apetece poco comer, y mucho menos meterme un trozo de carne a la parrilla. Eso mismo le digo al camarero, pero me sorprende con una pregunta: ¿qué tal una hamburguesa vegetal, con verduras a la parrilla? Creo que todos conocemos ese momento en el que tu boca empieza a segregar saliva y algo dentro de ti te dice que no puede aguantar un minuto más sin comer. Así que, tranquilamente, le digo al camarero que coja mi dinero y me traiga mi hamburguesa.
+Desde ahí, mucha carretera y carril bici. Y sobre todo, mucho calor. Se nota que he perdido metros (el resto de la ruta ronda los 200 metros sobre el nivel del mar) y que estoy metido en un valle (el valle del Soča). Poco más adelante, por una carretera poco recomendable para montar en bici (mucho tráfico y sin arcén) me detengo a beber algo en un Grill-Bar de carretera. La intención era simplemente beber algo, con este calor apetece poco comer, y mucho menos meterme un trozo de carne a la parrilla. Eso mismo le digo al camarero, pero me sorprende con una pregunta: ¿qué tal una hamburguesa vegetal, con verduras a la parrilla? Creo que todos conocemos ese momento en el que tu boca empieza a segregar saliva y algo dentro de ti te dice que no puede aguantar un minuto más sin comer. Así que, tranquilamente, le digo al camarero que coja mi dinero y me traiga mi hamburguesa.
 
 ![](./hamburger.jpg)
 
-Con la panza llena sigo ruta, y el calor aprieta cada vez más. Me desvío en cuanto puedo de esta carretera para volver a otro carril bici. Sigo alucinando con la cantidad, y calidad, de estos carriles. El río está justo a mi lado, así que busco una zona tranquila para darme un chapuzón. Esperaba un agua muy fría, ya que por mucho calor que haga el agua de río suele estar mantener su temperatura. Pero no, lo cierto es que la temperatura es muy agradable.
+Con la panza llena sigo ruta, y el calor aprieta cada vez más. Me desvío en cuanto puedo de esta carretera para volver a otro carril bici. Sigo alucinando con la cantidad, y calidad, de estos carriles. El río está justo a mi lado, así que busco una zona tranquila para darme un chapuzón. Esperaba un agua muy fría, ya que por mucho calor que haga el agua de río suele mantener su temperatura. Pero no, lo cierto es que la temperatura es muy agradable.
 
 ![](./socha_river.jpg)
 
