@@ -26,7 +26,7 @@ La pista es ascendente en todo momento. La pendiente no es muy pronunciada y el 
 
 La pista es tendida en algunas zonas y empinada en otras, y siempre muy polvorienta. La ruta me está deleitando con estupendas vistas, gracias a la altitud y a un día tan despejado. Eso sí, tengo ganas de llegar a Shatili.
 
-Shatili es un pequeño pueblo histórico de Georgia, propuesto como <a href="https://whc.unesco.org/fr/listesindicatives/5232/" target="_blank" rel="noopener noreferrer">patrimonio mundial por la Unesco</a>. Se encuentra situado en la vertiente norte del cáucaso, en la región de Khevsureti, muy cerca de la frontera con Chechenia. Intentaré alojarme en un guesthouse en el centro de la fortaleza. Será, sin duda, uno de los puntos más interesantes del viaje, y también el más remoto (que no inaccesible). Llegar hasta allí, bien sea en bici o en coche, es un pequeño desafío.
+Shatili es un pequeño pueblo histórico de Georgia, propuesto como <a href="https://whc.unesco.org/fr/listesindicatives/5232/" target="_blank" rel="noopener noreferrer">patrimonio mundial por la Unesco</a>. Se encuentra situado en la vertiente norte del Cáucaso, en la región de Khevsureti, muy cerca de la frontera con Chechenia. Intentaré alojarme en un guesthouse en el centro de la fortaleza. Será, sin duda, uno de los puntos más interesantes del viaje, y también el más remoto (que no inaccesible). Llegar hasta allí, bien sea en bici o en coche, es un pequeño desafío.
 
 ![Pshav-Khevsureti](./P1110472.jpg)
 
@@ -46,7 +46,7 @@ La pista discurre río abajo, cambiando de margen cada poco. Prácticamente no h
 
 ![Pshav-Khevsureti valley](./P1110480.jpg)
 
-Y casi sin darme cuenta, tras una curva, me encuentro con la maravillosa estampa de Shatili. Una ciudad de otra época  en lo más profundo del cáucaso que se conserva como en la antigüedad. No me puedo creer que hoy vaya a dormir ahí, dentro de una de esas casas.
+Y casi sin darme cuenta, tras una curva, me encuentro con la maravillosa estampa de Shatili. Una ciudad de otra época  en lo más profundo del Cáucaso que se conserva como en la antigüedad. No me puedo creer que hoy vaya a dormir ahí, dentro de una de esas casas.
 
 ![Shatili](./P1110492.jpg)
 

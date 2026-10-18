@@ -1,11 +1,11 @@
 ---
 import Map from './Map.astro';
-import { t } from '../i18n';
+import { t, toLocale } from '../i18n';
 import { allStages } from '../lib/content';
 
-const stages = await allStages();
+const locale = toLocale(Astro.currentLocale);
+const stages = await allStages(locale);
 const trips = new Set(stages.map((s) => s.data.trip.id)).size;
-const locale = Astro.currentLocale;
 ---
 <section class="atlas">
   <Map overlay="atlas-title" />

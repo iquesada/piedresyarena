@@ -4,7 +4,8 @@ import '@fontsource-variable/source-serif-4/opsz.css';
 import '@fontsource-variable/source-serif-4/opsz-italic.css';
 import LogoIcon from '../components/LogoIcon.astro';
 import InstagramLink from '../components/InstagramLink.astro';
-import { t } from '../i18n';
+import { englishPublic, t, toLocale } from '../i18n';
+import { aboutPath, homePath } from '../lib/content';
 
 interface Props {
   title?: string;
@@ -15,14 +16,20 @@ interface Props {
   overlay?: boolean;
   /** Dark page background (the home page and trip pages). */
   dark?: boolean;
+  /** URL of this page in the other language, if it has one. */
+  alternate?: string;
 }
 
-const { title, seoTitle, description, noCanonical, overlay = false, dark = false } = Astro.props;
-const locale = Astro.currentLocale;
+const { title, seoTitle, description, noCanonical, overlay = false, dark = false, alternate } = Astro.props;
+const locale = toLocale(Astro.currentLocale);
+const other = locale === 'es' ? 'en' : 'es';
 const site = t(locale, 'site.title');
 const wordmark = site.replaceAll(' ', ''); // written as one word, like the original logo
 const fullTitle = seoTitle ?? (title ? `${title} | ${site}` : site);
 const canonical = new URL(Astro.url.pathname, Astro.site);
+// Switcher and hreflang stay hidden until English is public.
+const switchTo = englishPublic ? alternate : undefined;
+const versions = switchTo && { [locale]: canonical, [other]: new URL(switchTo, Astro.site) };
 ---
 <!doctype html>
 <html lang={locale}>
@@ -35,20 +42,24 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     {!noCanonical && <link rel="canonical" href={canonical} />}
+    {versions && ['es', 'en'].map((l) => <link rel="alternate" hreflang={l} href={versions[l]} />)}
+    {versions && <link rel="alternate" hreflang="x-default" href={versions.es} />}
+    {locale === 'en' && !englishPublic && <meta name="robots" content="noindex" />}
   </head>
   <body class:list={{ dark }}>
     <header class:list={['bar', { overlay }]}>
-      <a href="/" class="brand"><LogoIcon /><span>{wordmark}</span></a>
+      <a href={homePath(locale)} class="brand"><LogoIcon /><span>{wordmark}</span></a>
       <nav>
-        <a href="/">{t(locale, 'nav.trips')}</a>
-        <a href="/sobre-mi/">{t(locale, 'nav.about')}</a>
+        <a href={homePath(locale)}>{t(locale, 'nav.trips')}</a>
+        <a href={aboutPath(locale)}>{t(locale, 'nav.about')}</a>
+        {switchTo && <a href={switchTo} hreflang={other} lang={other} aria-label={t(other, 'lang.switch')}>{other.toUpperCase()}</a>}
       </nav>
     </header>
     <main>
       <slot />
     </main>
     <footer>
-      <a href="/" class="brand"><LogoIcon /><span>{wordmark}</span></a>
+      <a href={homePath(locale)} class="brand"><LogoIcon /><span>{wordmark}</span></a>
       <p>{t(locale, 'site.description')}</p>
       <InstagramLink />
     </footer>

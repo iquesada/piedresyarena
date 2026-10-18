@@ -1,8 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
 import { getImage } from 'astro:assets';
-import { formatDate, t } from '../i18n';
-import { allStages, stagePath, tripPath } from '../lib/content';
+import { formatDate, t, toLocale } from '../i18n';
+import { allStages, stagePath, tripPath, tripText } from '../lib/content';
 
 interface Props {
   /** id of an element that may be drawn over the map (bottom band or left column); markers are fitted around it. */
@@ -10,12 +10,12 @@ interface Props {
 }
 
 const { overlay } = Astro.props;
-const locale = Astro.currentLocale;
-const stages = await allStages();
+const locale = toLocale(Astro.currentLocale);
+const stages = await allStages(locale);
 const trips = await Promise.all(
   (await getCollection('trips')).map(async (trip) => ({
-    name: trip.data.name,
-    url: tripPath(trip),
+    name: tripText(locale, trip).name,
+    url: tripPath(locale, trip),
     color: trip.data.color,
     stages: await Promise.all(
       stages

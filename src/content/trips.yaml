@@ -3,58 +3,94 @@
   year: 2003
   country: "Marruecos"
   color: "#e15759"
+  en:
+    name: "Raid Al Magrib"
+    country: "Morocco"
 - id: "mongolia-bike-challenge-2010"
   name: "Mongolia Bike Challenge"
   year: 2010
   country: "Mongolia"
   color: "#59a14f"
+  en:
+    name: "Mongolia Bike Challenge"
+    country: "Mongolia"
 - id: "jordania-2011"
   name: "Jordania, de Madaba a Áqaba"
   year: 2011
   country: "Jordania"
   color: "#f28e2b"
+  en:
+    name: "Jordan, from Madaba to Aqaba"
+    country: "Jordan"
 - id: "etiopia-wild-bike-2012"
   name: "Etiopía Wild Bike"
   year: 2012
   country: "Etiopía"
   color: "#b07aa1"
+  en:
+    name: "Ethiopia Wild Bike"
+    country: "Ethiopia"
 - id: "camino-de-santiago-2013"
   name: "Camino de Santiago con Planeta Bike"
   year: 2013
   country: "España"
   color: "#4e79a7"
+  en:
+    name: "Camino de Santiago with Planeta Bike"
+    country: "Spain"
 - id: "namibia-2015"
   name: "Namibia"
   year: 2015
   country: "Namibia"
   color: "#d4a017"
+  en:
+    name: "Namibia"
+    country: "Namibia"
 - id: "camino-primitivo-2016"
   name: "Camino Primitivo"
   year: 2016
   country: "España"
   color: "#9c755f"
+  en:
+    name: "Camino Primitivo"
+    country: "Spain"
 - id: "ruta-de-la-plata-2016"
   name: "Ruta de la Plata"
   year: 2016
   country: "España"
   color: "#1b9e77"
+  en:
+    name: "Ruta de la Plata"
+    country: "Spain"
 - id: "tanzania-2017"
   name: "Tanzania"
   year: 2017
   country: "Tanzania"
   color: "#e377c2"
+  en:
+    name: "Tanzania"
+    country: "Tanzania"
 - id: "eslovenia-2018"
   name: "Eslovenia"
   year: 2018
   country: "Eslovenia"
   color: "#1f3a93"
+  en:
+    name: "Slovenia"
+    country: "Slovenia"
 - id: "georgia-2019"
   name: "Georgia"
   year: 2019
   country: "Georgia"
   color: "#17becf"
+  en:
+    name: "Georgia"
+    country: "Georgia"
 - id: "ardennes-arbalete-2022"
   name: "Ardennes Arbalète"
   year: 2022
   country: "Bélgica"
   color: "#bc6c25"
+  en:
+    name: "Ardennes Arbalète"
+    country: "Belgium"

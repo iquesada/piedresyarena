@@ -2,7 +2,7 @@ import { defineCollection, reference } from 'astro:content';
 import { file, glob } from 'astro/loaders';
 import { z } from 'astro/zod';
 
-// `es/<trip>/<stage>/index.md` -> `es/<trip>/<stage>`
+// `<trip>/<stage>/index.md` -> `<trip>/<stage>`, `es/sobre-mi/index.md` -> `es/sobre-mi`
 const folderId = ({ entry }: { entry: string }) => entry.replace(/\/index\.md$/, '');
 
 const trips = defineCollection({
@@ -12,11 +12,13 @@ const trips = defineCollection({
     year: z.number().int(),
     country: z.string(),
     color: z.string(),
+    en: z.object({ name: z.string(), country: z.string() }),
   }),
 });
 
+// Spanish stages. The id (`<trip>/<stage>`) is also their translationKey.
 const stages = defineCollection({
-  loader: glob({ pattern: '**/index.md', base: 'src/content/stages', generateId: folderId }),
+  loader: glob({ pattern: '**/index.md', base: 'src/content/stages/es', generateId: folderId }),
   schema: ({ image }) =>
     z.object({
       title: z.string(),
@@ -33,6 +35,18 @@ const stages = defineCollection({
     }),
 });
 
+// English stages hold only their text: the rest comes from the Spanish stage named by translationKey.
+const stageTranslations = defineCollection({
+  loader: glob({ pattern: '**/index.md', base: 'src/content/stages/en', generateId: folderId }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    seoTitle: z.string().optional(),
+    seoDescription: z.string().optional(),
+    translationKey: z.string(),
+  }),
+});
+
 const pages = defineCollection({
   loader: glob({ pattern: '**/index.md', base: 'src/content/pages', generateId: folderId }),
   schema: ({ image }) =>
@@ -45,4 +59,4 @@ const pages = defineCollection({
     }),
 });
 
-export const collections = { trips, stages, pages };
+export const collections = { trips, stages, stageTranslations, pages };

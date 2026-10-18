@@ -22,7 +22,7 @@ Empiezo por una carretera bien asfaltada que me lleva a lo alto del embalse... p
 
 ![](./sleep.jpg)
 
-Por desgracia, este viaje lo estoy haciendo sin mi bolsa de manillar, la cual me es muy útil para tener a mano los objetos de uso común, como la cámara de fotos. La bolsa ha venido conmigo, pero se ha tenido que quedar en el hotel de Tblisi porque su soporte para el manillar se rompió durante el viaje. Lección aprendida, en el próximo viaje lo llevaré desmontado.
+Por desgracia, este viaje lo estoy haciendo sin mi bolsa de manillar, la cual me es muy útil para tener a mano los objetos de uso común, como la cámara de fotos. La bolsa ha venido conmigo, pero se ha tenido que quedar en el hotel de Tbilisi porque su soporte para el manillar se rompió durante el viaje. Lección aprendida, en el próximo viaje lo llevaré desmontado.
 
 Rápidamente la carretera se convierte en una pista. Hay muy poco tráfico, la temperatura es agradable y la subida es suave. Además, el paisaje ha cambiado y es mucho más verde. Disfrute total.
 
@@ -30,7 +30,7 @@ Rápidamente la carretera se convierte en una pista. Hay muy poco tráfico, la t
 
 La pista va cruzando, cada poco, de un margen al otro del río. Cuanto más voy ascendiendo, en peor estado se encuentra la pista. Los camiones que me adelanta, todos con muchos años, me lanzan una mezcla de polvo blanco del camino y humo negro del motor que hacen que mi aspecto sea de lo más cómico. Por fortuna para mis pulmones, el tráfico es muy escaso.
 
-Poco más adelante llego a Kohmi, donde hay un albergue con restaurante. Sabía que me lo iba a encontrar porque, durante la preparación del viaje, fue uno de los posibles lugares que había elegido para dormir. Aunque es demasiado temprano para comer, sí que hago un pequeño alto para reponer fuerzas, hidratarme y comer algo de fruta. La migraña casi ha desaparecido y mi estómago se ha estabilizado, así que la comida sienta muy, pero que muy bien.
+Poco más adelante llego a Khomi, donde hay un albergue con restaurante. Sabía que me lo iba a encontrar porque, durante la preparación del viaje, fue uno de los posibles lugares que había elegido para dormir. Aunque es demasiado temprano para comer, sí que hago un pequeño alto para reponer fuerzas, hidratarme y comer algo de fruta. La migraña casi ha desaparecido y mi estómago se ha estabilizado, así que la comida sienta muy, pero que muy bien.
 
 ![Roshka](./P1110432.jpg)
 
@@ -42,7 +42,7 @@ La pista está más rota a cada paso, y tanto mis manos como mis posaderas van p
 
 ![](./P1110435.jpg)
 
-No se puede decir que el pueblo esté muy surtido... tan sólo encuentro ésta pequeña tienda donde esperaba encontrar algo más contundente que fruta o helados. Bueno, no nos engañemos, los helados siempre sientan bien, no hay queja. Pero no deja de llamarme la atención que, siendo la primera tienda que veo en varias horas, no estén un poco más surtidos. Refrescos y helados están bien para satisfacer las necesidades de los pasajeros de la <em>matryoshka</em>, nombre con el que se conoce a los minibuses en Georgia, pero no para los habitantes de la zona.
+No se puede decir que el pueblo esté muy surtido... tan sólo encuentro ésta pequeña tienda donde esperaba encontrar algo más contundente que fruta o helados. Bueno, no nos engañemos, los helados siempre sientan bien, no hay queja. Pero no deja de llamarme la atención que, siendo la primera tienda que veo en varias horas, no estén un poco más surtidos. Refrescos y helados están bien para satisfacer las necesidades de los pasajeros de la <em>marshrutka</em>, nombre con el que se conoce a los minibuses en Georgia, pero no para los habitantes de la zona.
 
 No obstante, tengo un buen pálpito con el guesthouse que me espera en Atabe. Estoy seguro de que me podré dar un buen homenaje para cenar.
 

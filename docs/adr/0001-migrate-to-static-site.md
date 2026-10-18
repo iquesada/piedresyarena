@@ -222,7 +222,7 @@ The English pages, the language switcher, the translated trip names and map popu
 
 ### Repository language
 
-Everything in the repository is written in English: code, comments, front matter keys, documentation and commit messages. The only exception is the website content, which is in Spanish.
+Everything in the repository is written in English: code, comments, front matter keys, documentation and commit messages. The only exception is the website content, which is in Spanish and English (see [ADR 0002](0002-english-version.md)).
 
 ## Alternatives considered
 
