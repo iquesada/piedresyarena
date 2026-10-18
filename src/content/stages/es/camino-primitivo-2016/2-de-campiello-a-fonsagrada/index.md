@@ -4,7 +4,7 @@ date: 2016-02-01
 trip: "camino-primitivo-2016"
 lat: 43.336392320894824
 lng: -6.525001470500229
-address: "Albergue Casa Ricardo, Campiello"
+address: "Albergue Rodrigo, Campiello"
 description: "Hospitales"
 image: "./hospitales.jpg"
 translationKey: "camino-primitivo-2016/2-de-campiello-a-fonsagrada"

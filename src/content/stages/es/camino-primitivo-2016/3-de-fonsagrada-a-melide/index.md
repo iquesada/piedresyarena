@@ -18,9 +18,9 @@ Finalmente voy perdiendo altura y los caminos son mucho más transitables. Entro
 
 ![En algún lugar entre Fonsagrada y Melide](./fonsagrada.jpg "En algún lugar entre Fonsagrada y Melide")
 
-Estos caminos me acercan a Lugo, una ciudad que me gusta mucho y tengo ganas de volver a visitar. Además, en el centro de la ciudad hay una quesería especializada, <a href="http://www.queixeriaprazadocampo.es/">Queixería Praza do Campo</a>, en la que tengo intención de pararme a hacer unas compras. Una vez localizada, hago mis compras y aprovecho para comer algo.
+Estos caminos me acercan a Lugo, una ciudad que me gusta mucho y tengo ganas de volver a visitar. Además, en el centro de la ciudad hay una quesería especializada, Queixería Praza do Campo, en la que tengo intención de pararme a hacer unas compras. Una vez localizada, hago mis compras y aprovecho para comer algo.
 
-El día es frío y la parada me afecta, se me mete el frío en el cuerpo y, unido a la paliza, me deja un poco tocado. Creo que se me nota en la cara porque allí donde paro a comer un pincho me ceban literalmente, dándome varios pinchos de esos que vienen gratis con la consumición. Se lo agradezco un montón de veces y arranco rápidamente dirección Melide, quedan muchos kilómetros y pocas horas de luz, no puedo pararme demasiado. Pero ya sabemos que la prisas no son buenas consejeras.
+El día es frío y la parada me afecta, se me mete el frío en el cuerpo y, unido a la paliza, me deja un poco tocado. Creo que se me nota en la cara porque allí donde paro a comer un pincho me ceban literalmente, dándome varios pinchos de esos que vienen gratis con la consumición. Se lo agradezco un montón de veces y arranco rápidamente dirección Melide, quedan muchos kilómetros y pocas horas de luz, no puedo pararme demasiado. Pero ya sabemos que las prisas no son buenas consejeras.
 
 Para quien no conozca Lugo le diré que está en lo alto de una colina. Con las prisas, bajo la colina... por donde no es, dirección a Fonsagrada. Con el cabreo en el cuerpo vuelvo a subir la colina para tomar la dirección correcta, y aprieto bien para tratar de entrar en calor.
 
