@@ -4,6 +4,7 @@ import remarkBreaks from 'remark-breaks';
 import redirects from './src/redirects.json';
 import { rehypeFigure } from './src/lib/rehype-figure.mjs';
 import { rehypeImageSizes } from './src/lib/rehype-image-sizes.mjs';
+import { remarkTranslationImages } from './src/lib/remark-translation-images.mjs';
 
 // Displayed image widths. Keep in sync with --wide (64rem = 1024px, figures break out to it)
 // and the .gallery grid (2 columns, 4 from 760px) and .gallery.strip (85% wide, at most 40rem) in src/layouts/Base.astro.
@@ -21,7 +22,7 @@ export default defineConfig({
   image: { layout: 'constrained', responsiveStyles: true, breakpoints: [480, 760, 1080] },
   markdown: {
     processor: unified({
-      remarkPlugins: [remarkBreaks],
+      remarkPlugins: [remarkBreaks, remarkTranslationImages],
       rehypePlugins: [rehypeFigure, rehypeImageSizes(sizes)],
     }),
   },
