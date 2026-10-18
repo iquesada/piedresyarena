@@ -5,7 +5,7 @@ trip: "georgia-2019"
 lat: 42.12369441565954
 lng: 44.77511330421437
 address: "Zhinvali"
-description: ""
+description: "Bici limpia, viaje terminado"
 image: "./monastry.jpg"
 translationKey: "georgia-2019/6-de-zhinvali-a-telavi"
 ---

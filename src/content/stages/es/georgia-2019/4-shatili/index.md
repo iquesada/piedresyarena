@@ -5,7 +5,7 @@ trip: "georgia-2019"
 lat: 42.6580703185286
 lng: 45.15370174224843
 address: "Shatili"
-description: ""
+description: "Grabado en la retina"
 image: "./shatili_name.jpg"
 translationKey: "georgia-2019/4-shatili"
 ---
