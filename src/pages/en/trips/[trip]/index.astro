@@ -1,0 +1,14 @@
+---
+import { getCollection } from 'astro:content';
+import TripPage from '../../../../components/TripPage.astro';
+import { stagesOf, tripPath } from '../../../../lib/content';
+
+export async function getStaticPaths() {
+  const trips = await getCollection('trips');
+  const withStages = await Promise.all(trips.map(async (trip) => ({ trip, stages: await stagesOf('en', trip.id) })));
+  return withStages
+    .filter(({ stages }) => stages.length > 0)
+    .map(({ trip, stages }) => ({ params: { trip: trip.id }, props: { trip, stages, alternate: tripPath('es', trip) } }));
+}
+---
+<TripPage {...Astro.props} />

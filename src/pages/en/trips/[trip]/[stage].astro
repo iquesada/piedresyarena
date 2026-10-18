@@ -1,0 +1,13 @@
+---
+import StagePage from '../../../../components/StagePage.astro';
+import { allStages, stagePath } from '../../../../lib/content';
+
+export async function getStaticPaths() {
+  const spanish = new Map((await allStages('es')).map((s) => [s.key, s]));
+  return (await allStages('en')).map((stage) => ({
+    params: { trip: stage.data.trip.id, stage: stage.slug },
+    props: { stage, alternate: stagePath(spanish.get(stage.key)!) },
+  }));
+}
+---
+<StagePage {...Astro.props} />
