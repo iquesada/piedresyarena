@@ -1,0 +1,51 @@
+---
+import { Image } from 'astro:assets';
+import Base from '../layouts/Base.astro';
+import { formatDate, stageCount, t, toLocale } from '../i18n';
+import { stagePath, tripText, type Stage, type Trip } from '../lib/content';
+
+interface Props {
+  trip: Trip;
+  stages: Stage[];
+  alternate?: string;
+}
+
+const { trip, stages, alternate } = Astro.props;
+const locale = toLocale(Astro.currentLocale);
+const { name, country } = tripText(locale, trip);
+// The first stage's photo is already its tile, so the opening uses the last one.
+const cover = stages.at(-1)!.data.image;
+---
+<Base title={name} overlay dark alternate={alternate}>
+  <header class="opener">
+    <Image src={cover} alt="" widths={[480, 760, 1080, 1600]} sizes="100vw" priority />
+    <div class="opener-text">
+      <p class="kicker"><span class="dot" style={`--c:${trip.data.color}`}></span>{trip.data.year}, {country}, {stageCount(locale, stages.length)}</p>
+      <h1 class="display">{name}</h1>
+    </div>
+  </header>
+
+  <ol class="tiles" aria-label={t(locale, 'trip.stages.label')}>
+    {stages.map((s, i) => (
+      <li>
+        <a href={stagePath(s)} class="tile">
+          <Image src={s.data.image} alt="" widths={[480, 760, 1080]} sizes="(min-width: 900px) 50vw, 100vw" />
+          <div class="tile-text">
+            <p class="kicker">{t(locale, 'stage.number', { n: i + 1 })}</p>
+            <h2>{s.data.title}</h2>
+            <p class="meta">
+              <time datetime={s.data.date.toISOString().slice(0, 10)}>{formatDate(locale, s.data.date)}</time>{s.data.description && `. ${s.data.description}`}
+            </p>
+          </div>
+        </a>
+      </li>
+    ))}
+  </ol>
+</Base>
+
+<style>
+  .opener { height: 80svh; min-height: 28rem; max-height: 48rem; }
+  .opener h1 { font-size: clamp(3.5rem, 17vw, 10rem); }
+  .tile .kicker { margin-bottom: 0.35rem; }
+  .meta { color: #e8e6de; max-width: 32rem; }
+</style>

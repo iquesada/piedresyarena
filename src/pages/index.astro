@@ -2,8 +2,9 @@
 import Base from '../layouts/Base.astro';
 import Atlas from '../components/Atlas.astro';
 import TripTiles from '../components/TripTiles.astro';
+import { homePath } from '../lib/content';
 ---
-<Base dark>
+<Base dark alternate={homePath('en')}>
   <Atlas />
   <TripTiles />
 </Base>

@@ -4,7 +4,7 @@ import { t } from '../i18n';
 import { allStages, stagePath } from '../lib/content';
 
 const locale = Astro.currentLocale;
-const stages = (await allStages()).map(stagePath);
+const stages = (await allStages('es')).map(stagePath);
 // Compass ticks every 10°, longer every 30°.
 const ticks = Array.from({ length: 36 }, (_, i) => i * 10);
 const cardinals = [

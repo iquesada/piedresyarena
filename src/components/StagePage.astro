@@ -1,0 +1,55 @@
+---
+import { render } from 'astro:content';
+import { Image } from 'astro:assets';
+import Base from '../layouts/Base.astro';
+import StageNav from './StageNav.astro';
+import { formatDate, t, toLocale } from '../i18n';
+import { stagesOf, tripOf, tripPath, tripText, type Stage } from '../lib/content';
+
+interface Props {
+  stage: Stage;
+  alternate?: string;
+}
+
+const { stage, alternate } = Astro.props;
+const { Content } = await render(stage.entry);
+const locale = toLocale(Astro.currentLocale);
+const trip = await tripOf(stage);
+const stages = await stagesOf(locale, trip.id);
+const { title, date, image, description, seoTitle, seoDescription } = stage.data;
+---
+<Base title={title} seoTitle={seoTitle} description={seoDescription ?? description} overlay alternate={alternate}>
+  <header class="opener">
+    <Image src={image} alt="" widths={[480, 760, 1080, 1600]} sizes="100vw" priority />
+    <div class="opener-text">
+      <p class="kicker">
+        <a href={tripPath(locale, trip)} class="trip"><span class="dot" style={`--c:${trip.data.color}`}></span>{tripText(locale, trip).name}</a>, {t(locale, 'stage.position', { n: stages.findIndex((s) => s.key === stage.key) + 1, total: stages.length })}
+      </p>
+      <h1 class="display">{title}</h1>
+    </div>
+  </header>
+
+  <article>
+    <div class="prose">
+      {description && <p class="deck">{description}</p>}
+      <p class="date"><time datetime={date.toISOString().slice(0, 10)}>{formatDate(locale, date)}</time></p>
+    </div>
+    <div class="prose body"><Content /></div>
+  </article>
+
+  <StageNav stage={stage} />
+</Base>
+
+<style>
+  .opener { height: 92svh; min-height: 30rem; max-height: 56rem; }
+  .opener-text { max-width: 70rem; }
+  .kicker { display: block; }
+  .trip { display: inline-flex; align-items: center; gap: 0.45rem; }
+  .opener h1 { font-size: clamp(2.75rem, 12vw, 7rem); }
+  article { padding: 2.5rem 1.1rem 1rem; }
+  .deck { font-size: 1.5rem; line-height: 1.35; font-style: italic; margin: 0 0 0.75rem; }
+  .date { font-family: var(--display); color: var(--stone); font-size: 0.95rem; margin: 0 0 2rem; }
+  .body > :global(p:first-child::first-letter) {
+    float: left; font-family: var(--display); font-weight: 850; font-stretch: 62%; font-size: 4.6em; line-height: 0.8; padding: 0.06em 0.08em 0 0;
+  }
+</style>
