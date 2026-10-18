@@ -1,10 +1,10 @@
 ---
-title: "Ruta de la Plata, de Granja de la Moreruela a Hospital de Órbigo"
+title: "Ruta de la Plata, de Granja de Moreruela a Hospital de Órbigo"
 date: 2016-07-06
 trip: "ruta-de-la-plata-2016"
 lat: 41.809175227118644
 lng: -5.739315317196656
-address: "Granja de la Moreruela"
+address: "Granja de Moreruela"
 description: "Los caminos se separan"
 image: "./granja.jpg"
 translationKey: "ruta-de-la-plata-2016/3-de-granja-de-moreruela-a-hospital-de-orbigo"
@@ -20,4 +20,4 @@ Pocos kilómetros más adelante el camino pasa por Benavente, donde aprovecho pa
 
 ![capilla](./capilla.jpg)
 
-Sin mucho más que destacar, llego a Hospital de Órbigo y me uno al Camino Francés. Es impresionante ver la cantidad de gente que mueve este camino, he viaja prácticamente solo desde Bejar hasta aquí y, al llegar a Hospital de Órbigo, me encuentro con un pueblo abarrotado de caminantes. No es que me moleste la compañía, pero lo del Camino Francés en verano es demasiado, en mi opinión. Sólo me queda hacerlo a la contra hasta León para abandonarlo justo ahí dirección a Oviedo, por el camino del Salvador.
+Sin mucho más que destacar, llego a Hospital de Órbigo y me uno al Camino Francés. Es impresionante ver la cantidad de gente que mueve este camino, he viajado prácticamente solo desde Béjar hasta aquí y, al llegar a Hospital de Órbigo, me encuentro con un pueblo abarrotado de caminantes. No es que me moleste la compañía, pero lo del Camino Francés en verano es demasiado, en mi opinión. Sólo me queda hacerlo a la contra hasta León para abandonarlo justo ahí dirección a Oviedo, por el camino del Salvador.
