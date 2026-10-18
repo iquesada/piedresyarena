@@ -5,9 +5,9 @@ trip: "ruta-de-la-plata-2016"
 lat: 42.4627248
 lng: -5.881548500000008
 address: "Hospital de Órbigo"
-description: "Llegando a Casa"
+description: "Llegando a casa"
 image: "./leon.jpg"
-seoDescription: "Ruta de la plata y Camino de San Salvador en bicicleta, de Hospital de Órbigo a Poladura de la Tercia"
+seoDescription: "Ruta de la Plata y Camino de San Salvador en bicicleta, de Hospital de Órbigo a Poladura de la Tercia"
 translationKey: "ruta-de-la-plata-2016/4-de-hospital-de-orbigo-a-poladura-de-la-tercia"
 ---
 
@@ -23,4 +23,4 @@ Esta parte de la ruta la estoy disfrutando especialmente, tanto que me paso Pola
 
 Finalmente llego a Poladura de la Tercia. Un modesto, aunque cómodo, albergue municipal me espera. Y está lleno de caminantes, lo cual me sorprende bastante dado que no he adelantado a nadie en ruta. Apenas hay sitio para todos, y no todos traen comida. Una pareja de italianos acaba cogiendo un taxi hasta Villamanín para comprar comida, porque en Poladura no hay ni bar ni restaurante.
 
-Rápidamente hacemos buenas migas y nos pasamos lo que queda de tarde charlando. Hay gente de Euskadi, Alemania, Italia... y yo, llegando a casa. Aprovecho para revisar la bici, no quiero sustos de última hora. Mañana es la última estapa del Camino de San Salvador, mañana llego a casa.
+Rápidamente hacemos buenas migas y nos pasamos lo que queda de tarde charlando. Hay gente de Euskadi, Alemania, Italia... y yo, llegando a casa. Aprovecho para revisar la bici, no quiero sustos de última hora. Mañana es la última etapa del Camino de San Salvador, mañana llego a casa.
