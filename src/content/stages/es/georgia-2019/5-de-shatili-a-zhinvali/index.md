@@ -5,7 +5,7 @@ trip: "georgia-2019"
 lat: 42.65808609872804
 lng: 45.15368028457631
 address: "Shatili"
-description: ""
+description: "Más de 100 km de vuelta"
 image: "./roads.jpg"
 translationKey: "georgia-2019/5-de-shatili-a-zhinvali"
 ---
