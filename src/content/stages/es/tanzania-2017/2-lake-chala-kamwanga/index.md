@@ -10,7 +10,7 @@ image: "./tanzania2.jpg"
 translationKey: "tanzania-2017/2-lake-chala-kamwanga"
 ---
 
-Hemos pasado una noche magnífica en el lago Chala. Nuestra primera noche de camping sin mosquitos, eso es una buena noticia. Aunque nuestro organismo va cargado de malarone, no tenemos ningún interés en probar su eficacia.
+Hemos pasado una noche magnífica en el lago Chala. Nuestra primera noche de camping sin mosquitos, eso es una buena noticia. Aunque nuestro organismo va cargado de Malarone, no tenemos ningún interés en probar su eficacia.
 
 Ha sido una noche maravillosa, el lugar no puede ser más tranquilo y el único sonido que hemos oído ha sido el de algún ave nocturna. Tras desmontar la tienda, nos vamos a por el desayuno. Una tortilla de vegetales nos estaba esperando, frente a las preciosas vistas del lago Chala. Vamos a echar de menos este sitio...
 
@@ -28,7 +28,7 @@ Poco más adelante salimos a carretera asfaltada. Hoy tenemos muchos kilómetros
 
 La carretera asciende poco a poco, la etapa de hoy nos llevará desde los poco más de 900 metros del lago Chala hasta algo más de 2000. Afortunadamente, la carretera es buena y podemos avanzar con facilidad. La altitud se nota, empieza a hacer algo de frío y hasta nos llueve ligeramente. Estamos en la falda del Kilimanjaro pero seguimos sin verlo, las nubes lo tapan todo.
 
-Tras ocho horas de bici llegamos a Kamwanga. Aquí nos estaba esperando <em>el profesor</em>, un maasai que trabaja como coordinador del <a href="http://kamwangaculturaltourism.weebly.com/">Centro Cultural de Kamwanga</a>. Esta sería la experiencia más auténtica del viaje. Y para empezar, una cerveza.
+Tras ocho horas de bici llegamos a Kamwanga. Aquí nos estaba esperando <em>el profesor</em>, un maasai que trabaja como coordinador del Centro Cultural de Kamwanga. Esta sería la experiencia más auténtica del viaje. Y para empezar, una cerveza.
 
 ![](./IMG_20170908_162649.jpg "Kamwanga Guest House")
 
@@ -38,6 +38,6 @@ Nos alojamos en un modesto guest house. Tras una ducha, dejamos nuestros trastos
 
 El profesor nos llevó por todo el pueblo, presentándonos a la gente y contándonos cómo, y de qué, se vive en estas zonas. Evidentemente, la agricultura domina la economía de estos pueblos, sobre todo los plátanos. Por otro lado, nos sorprendió ver, en un pueblo tan pequeño, una mezquita, una iglesia católica y una iglesia protestante. Todos juntos, en un pequeño espacio, y en paz.
 
-Tras la visita por el pueblo estamos hambrientos. Invitamos al profesor a cenar con nosotros nos damos un pequeño festín de comida local, muy muy buena. Y de aquí nos vamos para la cama, el día ha sido largo y necesitamos descansar. Lo que no sabíamos es que la noche iba a ser larga también... pero eso lo contaré en la próxima entrada.
+Tras la visita por el pueblo estamos hambrientos. Invitamos al profesor a cenar con nosotros y nos damos un pequeño festín de comida local, muy muy buena. Y de aquí nos vamos para la cama, el día ha sido largo y necesitamos descansar. Lo que no sabíamos es que la noche iba a ser larga también... pero eso lo contaré en la próxima entrada.
 
 ![](./kamwanga-cena.jpg "Cena en Kamwanga")

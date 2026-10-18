@@ -24,4 +24,4 @@ Los caminos son sencillos y bonitos hasta unos pocos kilómetros de Santiago de 
 
 Mi primer camino ha terminado. Sólo queda disfrutarlo con marisco y Ribeiro, que para algo estamos en Galicia. Han sido cuatro días, fríos y duros, pero muy, muy bonitos.
 
-![Ramón María del Valle Inclán](./santiago3.jpg "Ramón María del Valle Inclán")
+![Ramón María del Valle-Inclán](./santiago3.jpg "Ramón María del Valle-Inclán")

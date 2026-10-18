@@ -1,5 +1,5 @@
 ---
-title: "Tanzania 4, de Olpopongi a Kikuletwa Hot Spring"
+title: "Tanzania 4, de Olpopongi a Kikuletwa Hot Springs"
 date: 2017-09-10
 trip: "tanzania-2017"
 lat: -2.9978987
@@ -30,7 +30,7 @@ Miramos a nuestra izquierda y vemos un grupo de jirafas, mirándonos fijamente d
 
 ![](./giraffes.jpg "No nos quitan ojo...")
 
-Vemos también un grupo de cebras. Pero nuestra atención sigue con las jirafas. Nos acercamos poco a poco, y a esa misma velocidad se va a alejando nuestra amiga. A lo lejos, unos niños la asustan y vemos como se aleja corriendo. Sus movimientos parecen ir a cámara lenta, pero desaparece de nuestra vista en muy poco tiempo.
+Vemos también un grupo de cebras. Pero nuestra atención sigue con las jirafas. Nos acercamos poco a poco, y a esa misma velocidad se va alejando nuestra amiga. A lo lejos, unos niños la asustan y vemos cómo se aleja corriendo. Sus movimientos parecen ir a cámara lenta, pero desaparece de nuestra vista en muy poco tiempo.
 
 Esta experiencia bien merece un viaje. Tenemos la energía a tope para continuar la ruta.
 
@@ -38,7 +38,7 @@ Seguimos por la pista y, poco más adelante, salimos a una carretera asfaltada, 
 
 Poco más adelante atravesamos la transitada carretera que une Arusha con Moshi, y nos salimos nuevamente a una pista bastante rota. Se acabó la comodidad.
 
-Estamos doloridos. No hay duda de que esta pista nos está haciendo daño. Afortunadamente no nos queda demasiado para destino y, aunque la pista no es muy bonita, nos deleita con alguna bonita imagen. Como la de este baobab, imagen inconfundible de África.
+Estamos doloridos. No hay duda de que esta pista nos está haciendo daño. Afortunadamente no nos queda demasiado para el destino y, aunque la pista no es muy bonita, nos deleita con alguna bonita imagen. Como la de este baobab, imagen inconfundible de África.
 
 ![](./tanzania_baobab.jpg "Baobab")
 
@@ -46,13 +46,13 @@ Días más tarde íbamos a tener oportunidad de probar su fruto. Aviso, ¡está 
 
 Finalmente llegamos a Rundugai. Habíamos quedado con Ndoss, el responsable de <a href="http://rundugaiculturaltourism.com/" target="_blank" rel="noopener">Rundugai Cultural Tourism</a>. Al parecer, el gobierno de Tanzania intenta promover el turismo más allá de las grandes agencias organizadoras de safaris, en un intento por dar visibilidad y oportunidades de trabajo a la gente local. Y en Rundugai lo hacen bastante bien.
 
-Ndoss nos explica el programa de dinamización existente en Rundugai, que va desde las visitas guiadas, a alojamiento y comida con la gente de la zona. Pero nosotros hemos venido con otra idea, que es la de pasar una noche de camping en Kikuletwa hot spring. Así que Ndoss llama a un boda boda y nos dirigimos a Kikuletwa. Y sí, casi se nos olvida, ¡por fin el cielo se abrió y vimos el Kilimanjaro!
+Ndoss nos explica el programa de dinamización existente en Rundugai, que va desde las visitas guiadas, a alojamiento y comida con la gente de la zona. Pero nosotros hemos venido con otra idea, que es la de pasar una noche de camping en Kikuletwa Hot Springs. Así que Ndoss llama a un boda boda y nos dirigimos a Kikuletwa. Y sí, casi se nos olvida, ¡por fin el cielo se abrió y vimos el Kilimanjaro!
 
 ![](./kikuletwa_kilimanjaro.jpg "El Kilimanjaro, al fin")
 
-Kikuletwa hot spring es una pequeña charca de agua termal que brota como un oasis en medio de una zona muy árida. Nos encontramos ante una vegetación casi selvática en medio de un extenso secarral. El lugar es precioso, y tendremos la oportunidad de pasar la noche aquí.
+Kikuletwa Hot Springs es una pequeña charca de agua termal que brota como un oasis en medio de una zona muy árida. Nos encontramos ante una vegetación casi selvática en medio de un extenso secarral. El lugar es precioso, y tendremos la oportunidad de pasar la noche aquí.
 
-![](./kikuletwa.jpg "Kikuletwa hot spring")
+![](./kikuletwa.jpg "Kikuletwa Hot Springs")
 
 Pero no nos engañemos. Hoy, 10 de septiembre de 2017, es domingo. Y los domingos, estés donde estés, hay mucha gente. Kikuletwa está lleno de gente, mayoritariamente turistas, y el lugar dista mucho de ser el lugar tranquilo y apacible que esperábamos. Tendremos que esperar a que den las siete y cierren las puertas, para quedarnos tranquilos.
 
