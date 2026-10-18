@@ -16,15 +16,15 @@ No me costó mucho organizarlo. Con intención de partir desde Lieja, llegué co
 
 ![](./IMG_20220706_164114.jpg)
 
-En viaje es rápido. Aún haciendo cambio de tren a medio camino, llegué a Lieja en menos de dos horas. Por fin iba a estrenar mi nueva bici y mi nuevo sistema: adios alforjas, ¡hola bikepacking!
+El viaje es rápido. Aun haciendo cambio de tren a medio camino, llegué a Lieja en menos de dos horas. Por fin iba a estrenar mi nueva bici y mi nuevo sistema: adiós alforjas, ¡hola bikepacking!
 
 ![](./IMG_20220706_193846.jpg)
 
 Me alojé en un pequeño hotel de Lieja y al día siguiente, bien temprano, arranqué mi viaje.
 
-No puedo decir que el arranque haya sido el mejor. A primera hora llovía muchísimo. Así que hice un poco de tiempo tras el desayuno y, una vez hubo amainado, salí dirección Málmedy.
+No puedo decir que el arranque haya sido el mejor. A primera hora llovía muchísimo. Así que hice un poco de tiempo tras el desayuno y, una vez hubo amainado, salí dirección Malmedy.
 
-Los primeros kilómetros fueron sencillos, y pude disfrutar de primera mano de los famosísimos carriles bici que unen los pueblos de Bélgica. Kilómetros y kilómetros de de asfalto destinado únicamente a las bicicletas, muy transitados, que te llevan casi a cualquier lugar. Y además, muy cuidados.
+Los primeros kilómetros fueron sencillos, y pude disfrutar de primera mano de los famosísimos carriles bici que unen los pueblos de Bélgica. Kilómetros y kilómetros de asfalto destinado únicamente a las bicicletas, muy transitados, que te llevan casi a cualquier lugar. Y además, muy cuidados.
 
 ![](./IMG_20220707_112743.jpg)
 
@@ -32,7 +32,7 @@ Por fortuna apenas me llovió y, aunque el tiempo distaba mucho de ser bueno, la
 
 ![](./IMG_20220707_141330.jpg)
 
-Y así, poco a poco, fui haciendo camino mientras el cielo se oscurecía y las nubes cada vez se cerraban más. La temperatura comenzó a bajar, no a lo loco, pero si lo suficiente para plantearme... ¡porqué tengo que ir tan abrigado en pleno Julio! Ay, vacaciones de verano, ¿dónde estáis?
+Y así, poco a poco, fui haciendo camino mientras el cielo se oscurecía y las nubes cada vez se cerraban más. La temperatura comenzó a bajar, no a lo loco, pero sí lo suficiente para plantearme... ¡por qué tengo que ir tan abrigado en pleno julio! Ay, vacaciones de verano, ¿dónde estáis?
 
 ![](./IMG_20220707_160229.jpg)
 
