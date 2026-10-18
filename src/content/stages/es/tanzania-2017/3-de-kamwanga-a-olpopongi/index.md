@@ -26,11 +26,11 @@ El cielo está nublado, lo que nos impide ver, nuevamente, el Kilimanjaro. Van p
 
 La pista no tiene tráfico y está muy, muy rota. Avanzamos unas horas hasta que llegamos a un punto donde empezamos a encontrarnos con muchos camiones y maquinaria. Parece que están tratando de convertir esta pista en una carretera. Lo que nos queda hasta que nos desviemos de las obras se convierte en un pequeño infierno. Grandes camiones adelantándonos, pasando muy cerca de nosotros, y levantando una cantidad de polvo tal que prácticamente nos obliga a parar. Una pequeña tortura que no empañará un día genial.
 
-Más adelante nuestro camino se separa, al fin, de esta carretera en obras principal. Nos dirigimos a <a href="http://www.olpopongi-maasai.com/">Olpopongi</a>, una pequeña aldea maasai acondicionada para el turismo, que acepta huéspedes pero que está gestionada por maasai. Una aldea maasai que se reserva en Booking, muy extraño. Ya tenemos muchas, muchas ganas de llegar.
+Más adelante nuestro camino se separa, al fin, de esta carretera en obras principal. Nos dirigimos a <a href="https://www.maasai-village.com/">Olpopongi</a>, una pequeña aldea maasai acondicionada para el turismo, que acepta huéspedes pero que está gestionada por maasai. Una aldea maasai que se reserva en Booking, muy extraño. Ya tenemos muchas, muchas ganas de llegar.
 
 ![](./olpopongi_road.jpg "Llegando a Olpopongi")
 
-Lo que viene a continuación es maravilloso. Nos salimos de la pista y nos lanzamos, viento  favor, por unos caminos estrechos con un firme muy, muy duro que nos permite avanzar muy rápido. El paisaje es maravilloso y la pista, divertidísima. Hacemos dos pequeños altos en el camino. Uno, para curar las heridas que una <em>wait a bit thorn (<a href="https://es.wikipedia.org/wiki/Acacia_mellifera">Acacia mellifera</a>)</em> le causó a Nines en el brazo. Y es que, tanto nos liamos a correr, que ajustamos demasiado las curvas. La segunda parada fue para presentarle al guardia del parque nuestro pase.
+Lo que viene a continuación es maravilloso. Nos salimos de la pista y nos lanzamos, viento a favor, por unos caminos estrechos con un firme muy, muy duro que nos permite avanzar muy rápido. El paisaje es maravilloso y la pista, divertidísima. Hacemos dos pequeños altos en el camino. Uno, para curar las heridas que una <em>wait a bit thorn (<a href="https://es.wikipedia.org/wiki/Acacia_mellifera">Acacia mellifera</a>)</em> le causó a Nines en el brazo. Y es que, tanto nos liamos a correr, que ajustamos demasiado las curvas. La segunda parada fue para presentarle al guardia del parque nuestro pase.
 
 Después de 65 kilómetros llegamos a la aldea. Ha sido una etapa corta pero incómoda. Y lo pasamos genial.
 
@@ -46,7 +46,7 @@ Historia maasai, cultura, tradiciones, y hasta cómo fabricar un cepillo de dien
 
 ![](./olpopongi.jpg "Trekking por Olpopongi")
 
-Y como no, el motivo por el que la aldea se llama Olpopongi. Coge su nombre del Olpopongi (nombre en suajili), el árbol con el que construyen sus chozas. Al parecer, es tóxico para los insectos, con lo que se ahorran unas buenas capas de barniz.
+Y cómo no, el motivo por el que la aldea se llama Olpopongi. Coge su nombre del Olpopongi (nombre en maa), el árbol con el que construyen sus chozas. Al parecer, es tóxico para los insectos, con lo que se ahorran unas buenas capas de barniz.
 
 ![](./olpopongi_tree.jpg "Árbol Olpopongi")
 
