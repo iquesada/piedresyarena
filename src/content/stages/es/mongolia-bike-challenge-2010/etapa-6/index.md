@@ -1,5 +1,5 @@
 ---
-title: "MONGOLIA BIKE CHALLENGE 6"
+title: "Mongolia Bike Challenge 6"
 date: 2010-08-16
 trip: "mongolia-bike-challenge-2010"
 lat: 45.437789466502444
@@ -10,11 +10,11 @@ image: "./DSCN2064.jpg"
 translationKey: "mongolia-bike-challenge-2010/etapa-6"
 ---
 
-Día16, etapa 6. Ya hemos pasado el ecuador de la prueba, tras un día de 7 horas de furgoneta que se empeñan en llamar "día de descanso". Tal vez descanso para la familia, ya que pude utilizar mi teléfono móvil después de muchos días de desconexión.
+Día 16, etapa 6. Ya hemos pasado el ecuador de la prueba, tras un día de 7 horas de furgoneta que se empeñan en llamar "día de descanso". Tal vez descanso para la familia, ya que pude utilizar mi teléfono móvil después de muchos días de desconexión.
 
-Tras una cálida noche, a las 7:30 nos dirigimos a la línea de salida de una etapa con perfil en contínuo ascenso. Un inoportuno pinchazo de nuestra fémina Nines, líder en su categoría, nos pone los nervios de punta. Nos damos prisa para reparar a tiempo el pinchazo, y acabamos de apretar el cierre justo cuando se da la salida. Finalmente salgo el último.
+Tras una cálida noche, a las 7:30 nos dirigimos a la línea de salida de una etapa con perfil en continuo ascenso. Un inoportuno pinchazo de nuestra fémina Nines, líder en su categoría, nos pone los nervios de punta. Nos damos prisa para reparar a tiempo el pinchazo, y acabamos de apretar el cierre justo cuando se da la salida. Finalmente salgo el último.
 
-Salgo como puedo, ajustándome el Camelback hasta que alcanzo a Nines antes del primer avituallamiento, cuando rodaba segunda entre las féminas. Le digo "vamos para adelante" y me pongo a tirar sin miramientos. Poco después vendría una caída que se saldaría con una fisura en una costilla.
+Salgo como puedo, ajustándome el CamelBak hasta que alcanzo a Nines antes del primer avituallamiento, cuando rodaba segunda entre las féminas. Le digo "vamos para adelante" y me pongo a tirar sin miramientos. Poco después vendría una caída que se saldaría con una fisura en una costilla.
 
 ![](./mbc2010-nines_crsh.jpg)
 
