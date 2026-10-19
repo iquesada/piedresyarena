@@ -1,6 +1,6 @@
 ---
 title: "Jordania, de Madaba a Áqaba 5"
-date: 2011-04-21
+date: 2011-04-22
 trip: "jordania-2011"
 lat: 30.328878
 lng: 35.44258100000002
@@ -37,6 +37,6 @@ Y para que veáis de qué hablo, echadle un vistazo al vídeo que grabó uno de 
 
 <div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/tzNQVS-t4pw" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
 
-Finalmente llegamos al Wadi Rum. El paisaje era espectacular, estaba deseando que llegase la siguiente etapa para pedalear entre les piedres y la arena. Pero antes íbamos a disfrutar de una magnífica cena, preparada al estilo más tradicional. Un recipiente metálico, con ascuas en su base y una serie de bandejas en vertical servían de parrilla. Este recipiente, bien cerrado y enterrado en la arena, le daban el toque exótico. Ya entrada la noche fuimos a <em>desenterrar</em> nuestra cena, compuesta de carne y verduras. Y la verdad es que estaba sensacional, aunque reconozco que el toque exótico le da un punto a su favor.
+Finalmente llegamos al Wadi Rum. El paisaje era espectacular, estaba deseando que llegase la siguiente etapa para pedalear entre les piedres y la arena. Pero antes íbamos a disfrutar de una magnífica cena, preparada al estilo más tradicional. Un recipiente metálico, con ascuas en su base y una serie de bandejas en vertical servían de parrilla. Este recipiente, bien cerrado y enterrado en la arena, le daba el toque exótico. Ya entrada la noche fuimos a <em>desenterrar</em> nuestra cena, compuesta de carne y verduras. Y la verdad es que estaba sensacional, aunque reconozco que el toque exótico le da un punto a su favor.
 
 Y mañana, Wadi Rum y fin de ruta.

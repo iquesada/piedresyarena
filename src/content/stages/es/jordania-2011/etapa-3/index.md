@@ -13,7 +13,7 @@ translationKey: "jordania-2011/etapa-3"
 
 No hay nada como un buen sueño reparador para recuperar la energía perdida el día anterior. El hotel de Al Karak era confortable, y la fatiga acumulada tras la agónica ascensión nos hizo dormir como bebés. A la mañana siguiente nos esperaba un buen desayuno, la mejor forma de empezar una larga etapa de 86 kilómetros.
 
-El paisaje era bonita pero lo cierto es que la etapa se hizo un poco pesada. Carretera y pista se alternaban para llevarnos al inicio del Wadi Musa, el valle donde se encuentra la famosa ciudad de Petra. Pero eso sería al día siguiente.
+El paisaje era bonito pero lo cierto es que la etapa se hizo un poco pesada. Carretera y pista se alternaban para llevarnos al inicio del Wadi Musa, el valle donde se encuentra la famosa ciudad de Petra. Pero Petra sería al día siguiente.
 
 ![Jordania paisaje](./DSCN2193.jpg)
 
