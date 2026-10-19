@@ -3,6 +3,7 @@ import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import { formatDate, stageCount, t, toLocale } from '../i18n';
 import { stagePath, tripText, type Stage, type Trip } from '../lib/content';
+import TripMark from './TripMark.astro';
 
 interface Props {
   trip: Trip;
@@ -20,7 +21,7 @@ const cover = stages.at(-1)!.data.image;
   <header class="opener">
     <Image src={cover} alt="" widths={[480, 760, 1080, 1600]} sizes="100vw" priority />
     <div class="opener-text">
-      <p class="kicker"><span class="dot" style={`--c:${trip.data.color}`}></span>{trip.data.year}, {country}, {stageCount(locale, stages.length)}</p>
+      <p class="kicker"><TripMark color={trip.data.color} />{trip.data.year}, {country}, {stageCount(locale, stages.length)}</p>
       <h1 class="display">{name}</h1>
     </div>
   </header>

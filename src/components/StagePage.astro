@@ -5,6 +5,7 @@ import Base from '../layouts/Base.astro';
 import StageNav from './StageNav.astro';
 import { formatDate, t, toLocale } from '../i18n';
 import { stagesOf, tripOf, tripPath, tripText, type Stage } from '../lib/content';
+import TripMark from './TripMark.astro';
 
 interface Props {
   stage: Stage;
@@ -23,7 +24,7 @@ const { title, date, image, description, seoTitle, seoDescription } = stage.data
     <Image src={image} alt="" widths={[480, 760, 1080, 1600]} sizes="100vw" priority />
     <div class="opener-text">
       <p class="kicker">
-        <a href={tripPath(locale, trip)} class="trip"><span class="dot" style={`--c:${trip.data.color}`}></span>{tripText(locale, trip).name}</a>, {t(locale, 'stage.position', { n: stages.findIndex((s) => s.key === stage.key) + 1, total: stages.length })}
+        <a href={tripPath(locale, trip)} class="trip"><TripMark color={trip.data.color} />{tripText(locale, trip).name}</a>, {t(locale, 'stage.position', { n: stages.findIndex((s) => s.key === stage.key) + 1, total: stages.length })}
       </p>
       <h1 class="display">{title}</h1>
     </div>
@@ -44,7 +45,9 @@ const { title, date, image, description, seoTitle, seoDescription } = stage.data
   .opener { height: 92svh; min-height: 30rem; max-height: 56rem; }
   .opener-text { max-width: 70rem; }
   .kicker { display: block; }
-  .trip { display: inline-flex; align-items: center; gap: 0.45rem; }
+  /* Baseline from the link text, not the mark, so the link sits level with the text after it. */
+  .trip { display: inline-flex; align-items: baseline; gap: 0.45rem; }
+  .trip :global(.trip-mark) { align-self: center; }
   .opener h1 { font-size: clamp(2.75rem, 12vw, 7rem); }
   article { padding: 2.5rem 1.1rem 1rem; }
   .deck { font-size: 1.5rem; line-height: 1.35; font-style: italic; margin: 0 0 0.75rem; }
