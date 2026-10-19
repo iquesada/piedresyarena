@@ -127,7 +127,7 @@ It reads `englishPublic` and checks more in each mode:
 
 ## Deployment
 
-Every push to `main` runs a GitHub Actions workflow (`.github/workflows/deploy.yml`) that builds the site and publishes it to GitHub Pages. There is no preview deployment: check changes locally with `npm run build` and `npm run preview` (or `npm run check`) before pushing.
+Every push to `main` runs a GitHub Actions workflow (`.github/workflows/deploy.yml`) that builds the site and publishes it to GitHub Pages. The same workflow runs `npm run check` and `npm test` on every pull request and before each deploy; if either fails, the site is not deployed. There is no preview deployment: check changes locally with `npm run build` and `npm run preview` (or `npm run check`) before pushing.
 
 ### Going live
 
