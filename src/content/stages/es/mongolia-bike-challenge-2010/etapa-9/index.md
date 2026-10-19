@@ -1,5 +1,5 @@
 ---
-title: "MONGOLIA BIKE CHALLENGE 9"
+title: "Mongolia Bike Challenge 9"
 date: 2010-08-19
 trip: "mongolia-bike-challenge-2010"
 lat: 47.16227953287211
@@ -16,7 +16,7 @@ Salida rápida por un precioso valle. Nos dedicamos a vadear ríos de agua helad
 
 Afortunadamente empieza la subida. Digo afortunadamente porque no hay manera de entrar en calor, aunque brilla el sol y no hay ni una nube en el cielo. Las primeras subidas nos llevan a una zona de sube-baja muy, muy bonita, con terreno rápido que permite rodar con facilidad. ¡Por fin podemos dar pedales!
 
-Me junto con Daniel Becerril, los kilómetros pasan con rapidez. Estoy disfrutando realmente de esta etapa, es preciosa. Poco más adelante alcanzamos a Luis y a Paolo Angaroni, un italiano muy simpático. Poco a poco vamos haciendo kilómetros y vadeando ríos, hasta que en uno de estos ríos vemos... a la maglia rosa! ¿Qué pasa aquí, cómo podemos haber cogido al líder en el kilómetro 80 de la etapa?
+Me junto con Daniel Becerril, los kilómetros pasan con rapidez. Estoy disfrutando realmente de esta etapa, es preciosa. Poco más adelante alcanzamos a Luis y a Paolo Angaroni, un italiano muy simpático. Poco a poco vamos haciendo kilómetros y vadeando ríos, hasta que en uno de estos ríos vemos... ¡a la maglia rosa! ¿Qué pasa aquí, cómo podemos haber cogido al líder en el kilómetro 80 de la etapa?
 
 ![](./mbc2010-perdidos.jpg)
 
@@ -26,8 +26,8 @@ Al final le convencemos, nos da las gracias, arranca la moto y desaparece en el 
 
 En la siguiente subida perdemos a Paolo, que se queda descolgado. Más adelante nos arrimamos a unos Ger, cabañas típicas mongolas, para recortar un trozo del camino. Un par de perros salen tras nosotros con las peores intenciones. Nos damos un calentón de escándalo y conseguimos salir vivos, creo que los perros son perros en cualquier parte del mundo...
 
-El ritmo de Dani y Luis es demasiado para mi, me descuelgo a 30 kilómetros de la meta, me están empezando a doler demasiado las piernas y aún queda otra etapa. Atravesamos una pequeña ciudad, con sus calles asfaltadas. Parece que volamos sobre el asfalto, cuánto tiempo sin rodar sobre suelo uniforme! La fantástica sensación desaparece tras un escaso kilómetro, volvemos a la pista. En fin, ya volveré a rodar sobre asfalto en España.
+El ritmo de Dani y Luis es demasiado para mí, me descuelgo a 30 kilómetros de la meta, me están empezando a doler demasiado las piernas y aún queda otra etapa. Atravesamos una pequeña ciudad, con sus calles asfaltadas. Parece que volamos sobre el asfalto, ¡cuánto tiempo sin rodar sobre suelo uniforme! La fantástica sensación desaparece tras un escaso kilómetro, volvemos a la pista. En fin, ya volveré a rodar sobre asfalto en España.
 
-En el ultimo tramo lo paso un poco mal, me empieza a molestar el estómago y cualquier cosa que intento comer me provoca malestar. Pues nada, tampoco queda tanto para la meta, a muerte.
+En el último tramo lo paso un poco mal, me empieza a molestar el estómago y cualquier cosa que intento comer me provoca malestar. Pues nada, tampoco queda tanto para la meta, a muerte.
 
-Finalmente llego a la meta tras 6 horas 33 minutos, 26 en la etapa y 26 en la general... a medio minuto del italiano majete, parece que va a haber guerra hasta el final. Mañana, última etapa!!
+Finalmente llego a la meta tras 6 horas 33 minutos, 26 en la etapa y 26 en la general... a medio minuto del italiano majete, parece que va a haber guerra hasta el final. ¡¡Mañana, última etapa!!

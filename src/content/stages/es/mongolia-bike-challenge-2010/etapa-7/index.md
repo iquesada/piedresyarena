@@ -1,5 +1,5 @@
 ---
-title: "MONGOLIA BIKE CHALLENGE 7"
+title: "Mongolia Bike Challenge 7"
 date: 2010-08-17
 trip: "mongolia-bike-challenge-2010"
 lat: 46.30786745075168
@@ -18,9 +18,9 @@ El día amanece frío, muy frío. Desayunamos a las 5 de la mañana, nos vestimo
 
 7 de la mañana, empieza el espectáculo. Tras una pequeña subida nos tiramos hacia abajo por una pista ancha y empinada. La primera parte parece rápida, bien.
 
-La pista va cambiando a una zona de sube y baja con piedra. Me junto con Dani, un austriaco y un australiano y nos vamos relevando mientras avanzamos cada vez más despacio. Según nos vamos acercando a zonas más húmedas, junto al cauce de un río, van apareciendo zonas de arena muy complicadas de pasar, algunas tan blandas que no dejaban más opción que poner pie a tierra. En el kilómetro 40 llegamos al primer avituallamiento, en el cual aprovecho para ir quitando la ropa de invierno que ya me sobra. De aquí en adelante, cada uno a su ritmo. Llegamos al primer premio de montaña, muy duro. En Mongolia aún no se han inventado las "zetas" para subir a los puertos, así que subimos de frente, "a pincho". Y las bajadas igual, claro. Las velocidades son vértigo y, aunque no tienen ninguna complicación, sí que son bastante peligrosas debido a las altas velocidades que se pueden alcanzar. Poco después subimos el segundo puerto, muy duro también y con una bajada muy pedregosa. El paisaje ha cambiado completamente, es fantástico. Por fin vemos árboles, llevábamos mucho tiempo sin ver uno.
+La pista va cambiando a una zona de sube y baja con piedra. Me junto con Dani, un austriaco y un australiano y nos vamos relevando mientras avanzamos cada vez más despacio. Según nos vamos acercando a zonas más húmedas, junto al cauce de un río, van apareciendo zonas de arena muy complicadas de pasar, algunas tan blandas que no dejaban más opción que poner pie a tierra. En el kilómetro 40 llegamos al primer avituallamiento, en el cual aprovecho para ir quitando la ropa de invierno que ya me sobra. De aquí en adelante, cada uno a su ritmo. Llegamos al primer premio de montaña, muy duro. En Mongolia aún no se han inventado las "zetas" para subir a los puertos, así que subimos de frente, "a pincho". Y las bajadas igual, claro. Las velocidades son de vértigo y, aunque no tienen ninguna complicación, sí que son bastante peligrosas debido a las altas velocidades que se pueden alcanzar. Poco después subimos el segundo puerto, muy duro también y con una bajada muy pedregosa. El paisaje ha cambiado completamente, es fantástico. Por fin vemos árboles, llevábamos mucho tiempo sin ver uno.
 
-Kilómetro 100, segundo avituallamiento. El simpático masajista italiano que nos acompaña me llena el Camelback de agua y me da ánimos para apretar, llevo dos ciclistas cerca. Le agradezco el gesto, aunque me da igual quién venga por delante y por detrás, lo único que me importa es llegar a la meta sin gastar todas las fuerzas, aún quedan otras tres etapas.
+Kilómetro 100, segundo avituallamiento. El simpático masajista italiano que nos acompaña me llena el CamelBak de agua y me da ánimos para apretar, llevo dos ciclistas cerca. Le agradezco el gesto, aunque me da igual quién venga por delante y por detrás, lo único que me importa es llegar a la meta sin gastar todas las fuerzas, aún quedan otras tres etapas.
 
 A partir de aquí entramos en zonas de hierba que se pegan bastante y nos dedicamos, fundamentalmente, a vadear ríos. Creo que sobra decir que el agua está helada…
 
