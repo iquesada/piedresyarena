@@ -3,7 +3,6 @@ import type es from './es';
 export default {
   'site.title': 'piedres y arena',
   'site.description': 'A blog about cycling trips around the world.',
-  'nav.trips': 'Trips',
   'nav.about': 'About',
   'lang.switch': 'Read this page in English',
   'social.instagram': 'Follow me on Instagram',

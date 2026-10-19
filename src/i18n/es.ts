@@ -1,7 +1,6 @@
 export default {
   'site.title': 'piedres y arena',
   'site.description': 'Blog de viajes en bicicleta por el mundo.',
-  'nav.trips': 'Viajes',
   'nav.about': 'Sobre mí',
   'lang.switch': 'Leer esta página en español',
   'social.instagram': 'Sígueme en Instagram',
