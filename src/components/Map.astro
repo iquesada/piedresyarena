@@ -46,6 +46,7 @@ const trips = await Promise.all(
 <script>
   import L from 'leaflet';
   import 'leaflet/dist/leaflet.css';
+  import { RIDER_SVG } from '../lib/rider';
 
   type Stage = { lat: number; lng: number; title: string; url: string; n: string; date: string; thumb: string };
   type Trip = { name: string; url: string; color: string; stages: Stage[] };
@@ -61,8 +62,8 @@ const trips = await Promise.all(
     attribution: `<a href="https://www.openstreetmap.org/copyright">${el.dataset.attribution}</a>`,
   }).addTo(map);
 
-  // The rider from the logo (stone, two wheels, head) on a white tag pointing at the place.
-  const rider = (color: string) =>
+  // The rider (src/lib/rider.ts) on a white tag pointing at the place.
+  const pin = (color: string) =>
     L.divIcon({
       className: 'pin',
       iconSize: [46, 34],
@@ -70,11 +71,7 @@ const trips = await Promise.all(
       popupAnchor: [0, -30],
       html: `<svg viewBox="0 0 46 34" width="46" height="34" aria-hidden="true">
         <path d="M4 1h38a3 3 0 0 1 3 3v20a3 3 0 0 1-3 3H28l-5 6-5-6H4a3 3 0 0 1-3-3V4a3 3 0 0 1 3-3z" fill="#fff" stroke="rgb(0 0 0 / .25)"/>
-        <g transform="translate(3 2)" fill="none" stroke="${color}" stroke-width="2.6">
-          <polygon points="2,21 5.25,15 8.5,21" fill="${color}" stroke="none"/>
-          <circle cx="16" cy="14" r="5.2"/><circle cx="32" cy="14" r="5.2"/>
-          <circle cx="18" cy="3.5" r="2" fill="${color}" stroke="none"/>
-        </g></svg>`,
+        <g transform="translate(3 2)" style="color:${color}">${RIDER_SVG}</g></svg>`,
     });
 
   // Space of the map covered by the overlay: a band along the bottom or a column on the left. Nothing when
@@ -121,7 +118,7 @@ const trips = await Promise.all(
   const tripPins = L.layerGroup();
   const stagePins = L.layerGroup();
   for (const trip of trips) {
-    const icon = rider(trip.color);
+    const icon = pin(trip.color);
     const bounds = L.latLngBounds(trip.stages.map((s) => [s.lat, s.lng]));
     // A trip's pin zooms into its stages.
     L.marker(bounds.getCenter(), { icon, title: trip.name, alt: trip.name, riseOnHover: true })

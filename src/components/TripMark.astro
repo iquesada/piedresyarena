@@ -1,0 +1,18 @@
+---
+// The trip's rider, in the trip colour on a white tag, marking a trip over the photos.
+import { RIDER_SVG } from '../lib/rider';
+
+interface Props {
+  color: string;
+}
+
+const { color } = Astro.props;
+---
+<svg viewBox="0 0 46 28" class="trip-mark" aria-hidden="true" focusable="false">
+  <rect x="1" y="1" width="44" height="26" rx="3" fill="#fff" stroke="rgb(0 0 0 / .25)" />
+  <g transform="translate(3 2)" style={`color:${color}`} set:html={RIDER_SVG} />
+</svg>
+
+<style>
+  .trip-mark { flex: none; height: 1.2em; width: auto; filter: drop-shadow(0 1px 1.5px rgb(0 0 0 / 0.35)); }
+</style>

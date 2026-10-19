@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import { Image } from 'astro:assets';
 import { stageCount, t, toLocale } from '../i18n';
 import { stagesOf, tripPath, tripText } from '../lib/content';
+import TripMark from './TripMark.astro';
 
 const locale = toLocale(Astro.currentLocale);
 // Trips without stages (in this locale) are skipped. Newest first; trips from the same year by their first stage's date.
@@ -24,7 +25,7 @@ trips.sort((a, b) => b.trip.data.year - a.trip.data.year || b.stages[0].data.dat
           />
           <div class="tile-text">
             <h2>{name}</h2>
-            <p class="facts"><span class="dot" style={`--c:${trip.data.color}`}></span>{trip.data.year}, {country}, {stageCount(locale, stages.length)}</p>
+            <p class="facts"><TripMark color={trip.data.color} />{trip.data.year}, {country}, {stageCount(locale, stages.length)}</p>
           </div>
         </a>
       </li>
