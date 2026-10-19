@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config';
 import { unified } from '@astrojs/markdown-remark';
+import sitemap from '@astrojs/sitemap';
 import remarkBreaks from 'remark-breaks';
 import redirects from './src/redirects.json';
 import { rehypeFigure } from './src/lib/rehype-figure.mjs';
@@ -19,6 +20,7 @@ export default defineConfig({
   trailingSlash: 'always',
   i18n: { defaultLocale: 'es', locales: ['es', 'en'], routing: { prefixDefaultLocale: false } },
   redirects,
+  integrations: [sitemap()],
   image: { layout: 'constrained', responsiveStyles: true, breakpoints: [480, 760, 1080] },
   markdown: {
     processor: unified({

@@ -19,6 +19,8 @@ PAIRS = {
     '/viajes/t/1-uno/': '/en/trips/t/1-one/',
 }
 OTHER = {**PAIRS, **{en: es for es, en in PAIRS.items()}}  # either path -> its other-language path
+CONTENT_PAGES = sorted(OTHER)  # the pages run() builds by default
+SITEMAP_NS = 'http://www.sitemaps.org/schemas/sitemap/0.9'
 
 
 def page(path, public=False, body='', head='', lang=None, robots=True, alternate=True, alternates=None):
@@ -46,17 +48,37 @@ def map_div(trips):
     return f'<div data-trips="{html.escape(json.dumps(trips))}"></div>'
 
 
-def run(tmp_path, public=False, pages=None, es_stages=('t/1-uno',), en_stages=None):
+def sitemap_index(*names):
+    """A sitemap index listing the given dist/ files as site URLs."""
+    entries = ''.join(f'<sitemap><loc>{SITE}/{n}</loc></sitemap>' for n in names)
+    return f'<?xml version="1.0" encoding="UTF-8"?><sitemapindex xmlns="{SITEMAP_NS}">{entries}</sitemapindex>'
+
+
+def urlset(locs):
+    """A sitemap with one <loc> per entry; paths starting with / get the site prefix, full URLs stay as they are."""
+    entries = ''.join(f'<url><loc>{SITE + l if l.startswith("/") else l}</loc></url>' for l in locs)
+    return f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="{SITEMAP_NS}">{entries}</urlset>'
+
+
+def redirect_page(new):
+    return f'<!doctype html><title>Redirecting to: {new}</title><meta http-equiv="refresh" content="0;url={new}">'
+
+
+def run(tmp_path, public=False, pages=None, es_stages=('t/1-uno',), en_stages=None, redirects=None, sitemaps=None):
     """Writes the fixture trees and returns check()'s errors.
 
     pages: URL path -> HTML overriding the default page (None removes it); `/x/` is written as x/index.html, `/x.html` as is.
     en_stages: English folder (`<trip>/<slug>`) -> translationKey; default: t/1-one -> t/1-uno.
+    redirects: src/redirects.json (old path -> new path); their pages come through `pages`.
+    sitemaps: dist/ file name -> XML overriding the default sitemap (None removes it). By default sitemap-index.xml
+        lists sitemap-0.xml, which lists every page written but the redirects and /404.html.
     """
+    redirects = redirects or {}
     en_stages = {'t/1-one': 't/1-uno'} if en_stages is None else en_stages
     content, dist = tmp_path / 'src' / 'content', tmp_path / 'dist'
     content.mkdir(parents=True)
     (content / 'trips.yaml').write_text('- id: "t"\n  name: "T"\n- id: "empty"\n  name: "Sin etapas"\n')
-    (content.parent / 'redirects.json').write_text('{}')
+    (content.parent / 'redirects.json').write_text(json.dumps(redirects))
     for key in es_stages:
         f = content / 'stages' / 'es' / key / 'index.md'
         f.parent.mkdir(parents=True)
@@ -75,6 +97,13 @@ def run(tmp_path, public=False, pages=None, es_stages=('t/1-uno',), en_stages=No
         f = f if f.suffix == '.html' else f / 'index.html'
         f.parent.mkdir(parents=True, exist_ok=True)
         f.write_text(text)
+
+    listed = [p for p, text in built.items() if text is not None and p not in redirects and p != '/404.html']
+    files = {'sitemap-index.xml': sitemap_index('sitemap-0.xml'), 'sitemap-0.xml': urlset(listed)}
+    files.update(sitemaps or {})
+    for name, text in files.items():
+        if text is not None:
+            (dist / name).write_text(text)
     return check_build.check(dist, content, public)
 
 
@@ -256,6 +285,79 @@ class TestPublicMode:
         errors = run(tmp_path, public=True, pages={'/viajes/t/1-uno/': bad})
         assert f'/viajes/t/1-uno/index.html: broken link {SITE}/en/trips/t/gone/' in errors
         assert any(e.startswith('/viajes/t/1-uno/: hreflang alternates not symmetrical') for e in errors)
+
+
+# --- Sitemap --------------------------------------------------------------------------
+
+class TestSitemap:  # hidden mode only: the rule does not read `public`
+    def test_missing_index(self, tmp_path):
+        assert run(tmp_path, sitemaps={'sitemap-index.xml': None}) == ['sitemap: no /sitemap-index.xml']
+
+    def test_index_pointing_to_missing_sitemap(self, tmp_path):
+        errors = run(tmp_path, sitemaps={'sitemap-0.xml': None})
+        assert errors == [f'sitemap: index lists {SITE}/sitemap-0.xml, which does not exist'] + \
+                         [f'sitemap: missing {p}' for p in CONTENT_PAGES]
+
+    def test_index_pointing_off_the_site(self, tmp_path):
+        index = sitemap_index('sitemap-0.xml').replace(SITE, 'https://example.com')
+        errors = run(tmp_path, sitemaps={'sitemap-index.xml': index})
+        assert errors[0] == 'sitemap: index lists https://example.com/sitemap-0.xml, which does not exist'
+
+    def test_pages_split_over_several_sitemaps(self, tmp_path):
+        sitemaps = {'sitemap-index.xml': sitemap_index('sitemap-0.xml', 'sitemap-1.xml'),
+                    'sitemap-0.xml': urlset(CONTENT_PAGES[:3]), 'sitemap-1.xml': urlset(CONTENT_PAGES[3:])}
+        assert run(tmp_path, sitemaps=sitemaps) == []
+
+    def test_loc_on_the_bare_domain(self, tmp_path):
+        locs = [f'https://piedresyarena.com{p}' for p in CONTENT_PAGES]
+        assert run(tmp_path, sitemaps={'sitemap-0.xml': urlset(locs)}) == []
+
+    def test_loc_off_the_site(self, tmp_path):
+        locs = [p for p in CONTENT_PAGES if p != '/en/'] + ['https://example.com/en/']
+        errors = run(tmp_path, sitemaps={'sitemap-0.xml': urlset(locs)})
+        assert errors == ['sitemap: https://example.com/en/ is not a built page on the site']
+
+    def test_loc_to_no_page(self, tmp_path):
+        errors = run(tmp_path, sitemaps={'sitemap-0.xml': urlset(CONTENT_PAGES + ['/en/nope/'])})
+        assert errors == [f'sitemap: {SITE}/en/nope/ is not a built page on the site',
+                          'sitemap: lists /en/nope/, which is not a content page']
+
+    def test_content_page_missing(self, tmp_path):
+        locs = [p for p in CONTENT_PAGES if p != '/en/about/']
+        assert run(tmp_path, sitemaps={'sitemap-0.xml': urlset(locs)}) == ['sitemap: missing /en/about/']
+
+    def test_extra_html_page_must_be_listed(self, tmp_path):
+        # /otra.html is not an expected page, but it is built, so it belongs in the sitemap.
+        errors = run(tmp_path, pages={'/otra.html': page('/otra.html')},
+                     sitemaps={'sitemap-0.xml': urlset(CONTENT_PAGES)})
+        assert 'sitemap: missing /otra.html' in errors
+
+    def test_redirect_left_out(self, tmp_path):
+        assert run(tmp_path, redirects={'/a-los-pedales/': '/'},
+                   pages={'/a-los-pedales/': redirect_page('/')}) == []
+
+    def test_redirect_listed(self, tmp_path):
+        errors = run(tmp_path, redirects={'/a-los-pedales/': '/'}, pages={'/a-los-pedales/': redirect_page('/')},
+                     sitemaps={'sitemap-0.xml': urlset(CONTENT_PAGES + ['/a-los-pedales/'])})
+        assert errors == ['sitemap: lists /a-los-pedales/, which is not a content page']
+
+    def test_404_left_out(self, tmp_path):
+        assert run(tmp_path, pages={'/404.html': page('/404.html')}) == []
+
+    def test_404_listed(self, tmp_path):
+        errors = run(tmp_path, pages={'/404.html': page('/404.html')},
+                     sitemaps={'sitemap-0.xml': urlset(CONTENT_PAGES + ['/404.html'])})
+        assert errors == ['sitemap: lists /404.html, which is not a content page']
+
+    def test_malformed_index(self, tmp_path):
+        errors = run(tmp_path, sitemaps={'sitemap-index.xml': '<sitemapindex><sitemap><loc>oops</sitemap>'})
+        assert errors == ['sitemap: /sitemap-index.xml is not valid XML']
+
+    def test_malformed_sitemap_does_not_stop_the_others(self, tmp_path):
+        sitemaps = {'sitemap-index.xml': sitemap_index('sitemap-0.xml', 'sitemap-1.xml'),
+                    'sitemap-0.xml': '<urlset><url><loc>oops</url>', 'sitemap-1.xml': urlset(CONTENT_PAGES[3:])}
+        errors = run(tmp_path, sitemaps=sitemaps)
+        assert errors == ['sitemap: /sitemap-0.xml is not valid XML'] + [f'sitemap: missing {p}' for p in CONTENT_PAGES[:3]]
 
 
 # --- english_public -------------------------------------------------------------------
