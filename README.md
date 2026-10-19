@@ -20,7 +20,7 @@ npm install
 npm run dev       # local server at http://localhost:4321
 npm run build     # build the site into dist/
 npm run preview   # serve dist/ locally
-npm run check     # type-check, build, then check dist/ (pages, links, redirects, images)
+npm run check     # type-check, build, then check dist/ (pages, links, redirects, images, sitemap)
 npm test          # tests for the Python tools in tools/ (needs the Python setup below)
 ```
 
@@ -41,7 +41,7 @@ src/lib/                    Content helpers and Markdown plugins (including the 
 src/components/             Astro components (map, stage navigation, and TripPage, StagePage and AboutPage, shared by both languages)
 src/layouts/                Page layout
 src/pages/                  Routes (Spanish at the root, English under en/)
-public/                     Static files served as-is (CNAME, favicons)
+public/                     Static files served as-is (CNAME, favicons, robots.txt)
 tools/                      Migration script, post-build check and their tests
 .github/workflows/          Build and deploy to GitHub Pages
 ```
@@ -116,9 +116,11 @@ Trip slugs are the same in both languages. The 404 page is Spanish only.
 
 The old WordPress URLs (`/listing/…`, `/listing_type/…`, `/listing_location/…`, `/a-los-pedales/`) redirect to the new ones. The mapping is in `src/redirects.json`.
 
+The sitemap is at `/sitemap-index.xml`, generated at build time by `@astrojs/sitemap`. It lists every page in both languages, without the redirects or the 404.
+
 ## Post-build check
 
-`npm run check` runs `tools/check_build.py` over `dist/` after the build. It checks that every expected page exists (Spanish and English), that links, redirects and images work, that every image went through Astro, and that `<html lang>` is `en` under `/en/` and `es` elsewhere. Links on English pages must stay in English, apart from the switcher and `hreflang` links.
+`npm run check` runs `tools/check_build.py` over `dist/` after the build. It checks that every expected page exists (Spanish and English), that links, redirects and images work, that every image went through Astro, and that `<html lang>` is `en` under `/en/` and `es` elsewhere. Links on English pages must stay in English, apart from the switcher and `hreflang` links. The sitemap must list exactly the built pages, without the redirects or the 404.
 
 It reads `englishPublic` and checks more in each mode:
 

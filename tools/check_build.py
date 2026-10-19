@@ -7,12 +7,14 @@ import json
 import posixpath
 import re
 import sys
+import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE_HOSTS = {'www.piedresyarena.com', 'piedresyarena.com'}
+SITEMAP_LOC = '{http://www.sitemaps.org/schemas/sitemap/0.9}loc'
 SHORTCODES = ('[button', '[caption', '[tabs', '[easingslider', '[imagetab')
 
 
@@ -87,6 +89,14 @@ def internal(dist, url, f):
     path = u.path if u.path.startswith('/') else '/' + str(f.parent.relative_to(dist) / u.path)
     norm = posixpath.normpath(path)
     return norm + '/' if path.endswith('/') and norm != '/' else norm
+
+
+def sitemap_locs(f):
+    """<loc> texts of the sitemap (or sitemap index) file f, or None if it is not valid XML."""
+    try:
+        return [loc.text for loc in ET.parse(f).iter(SITEMAP_LOC)]
+    except ET.ParseError:
+        return None
 
 
 def english_public(i18n_path):
@@ -179,7 +189,33 @@ def check(dist: Path, content: Path, public: bool) -> list[str]:
         if not page.switcher or urlsplit(page.switcher).path != alt.get(other):
             errors.append(f'{path}: switcher {page.switcher!r} does not match hreflang {other}')
 
-    print(f'Checked {len(pages)} pages, {len(redirects)} redirects, {len(expected)} expected pages.')
+    # Sitemap: the index and its sitemaps exist, and they list exactly the content pages (no redirects, no 404).
+    index, listed = dist / 'sitemap-index.xml', set()
+    if not index.is_file():
+        errors.append('sitemap: no /sitemap-index.xml')
+    elif (entries := sitemap_locs(index)) is None:
+        errors.append('sitemap: /sitemap-index.xml is not valid XML')
+    else:
+        for entry in entries:
+            u = urlsplit(entry)
+            sitemap = u.netloc in SITE_HOSTS and target(dist, u.path)
+            if not sitemap:
+                errors.append(f'sitemap: index lists {entry}, which does not exist')
+                continue
+            locs = sitemap_locs(sitemap)
+            if locs is None:
+                errors.append(f'sitemap: /{sitemap.relative_to(dist)} is not valid XML')
+                continue
+            for loc in locs:
+                u = urlsplit(loc)
+                if u.netloc not in SITE_HOSTS or not target(dist, u.path):
+                    errors.append(f'sitemap: {loc} is not a built page on the site')
+                listed.add(unquote(u.path))
+        content_pages = set(parsed) - {'/404.html'}
+        errors += [f'sitemap: missing {p}' for p in sorted(content_pages - listed)]
+        errors += [f'sitemap: lists {p}, which is not a content page' for p in sorted(listed - content_pages)]
+
+    print(f'Checked {len(pages)} pages, {len(redirects)} redirects, {len(expected)} expected pages, {len(listed)} sitemap URLs.')
     return errors
 
 
