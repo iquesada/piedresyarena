@@ -13,7 +13,7 @@ translationKey: "namibia-2015/6-de-henties-bay-a-swakopmund"
 
 Hoy nos toca etapa llana y con buen firme. Vamos a recorrer la costa desde Henties Bay hasta Swakopmund, poco más de 70 kilómetros fáciles que vamos a agradecer después del día de ayer. El clima cambió totalmente, amaneció mucho más frío que días atrás y sobre todo mucho más húmedo, tanto es así que salimos con el chubasquero. Como en el camping no había cafetería, arrancamos la ruta sin desayunar con la esperanza de encontrar un buen sitio para hacerlo. Y así fue, nada más salir nos encontramos con una bonita cafetería donde pudimos tomar un gran desayuno, uno de los mejores del viaje. Nuevamente Henties Bay nos sorprendía gratamente.
 
-Ya con el estómago lleno nos lanzamos a la pista. Totalmente llana y con buen firme, nos permitió rodar a buen ritmo mientras contemplamos la bonita costa Namibia. El mar no estaba muy movido y aparentaba estar muy frío, por lo que ni se nos pasó por la cabeza meter un pié en el agua.
+Ya con el estómago lleno nos lanzamos a la pista. Totalmente llana y con buen firme, nos permitió rodar a buen ritmo mientras contemplamos la bonita costa namibia. El mar no estaba muy movido y aparentaba estar muy frío, por lo que ni se nos pasó por la cabeza meter un pie en el agua.
 
 ![Barco hundido en la costa de Namibia](./P1060982.jpg "Barco hundido en la costa de Namibia")
 
@@ -21,7 +21,7 @@ La pista nos conduce lentamente hacia el sur de Namibia. El cambio de paisaje ha
 
 ![Desierto del Namib](./P1060981.jpg "Desierto del Namib")
 
-Y no solo ha sido un brusco cambio de paisaje. El clima no tiene nada que ver, la temperatura ha bajado hasta unos frescos 17 grados con mucha humedad. Pedalear con este clima y sin viento ha sido tan confortable que casi sin darnos cuenta llegamos a las afueras de Swakopmund. Tardamos un rato en atravesar los barrios residenciales de esta ciudad hasta llegar al centro y, una vez allí y por primera vez en este viaje, se nos apetece algo caliente. Hay tanta humedad que nos ha calado hasta los huesos y, aunque no se puede decir que haga frío, lo que más nos apetece en estos momentos es meter algo caliente para el cuerpo.
+Y no solo ha sido un brusco cambio de paisaje. El clima no tiene nada que ver, la temperatura ha bajado hasta unos frescos 17 grados con mucha humedad. Pedalear con este clima y sin viento ha sido tan confortable que casi sin darnos cuenta llegamos a las afueras de Swakopmund. Tardamos un rato en atravesar los barrios residenciales de esta ciudad hasta llegar al centro y, una vez allí y por primera vez en este viaje, nos apetece algo caliente. Hay tanta humedad que nos ha calado hasta los huesos y, aunque no se puede decir que haga frío, lo que más nos apetece en estos momentos es meter algo caliente para el cuerpo.
 
 ![Costa de Swakopmund](./P1060986.jpg "Costa de Swakopmund")
 
