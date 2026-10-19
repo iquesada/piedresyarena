@@ -13,7 +13,7 @@ translationKey: "namibia-2015/2-de-outjo-a-khorixas"
 
 Un desayuno de campeonato para empezar el día nos despide del lodge <a title="Sophienhof Lodge" href="http://www.sophienhof-lodge.com/en/" target="_blank">Sophienhof</a>, un apacible lugar al que nos gustaría volver algún día. Cómodo y tranquilo... pero no es lo que toca en este viaje, hemos venido a montar en bicicleta y justamente eso es lo que vamos a hacer. 123 kilómetros de carretera nos separan de nuestro destino en Khorixas.
 
-Nos lanzamos a la carretera con muchas ganas y mucha fuerza, avanzamos deprisa rodando en paralelo y charlando, disfrutando del viaje y de la carretera. Por fortuna, ésta carretera está mucho menos transitada que la de ayer y eso nos permite disfrutar de la bicicleta. Los kilómetros pasan deprisa y el paisaje va cambiando, se va desertificando y poco a poco va desapareciendo la vegetación.
+Nos lanzamos a la carretera con muchas ganas y mucha fuerza, avanzamos deprisa rodando en paralelo y charlando, disfrutando del viaje y de la carretera. Por fortuna, esta carretera está mucho menos transitada que la de ayer y eso nos permite disfrutar de la bicicleta. Los kilómetros pasan deprisa y el paisaje va cambiando, se va desertificando y poco a poco va desapareciendo la vegetación.
 
 ![carretera khorixas](./P1060834.jpg "Carretera hacia Khorixas")
 
@@ -37,10 +37,10 @@ La etapa termina por hacérsenos larga, llegamos tocados y temiendo por la etapa
 
 Por fin llegamos a Khorixas, capital administrativa de Damaraland. Con solamente 11.000 habitantes, es un lugar sin ningún tipo de interés turístico pero con un interés diferente: podemos ver cómo es la vida real en Namibia, lejos de las comodidades del hombre blanco (generalmente de ascendencia alemana) que vive a todo tren en una África, digamos, diferente. Pero Khorixas no, esto sí es África.
 
-No obstante, el camping en el que nos vamos a alojar es bonito y cómodo, y nuevamente tenemos césped donde plantar la tienda. Un lujo en esta zona del planeta. Nos vamos a la ducha y el agua nos purifica, se lleva el polvo y las inseguridades surgidas en la etapa de hoy de cara a nuestra siguiente etapa ya por terreno mucho más salvaje. Nos damos un pequeño lujo, una <a title="sidra Savanna" href="http://savannacider.com/" target="_blank">Savanna Dry Premium Cider</a>, una sidra tipo inglesa hecha en sudáfrica que está realmente buena, mientras vemos algún que otro animalito.
+No obstante, el camping en el que nos vamos a alojar es bonito y cómodo, y nuevamente tenemos césped donde plantar la tienda. Un lujo en esta zona del planeta. Nos vamos a la ducha y el agua nos purifica, se lleva el polvo y las inseguridades surgidas en la etapa de hoy de cara a nuestra siguiente etapa ya por terreno mucho más salvaje. Nos damos un pequeño lujo, una <a title="sidra Savanna" href="https://www.savanna.co.za/" target="_blank">Savanna Dry Premium Cider</a>, una sidra tipo inglesa hecha en Sudáfrica que está realmente buena, mientras vemos algún que otro animalito.
 
 ![Un amigo](./P1060850.jpg "Un amigo")
 
-Preparamos la etapa tras una visita al supermercado (¡agua, mucha agua!), ya nos sentimos confiados. Va a ser una gran etapa, lo sabemos. Eso sí, necesitamos dormir... y la fiesta no cesa a nuestro alrededor. Hasta aquí a llegado el regetón, ¡noooooo!
+Preparamos la etapa tras una visita al supermercado (¡agua, mucha agua!), ya nos sentimos confiados. Va a ser una gran etapa, lo sabemos. Eso sí, necesitamos dormir... y la fiesta no cesa a nuestro alrededor. Hasta aquí ha llegado el reguetón, ¡noooooo!
 
 ![Camping Khorixas](./P1060858.jpg "Camping Khorixas")

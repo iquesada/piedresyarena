@@ -4,7 +4,7 @@ date: 2015-08-26
 trip: "namibia-2015"
 lat: -22.6861454274947
 lng: 14.525893502877807
-address: "Alte Brüke Ressort, Swakopmund"
+address: "Alte Brücke Resort, Swakopmund"
 description: "El final de la aventura"
 image: "./P1070001.jpg"
 seoDescription: "Viaje en bicicleta por Namibia. Etapa 7, de Swakopmund a Walvis Bay."
@@ -25,13 +25,13 @@ Cruzamos Walvis Bay de norte a sur, hasta llegar al camping en el que pasaremos 
 
 ![Flamencos en Walvis Bay](./P1070011.jpg "Flamencos en Walvis Bay")
 
-Por cierto, no imaginaba tan grandes a los pelícanos. Tuvimos la suerte de que se nos acercasen tres, sobrevolando nuestras cabezas , y pudimos comprobar su gran envergadura.
+Por cierto, no imaginaba tan grandes a los pelícanos. Tuvimos la suerte de que se nos acercasen tres, sobrevolando nuestras cabezas, y pudimos comprobar su gran envergadura.
 
 ![Pelícanos Walvis Bay](./P1070029.jpg "Pelícanos Walvis Bay")
 
 Fue un día tranquilo y entretenido. No obstante nos vamos temprano para la tienda, mañana toca madrugar para acercarnos a ver a las focas a la bahía. En su parte más alejada, una pequeña península llamada <em>Pelican Point</em>, hay unas 10.000.
 
-A la mañana siguiente pasan a buscarnos por el camping. Hoy sin bici, nos damos el gusto de movernos en todoterreno por la bahía. Atravesamos las refinerías salinas, uno de los grandes negocios de Walvis Bay junto con la pesca. Avanzamos por la arena viendo cientos de flamencos y, a lo lejos, algún chacal. Llegamos hasta lo que en su día fue un faro, construido para exportar a Japón pero que, tras diversos problemas económicos, se quedó en la bahía. Hoy día es un lodge de lujo, el <em>Pelican Point Lodge</em>, muy bonito y muy, muy caro. Y no es de extrañar, ya que desde él puedes disfrutar de la mejores vistas de la zona. No obstante, nosotros nos conformamos con verlo desde la arena.
+A la mañana siguiente pasan a buscarnos por el camping. Hoy sin bici, nos damos el gusto de movernos en todoterreno por la bahía. Atravesamos las refinerías salinas, uno de los grandes negocios de Walvis Bay junto con la pesca. Avanzamos por la arena viendo cientos de flamencos y, a lo lejos, algún chacal. Llegamos hasta lo que en su día fue un faro, construido para exportar a Japón pero que, tras diversos problemas económicos, se quedó en la bahía. Hoy día es un lodge de lujo, el <em>Pelican Point Lodge</em>, muy bonito y muy, muy caro. Y no es de extrañar, ya que desde él puedes disfrutar de las mejores vistas de la zona. No obstante, nosotros nos conformamos con verlo desde la arena.
 
 ![Faro de Walvis Bay](./P1070035.jpg "Faro de Walvis Bay")
 
@@ -43,4 +43,4 @@ Nos vestimos de capitán Pescanova y nos subimos a la piragua. Focas, pelícanos
 
 Diría que las focas se lo pasaron mejor que nosotros si no fuese porque nosotros nos lo pasamos muy, muy bien. Fue una de esas experiencias que dibuja una sonrisa en tu cara cada vez que las recuerdas.
 
-Mañana volvemos a a Windhoek, la capital, en autobús. Y si todo va bien, haremos otro día más de bici.
+Mañana volvemos a Windhoek, la capital, en autobús. Y si todo va bien, haremos otro día más de bici.

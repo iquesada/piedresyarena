@@ -11,21 +11,21 @@ seoDescription: "Viaje en bicicleta por Namibia. De Khorixas al monte Brandberg"
 translationKey: "namibia-2015/3-de-khorixas-al-monte-brandberg"
 ---
 
-Finalmente el susto que nos dieron con el reguetón se quedó en una anécdota y tuvimos una noche tranquila lo que, unido a la paliza de bici que nos habíamos dado, nos hizo dormir de lo lindo. Aún así nos levantamos temprano, hoy nos esperaba un día duro y había que salir lo antes posible. A las siete de la mañana salimos hacia el monte Brandberg. En este monte (más bien un macizo) se encuentra el punto más alto de Namibia, el Königstein, de 2573 metros. También se pueden encontrar multitud de pinturas rupestres. Vamos a tener la suerte de visitar una de ellas, tal vez la más famosa, la llamada White Lady.
+Finalmente el susto que nos dieron con el reguetón se quedó en una anécdota y tuvimos una noche tranquila lo que, unido a la paliza de bici que nos habíamos dado, nos hizo dormir de lo lindo. Aun así nos levantamos temprano, hoy nos esperaba un día duro y había que salir lo antes posible. A las siete de la mañana salimos hacia el monte Brandberg. En este monte (más bien un macizo) se encuentra el punto más alto de Namibia, el Königstein, de 2573 metros. También se pueden encontrar multitud de pinturas rupestres. Vamos a tener la suerte de visitar una de ellas, tal vez la más famosa, la llamada White Lady.
 
 La de hoy será nuestra primera etapa fuera del asfalto, con casi 100 kilómetros de pista de grava y arena para llegar a uno de los lugares más bonitos del viaje, tanto por el espectacular paisaje como por su fauna, encabezada por el gran elefante africano. La primera parte de la etapa nos alberga esperanzas, la pista es buena y avanzamos a buen ritmo. Poco a poco los kilómetros van saliendo y parece que llegaremos a destino a una hora prudencial. Tal vez nos hayamos cargado de agua en exceso.
 
 ![Pista que une Khorixas con Uis](./P1060861.jpg "Pista que une Khorixas con Uis")
 
-El paisaje se va haciendo cada vez más árido, la arena se come la vegetación y cada vez que damos una curva nos parece ver un animal... pero nada, no hay rastros de vida. La soledad nos acompaña a lo largo de ésta pista en la que, de vez en cuando, algún coche rompe el suave ruido de nuestras ruedas sobre el terreno recordándonos que no estamos solos en éste país .
+El paisaje se va haciendo cada vez más árido, la arena se come la vegetación y cada vez que damos una curva nos parece ver un animal... pero nada, no hay rastros de vida. La soledad nos acompaña a lo largo de esta pista en la que, de vez en cuando, algún coche rompe el suave ruido de nuestras ruedas sobre el terreno recordándonos que no estamos solos en este país.
 
 ![Soledad en el camino](./P1060867.jpg "Soledad en el camino")
 
-Aunque, a decir verdad, algún rastro de vida sí que hay. aunque su visión nos desconcierta bastante. ¿Quién ha puesto ésto aquí? ¿Y con qué fin?
+Aunque, a decir verdad, algún rastro de vida sí que hay. Aunque su visión nos desconcierta bastante. ¿Quién ha puesto esto aquí? ¿Y con qué fin?
 
 ![Comenzamos a ver elefantes](./P1060878.jpg "Comenzamos a ver elefantes")
 
-Casi sin darnos cuenta van pasando las horas y empezamos a ver algo en el horizonte. El monte Brandberg se empieza a insinuar y nos hace mucha ilusión, vemos el destino a lo lejos y nos vamos acercando a él. Lo se, parece una tontería, pero tras varios días de horizonte despejado, ésta visión se nos antoja majestuosa.
+Casi sin darnos cuenta van pasando las horas y empezamos a ver algo en el horizonte. El monte Brandberg se empieza a insinuar y nos hace mucha ilusión, vemos el destino a lo lejos y nos vamos acercando a él. Lo sé, parece una tontería, pero tras varios días de horizonte despejado, esta visión se nos antoja majestuosa.
 
 ![Pistas de Namibia](./P1060874.jpg "Pistas de Namibia")
 
@@ -33,9 +33,9 @@ Avanzamos con alegría hasta el kilómetro 60, a 40 del final. Ahí abandonamos 
 
 ![Pistas hacia el monte Brandberg](./P1060895.jpg "Pistas hacia el monte Brandberg")
 
-Rodamos solos, completamente solos, durante horas. Esa soledad horada y ablanda la pista (y nuestros ánimos), convirtiéndola en un toulè ondulè o en una playa, alternativamente. El toulè ondulè es lo peor. La sensación es la misma (me imagino) que rodar sobre una uralita. A veces las estrías están más juntas, otras veces más separadas, pero siempre consiguen el mismo efecto de botes continuos. Y sí, con alforjas es mucho peor.
+Rodamos solos, completamente solos, durante horas. Esa soledad horada y ablanda la pista (y nuestros ánimos), convirtiéndola en una tôle ondulée o en una playa, alternativamente. La tôle ondulée es lo peor. La sensación es la misma (me imagino) que rodar sobre una uralita. A veces las estrías están más juntas, otras veces más separadas, pero siempre consiguen el mismo efecto de botes continuos. Y sí, con alforjas es mucho peor.
 
-Por fortuna la gravedad juega a nuestro favor, la pista es ligeramente descendente y podemos avanzar. Aún así, todo se va haciendo cada vez más pesado y nosotros nos vamos cansando más y más... y lo peor está por llegar. A 20 kilómetros del destino cogemos un el desvío que nos ha de llevar a directos al lodge, pero resulta ser una pista de arena que se va ablandando poco a poco hasta que nos obliga a echar pie a tierra.
+Por fortuna la gravedad juega a nuestro favor, la pista es ligeramente descendente y podemos avanzar. Aun así, todo se va haciendo cada vez más pesado y nosotros nos vamos cansando más y más... y lo peor está por llegar. A 20 kilómetros del destino cogemos el desvío que nos ha de llevar directos al lodge, pero resulta ser una pista de arena que se va ablandando poco a poco hasta que nos obliga a echar pie a tierra.
 
 ![Arena y más arena](./frm.jpg "Arena y más arena")
 
@@ -43,11 +43,11 @@ Con las alforjas cargadas no podemos hacer más que empujar la bici mientras que
 
 <div class="embed"><iframe src="https://www.youtube.com/embed/Ju_qE8b3mJ0" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
 
-Poco a poco vamos avanzando. Arena, toulè ondulè, más arena... ¿y qué es ese olor? A 5 kilómetros de destino pasamos por el cauce del río Ugab, total y absolutamente seco. Y nuevamente ese olor...
+Poco a poco vamos avanzando. Arena, tôle ondulée, más arena... ¿y qué es ese olor? A 5 kilómetros de destino pasamos por el cauce del río Ugab, total y absolutamente seco. Y nuevamente ese olor...
 
 ![Camino rumbo al Monte Brandberg](./P1060900.jpg "Camino rumbo al Monte Brandberg")
 
-Cansados, absolutamente destrozados, llegamos al lodge. Nos registramos, bebemos algo y vamos a montar la tienda cuanto antes para poder descansar. Nada más salir de recepción nos encontramos de bruces con un gran elefante. Tal vez no era tan grande, no lo se, pero desde luego nos pareció enorme. Y solo hay algo mejor que ver un animal como este, y es verlo en libertad. Grande, enorme, impasible. Majestuoso. Delante de nosotros, comiendo las plantas que dan la bienvenida al lodge como si fuesen suyas. Aunque, pensándolo bien, suyas son. Nosotros somos los visitantes, los extranjeros que hemos llegado a molestarles. Intentaremos molestarles lo menos posible, no se vayan a cabrear... Bien, hemos descubierto qué era ese olor. Y ya lo siento, pero al elefante no le gustamos y nos fuimos de allí sin sacar fotos.
+Cansados, absolutamente destrozados, llegamos al lodge. Nos registramos, bebemos algo y vamos a montar la tienda cuanto antes para poder descansar. Nada más salir de recepción nos encontramos de bruces con un gran elefante. Tal vez no era tan grande, no lo sé, pero desde luego nos pareció enorme. Y solo hay algo mejor que ver un animal como este, y es verlo en libertad. Grande, enorme, impasible. Majestuoso. Delante de nosotros, comiendo las plantas que dan la bienvenida al lodge como si fuesen suyas. Aunque, pensándolo bien, suyas son. Nosotros somos los visitantes, los extranjeros que hemos llegado a molestarles. Intentaremos molestarles lo menos posible, no se vayan a cabrear... Bien, hemos descubierto qué era ese olor. Y ya lo siento, pero al elefante no le gustamos y nos fuimos de allí sin sacar fotos.
 
 Sinceramente, es una de esas cosas que hace que un viaje merezca la pena. El camping es precioso, tal vez el mejor lugar al que he llegado en bicicleta en toda mi vida. Nuevamente un lujo en medio de la nada. ¿Quién nos iba a decir que íbamos a acampar en tierra de elefantes?
 
