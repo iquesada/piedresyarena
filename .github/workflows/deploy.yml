@@ -1,18 +1,14 @@
-name: Deploy to GitHub Pages
+name: CI and deploy
 
 on:
   push:
+    branches: [main]
+  pull_request:
     branches: [main]
   workflow_dispatch:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: false
 
 jobs:
   build:
@@ -22,10 +18,28 @@ jobs:
       - uses: withastro/action@v6
         with:
           node-version: 22
+          build-cmd: npm run check
+
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.x"
+      - run: pip install -r tools/requirements.txt
+      - run: npm test
 
   deploy:
-    needs: build
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    needs: [build, test]
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    concurrency:
+      group: pages
+      cancel-in-progress: false
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
