@@ -5,7 +5,7 @@ export type Key = keyof typeof es;
 export type Locale = 'es' | 'en';
 
 /** While false, English pages are noindex and no page links to its other-language version (switcher, hreflang). */
-export const englishPublic = false;
+export const englishPublic = true;
 
 export const toLocale = (value: string | undefined): Locale => (value === 'en' ? 'en' : 'es');
 

@@ -50,7 +50,6 @@ const versions = switchTo && { [locale]: canonical, [other]: new URL(switchTo, A
     <header class:list={['bar', { overlay }]}>
       <a href={homePath(locale)} class="brand"><LogoIcon /><span>{wordmark}</span></a>
       <nav>
-        <a href={homePath(locale)}>{t(locale, 'nav.trips')}</a>
         <a href={aboutPath(locale)}>{t(locale, 'nav.about')}</a>
         {switchTo && <a href={switchTo} hreflang={other} lang={other} aria-label={t(other, 'lang.switch')}>{other.toUpperCase()}</a>}
       </nav>
@@ -96,9 +95,11 @@ const versions = switchTo && { [locale]: canonical, [other]: new URL(switchTo, A
     display: inline-flex; align-items: center; gap: 0.55rem; text-decoration: none;
     font-family: var(--display); font-weight: 800; font-stretch: 112%; font-size: 1.05rem; letter-spacing: 0.02em; text-transform: uppercase;
   }
-  .bar nav { display: flex; gap: 1.2rem; font-weight: 600; font-stretch: 90%; font-size: 1rem; }
-  .bar nav a { text-decoration: none; }
+  .bar nav { display: flex; gap: 1rem; font-weight: 600; font-stretch: 90%; font-size: 1rem; }
+  .bar nav a { text-decoration: none; white-space: nowrap; }
   .bar nav a:hover { color: var(--sand); }
+  /* Too narrow for the wordmark: keep only the icon, with the name still read out. */
+  @media (max-width: 359px) { .bar .brand span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; } }
   footer { background: var(--night); color: var(--khaki); padding: 3rem 1.1rem; display: grid; gap: 0.5rem; justify-items: start; }
   footer .brand { color: var(--white); }
   footer p { margin: 0; font-size: 1rem; }
