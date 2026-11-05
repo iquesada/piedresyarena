@@ -53,6 +53,8 @@ const trips = await Promise.all(
 
   /** Below this zoom each trip is one pin; from it on, each stage has its own. */
   const STAGES_ZOOM = 5;
+  /** A trip line segment shorter than this on screen (px) gets no arrow: it would sit on the pins. */
+  const ARROW_MIN_SEGMENT = 40;
 
   const el = document.getElementById('map')!;
   const trips: Trip[] = JSON.parse(el.dataset.trips!);
@@ -72,6 +74,15 @@ const trips = await Promise.all(
       html: `<svg viewBox="0 0 46 34" width="46" height="34" aria-hidden="true">
         <path d="M4 1h38a3 3 0 0 1 3 3v20a3 3 0 0 1-3 3H28l-5 6-5-6H4a3 3 0 0 1-3-3V4a3 3 0 0 1 3-3z" fill="#fff" stroke="rgb(0 0 0 / .25)"/>
         <g transform="translate(3 2)" style="color:${color}">${RIDER_SVG}</g></svg>`,
+    });
+
+  // An arrowhead pointing right, turned by `angle` (radians, clockwise on screen).
+  const arrow = (color: string, angle: number) =>
+    L.divIcon({
+      className: 'arrow',
+      iconSize: [16, 16],
+      html: `<svg viewBox="0 0 12 12" width="16" height="16" aria-hidden="true" style="color:${color};transform:rotate(${angle}rad)">
+        <path d="M1 1l10 5-10 5 3-5z" fill="currentColor" stroke="#fff" stroke-width="1"/></svg>`,
     });
 
   // Space of the map covered by the overlay: a band along the bottom or a column on the left. Nothing when
@@ -117,9 +128,15 @@ const trips = await Promise.all(
 
   const tripPins = L.layerGroup();
   const stagePins = L.layerGroup();
+  // Trip lines join the stage places in order, and arrows show the way. A stage place is where the stage
+  // starts, so the line ends where the last stage starts: the last stage's ride is not drawn.
+  const tripLines = L.layerGroup();
+  const arrows = L.layerGroup().addTo(tripLines);
   for (const trip of trips) {
     const icon = pin(trip.color);
-    const bounds = L.latLngBounds(trip.stages.map((s) => [s.lat, s.lng]));
+    const points = trip.stages.map((s): [number, number] => [s.lat, s.lng]);
+    const bounds = L.latLngBounds(points);
+    L.polyline(points, { color: trip.color, weight: 3, opacity: 0.7, dashArray: '6 6', interactive: false }).addTo(tripLines);
     // A trip's pin zooms into its stages.
     L.marker(bounds.getCenter(), { icon, title: trip.name, alt: trip.name, riseOnHover: true })
       .on('click', () => fit(bounds))
@@ -136,10 +153,30 @@ const trips = await Promise.all(
     }
   }
 
+  // One arrow at the middle of each segment, pointing to the next stage. Angles are taken on screen, where
+  // the map draws the line, so they change with the zoom.
+  function drawArrows() {
+    arrows.clearLayers();
+    for (const trip of trips) {
+      for (let i = 1; i < trip.stages.length; i++) {
+        const a = map.latLngToLayerPoint([trip.stages[i - 1].lat, trip.stages[i - 1].lng]);
+        const b = map.latLngToLayerPoint([trip.stages[i].lat, trip.stages[i].lng]);
+        if (a.distanceTo(b) < ARROW_MIN_SEGMENT) continue;
+        L.marker(map.layerPointToLatLng(a.add(b).divideBy(2)), {
+          icon: arrow(trip.color, Math.atan2(b.y - a.y, b.x - a.x)),
+          interactive: false,
+          keyboard: false,
+          zIndexOffset: -1000,
+        }).addTo(arrows);
+      }
+    }
+  }
+
   const showPins = () => {
     const detailed = map.getZoom() >= STAGES_ZOOM;
-    (detailed ? tripPins : stagePins).remove();
-    (detailed ? stagePins : tripPins).addTo(map);
+    for (const layer of detailed ? [tripPins] : [stagePins, tripLines]) layer.remove();
+    for (const layer of detailed ? [stagePins, tripLines] : [tripPins]) layer.addTo(map);
+    if (detailed) drawArrows();
   };
   map.on('zoomend', showPins);
   fit(L.latLngBounds(trips.flatMap((trip) => trip.stages.map((s): [number, number] => [s.lat, s.lng]))));
@@ -149,6 +186,8 @@ const trips = await Promise.all(
 <style>
   #map { height: min(60vh, 520px); margin-bottom: 2rem; }
   #map :global(.pin) { background: none; border: 0; filter: drop-shadow(0 1px 1.5px rgb(0 0 0 / 0.35)); }
+  #map :global(.arrow) { background: none; border: 0; }
+  #map :global(.arrow svg) { display: block; }
 
   /* Stage popups: a small photo tile with the text over the photo. */
   #map :global(.popup .leaflet-popup-content-wrapper) { padding: 0; border-radius: 0; overflow: hidden; }
