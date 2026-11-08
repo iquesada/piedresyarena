@@ -10,6 +10,8 @@ image: "./DSCN2717.jpg"
 seoTitle: "Etiopía Wild Bike 8 | piedres y arena"
 seoDescription: "Octava etapa del Etiopía Wild Bike. Blog de viajes en bicicleta."
 translationKey: "etiopia-wild-bike-2012/etapa-8"
+distance: 16.8
+elevation: 1144
 ---
 
 La mañana amanece nuevamente calurosa y apetece dar pedales, aunque el cuerpo empieza a estar cansado. El perfil de la etapa es similar al que hemos visto estos últimos días, un continuo ascenso a la salida para volver a bajar al cauce del río al final. El paisaje, aunque bonito, ya no tiene la majestuosidad de etapas anteriores y los pueblos que atravesamos comienzan a estar más <em>maleados</em>. Los niños ya no salen a saludarnos como antes, sino que ahora se divierten jugando al tiro al blanco, nunca mejor dicho. Creo que nuestras ropas de colores ayudan a que no fallen ni un tiro, la cosa se pone bastante fea y decidimos mantenernos juntos, al menos durante el paso por los pueblos.

@@ -10,6 +10,8 @@ image: "./etiopia_3.jpg"
 seoTitle: "Etiopía Wild Bike 3 | piedres y arena"
 seoDescription: "Tercera etapa del Etiopía Wild Bike. Blog de viajes en bicicleta."
 translationKey: "etiopia-wild-bike-2012/etapa-3"
+distance: 31.3
+elevation: 1406
 ---
 
 La mañana nos recibe con un calor asfixiante. La etapa será corta, pero el calor y la orografía la harán muy dura. Y parece que lo de los cocodrilos no iba en broma, allí donde nos bañamos el día anterior había un par de cocodrilos <em>tomando el sol</em>. Espero que ya hayan desayunado...

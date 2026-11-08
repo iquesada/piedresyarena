@@ -10,6 +10,8 @@ image: "./DSCN2597.jpg"
 seoTitle: "Etiopía Wild Bike 5 | piedres y arena"
 seoDescription: "Quinta etapa del Etiopía Wild Bike. Blog de viajes en bicicleta."
 translationKey: "etiopia-wild-bike-2012/etapa-5"
+distance: 77.5
+elevation: 1631
 ---
 
 Ha sido una noche confortable... hasta las 5 de la mañana, hora a la que el imán del pueblo ha considerado que ya habíamos dormido suficiente y se ha puesto a rezar. Sinceramente, parecía que estaba rezando en la habitación. Supongo que con el tiempo uno se acostumbra...
