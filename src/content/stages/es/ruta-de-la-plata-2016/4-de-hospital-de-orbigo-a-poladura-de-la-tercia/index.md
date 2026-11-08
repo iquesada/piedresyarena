@@ -9,6 +9,8 @@ description: "Llegando a casa"
 image: "./leon.jpg"
 seoDescription: "Ruta de la Plata y Camino de San Salvador en bicicleta, de Hospital de Órbigo a Poladura de la Tercia"
 translationKey: "ruta-de-la-plata-2016/4-de-hospital-de-orbigo-a-poladura-de-la-tercia"
+distance: 86.2
+elevation: 1206
 ---
 
 Siete de la mañana. Lo que la noche anterior era un albergue abarrotado de gente se ha convertido en un lugar vacío. Sólo quedo yo. El Camino Francés me sigue impresionando, por fortuna hoy cambio al Camino de San Salvador.
