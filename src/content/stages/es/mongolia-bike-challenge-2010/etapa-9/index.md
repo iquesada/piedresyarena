@@ -8,6 +8,8 @@ address: "Tsetserleg, Mongolia"
 description: "La etapa más larga"
 image: "./DSCN2085.jpg"
 translationKey: "mongolia-bike-challenge-2010/etapa-9"
+distance: 142.0
+elevation: 1766
 ---
 
 Suena el despertador. Pensaba que ayer hacía frío, pero lo de hoy lo supera con creces. Ha caído una helada como nunca había visto en mi vida, es realmente complicado recoger la tienda de campaña, la tela se encuentra totalmente congelada y parece que se va a partir en pedazos. Tomo el desayuno con los guantes de la bici, aunque están llenos de... roña. Nada, no hay manera de entrar en calor. Bien temprano nos acercamos a la salida de la novena etapa, la más larga de todas, con 144 kilómetros y 2100 metros de desnivel.

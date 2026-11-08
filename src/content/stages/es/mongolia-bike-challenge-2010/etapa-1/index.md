@@ -8,6 +8,8 @@ address: "Mandalgobi, Mongolia"
 description: "De camino al Gobi"
 image: "./DSCN2004.jpg"
 translationKey: "mongolia-bike-challenge-2010/etapa-1"
+distance: 98.2
+elevation: 936
 ---
 
 Día 10 de agosto, algún lugar de Mongolia. Nos encontramos a 50 km al norte de Mandalgobi, una de las ciudades que anuncian la entrada del temido desierto del Gobi. 6 de la mañana, diana oficial del campamento. Nos lanzamos a las 6:30 como hienas a por el desayuno, nos quedan 101km por delante. Bueno, no parece gran cosa, toma de contacto. A las 8:30 se da la salida oficial a la primera etapa de la primera edición del Mongolia Bike Challenge 2010. 10 metros más tarde ya hay un ciclista en el suelo sangrando por la boca, premio al más idiota. Quedan 1400 km por delante, hay que tomarlo con calma... en fin, esquivo la bici y tiro para adelante. Una dura subida de piedras para abrir boca y luego un terreno favorable hasta meta, nada, esto es pan comido.

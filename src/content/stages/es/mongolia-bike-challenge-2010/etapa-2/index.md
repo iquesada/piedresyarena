@@ -8,6 +8,8 @@ address: "Gobi central"
 description: "El día de la tôle ondulée"
 image: "./DSCN2015.jpg"
 translationKey: "mongolia-bike-challenge-2010/etapa-2"
+distance: 114.1
+elevation: 535
 ---
 
 Día 11 de agosto, segunda etapa.

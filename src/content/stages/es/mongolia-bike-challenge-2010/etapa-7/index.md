@@ -8,6 +8,8 @@ address: "Arvaikheer, Mongolia"
 description: "La etapa reina"
 image: "./DSCN2068.jpg"
 translationKey: "mongolia-bike-challenge-2010/etapa-7"
+distance: 125.4
+elevation: 2300
 ---
 
 Día 17 de agosto, etapa 7. La etapa reina de la carrera.

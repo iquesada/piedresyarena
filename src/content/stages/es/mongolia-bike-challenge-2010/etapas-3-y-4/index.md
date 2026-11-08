@@ -8,6 +8,8 @@ address: "Dalanzadgad, Mongolia"
 description: "La dureza del desierto"
 image: "./DSCN2052.jpg"
 translationKey: "mongolia-bike-challenge-2010/etapas-3-y-4"
+distance: 55.3
+elevation: 904
 ---
 
 Día 12, tercera etapa.
