@@ -9,6 +9,8 @@ description: "Adentrándonos en el desierto"
 image: "./jordania_3.jpg"
 seoDescription: "Jordania en bicicleta, desde Al Karak hasta Dana"
 translationKey: "jordania-2011/etapa-3"
+distance: 86.7
+elevation: 1854
 ---
 
 No hay nada como un buen sueño reparador para recuperar la energía perdida el día anterior. El hotel de Al Karak era confortable, y la fatiga acumulada tras la agónica ascensión nos hizo dormir como bebés. A la mañana siguiente nos esperaba un buen desayuno, la mejor forma de empezar una larga etapa de 86 kilómetros.

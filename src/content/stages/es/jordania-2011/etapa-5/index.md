@@ -9,6 +9,8 @@ description: "De camino al Wadi Rum"
 image: "./jordania_5.jpg"
 seoDescription: "Jordania en bicicleta. Desde Petra hasta el Wadi Rum"
 translationKey: "jordania-2011/etapa-5"
+distance: 91.9
+elevation: 771
 ---
 
 Después del día de descanso (por llamarlo de alguna manera, ya que la visita a Petra no fue lo que se dice un descanso) nos tocaba la etapa reina. 92 kilómetros nos separaban de nuestro destino en el Wadi Rum, un precioso desierto que ha salido en multitud de películas y que íbamos a tener el lujo de disfrutar, incluso íbamos a dormir en sus arenas dentro de unas confortables jaimas.

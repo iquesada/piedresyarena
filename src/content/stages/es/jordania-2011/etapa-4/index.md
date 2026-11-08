@@ -9,6 +9,8 @@ description: "Destino, Petra"
 image: "./jordania_4.jpg"
 seoDescription: "Jordania en bicicleta, de Dana a Petra"
 translationKey: "jordania-2011/etapa-4"
+distance: 71.8
+elevation: 1379
 ---
 
 Hoy va a ser un gran día. Por fin vamos a llegar a Petra, y no hay duda de que todos estábamos ansiosos por llegar y poder visitar esa maravillosa ciudad. 75 kilómetros separan Dana, inicio de la etapa, de Petra.

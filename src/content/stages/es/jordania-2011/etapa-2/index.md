@@ -9,6 +9,8 @@ description: "Bajo el nivel del mar"
 image: "./jordania_2.jpg"
 seoDescription: "Jordania en bicicleta, desde Mukawer hasta Al Karak."
 translationKey: "jordania-2011/etapa-2"
+distance: 83.1
+elevation: 1807
 ---
 
 Después de dormir al raso en Mukawer, tras una confortable y bonita noche estrellada, nos sentimos con fuerzas para comenzar la segunda etapa. El principio no parece complicado, tan solo un descenso que nos llevará hasta el mar Muerto para recuperar altura nuevamente al final de la etapa. Pero como siempre, llegaría un invitado que nos iba a endurecer la etapa.
