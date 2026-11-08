@@ -8,6 +8,8 @@ address: "Kamwanga"
 description: "Descubriendo al pueblo Maasai"
 image: "./tanzania3.jpg"
 translationKey: "tanzania-2017/3-de-kamwanga-a-olpopongi"
+distance: 65.6
+elevation: 659
 ---
 
 Hoy hemos ~~disfrutado~~ sufrido una noche complicada. Hemos elegido quedarnos a dormir en el centro neurálgico de la marcha nocturna. Hasta altas horas hemos escuchado, a todo volumen, la música de moda en esta zona. Después han venido las juergas nocturnas en las habitaciones contiguas... en resumen, no ha sido sencillo dormirse. Afortunadamente estábamos muy cansados y, aunque no hemos dormido todo lo que nos habría gustado, al final pudimos descansar.

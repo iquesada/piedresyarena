@@ -8,6 +8,8 @@ address: "Kikuletwa Hot Springs"
 description: "Mucho asfalto... ¡por fin!"
 image: "./tanzania5.jpg"
 translationKey: "tanzania-2017/5-de-kikuletwa-hot-spring-a-arusha"
+distance: 71.9
+elevation: 828
 ---
 
 Despertamos bien temprano tras una tranquila noche acompañada por los sonidos de los animales, sobre todo monos, que correteaban por encima de la tienda. Momentos impagables que somos afortunados de disfrutar.

@@ -8,6 +8,8 @@ address: "Olpopongi Maasai Cultural Village"
 description: "¡Ruta con sorpresa!"
 image: "./tanzania4.jpg"
 translationKey: "tanzania-2017/4-de-olpopongi-a-kikuletwa-hot-spring"
+distance: 66.5
+elevation: 266
 ---
 
 ¡Menuda noche! Hoy sí que hemos descansado, y en uno de los mejores lugares para hacerlo. En medio de la sabana tanzana, muy cerca de Kenia, en una <strong>confortable</strong> choza de barro y ramas. Y recalco lo de <strong>confortable</strong>, porque realmente, lo era.
