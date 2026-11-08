@@ -8,6 +8,8 @@ address: "Arvaikheer, Mongolia"
 description: "Remontando desde la salida"
 image: "./DSCN2064.jpg"
 translationKey: "mongolia-bike-challenge-2010/etapa-6"
+distance: 104.6
+elevation: 1141
 ---
 
 Día 16, etapa 6. Ya hemos pasado el ecuador de la prueba, tras un día de 7 horas de furgoneta que se empeñan en llamar "día de descanso". Tal vez descanso para la familia, ya que pude utilizar mi teléfono móvil después de muchos días de desconexión.

@@ -8,6 +8,8 @@ address: "Kharkhorin, Mongolia"
 description: "Objetivo cumplido"
 image: "./DSCN2102.jpg"
 translationKey: "mongolia-bike-challenge-2010/etapa-10"
+distance: 100.4
+elevation: 885
 ---
 
 Décima y última etapa. Esto se acaba, solo 100 kilómetros nos separan de la última línea de meta del Mongolia Bike Challenge 2010. La verdad es que siento, además de la lógica alegría, un cierto alivio al saber que se acaban las etapas. Lo cierto es que ya estamos castigaditos...
