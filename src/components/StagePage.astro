@@ -6,6 +6,7 @@ import StageNav from './StageNav.astro';
 import { formatDate, stageFigures, t, toLocale } from '../i18n';
 import { stagesOf, tripOf, tripPath, tripText, type Stage } from '../lib/content';
 import TripMark from './TripMark.astro';
+import PhotoZoom from './PhotoZoom.astro';
 
 interface Props {
   stage: Stage;
@@ -39,6 +40,7 @@ const { title, date, image, description, seoTitle, seoDescription, distance, ele
   </article>
 
   <StageNav stage={stage} />
+  <PhotoZoom />
 </Base>
 
 <style>

@@ -4,6 +4,7 @@ import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import TripTiles from './TripTiles.astro';
 import InstagramLink from './InstagramLink.astro';
+import PhotoZoom from './PhotoZoom.astro';
 import { t, toLocale } from '../i18n';
 import type { aboutPage } from '../lib/content';
 
@@ -36,6 +37,7 @@ const locale = toLocale(Astro.currentLocale);
     <h2 class="display">{t(locale, 'trips.label')}</h2>
     <TripTiles />
   </section>
+  <PhotoZoom />
 </Base>
 
 <script>
