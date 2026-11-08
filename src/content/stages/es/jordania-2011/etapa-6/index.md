@@ -9,6 +9,8 @@ description: "Fin del viaje"
 image: "./jordania_6.jpg"
 seoDescription: "Jordania en bicicleta. Del Wadi Rum a Áqaba."
 translationKey: "jordania-2011/etapa-6"
+distance: 52.1
+elevation: 146
 ---
 
 Última etapa, solo nos quedaba avanzar desde lo más profundo del desierto del <strong>Wadi Rum</strong> hasta la turística ciudad de <strong>Áqaba</strong>. Nos despertamos temprano, ya que teníamos que avanzar por una zona con mucha arena y lo íbamos a hacer en todo terreno.

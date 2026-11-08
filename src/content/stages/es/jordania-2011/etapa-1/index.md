@@ -9,6 +9,8 @@ description: "Toma de contacto"
 image: "./jordania_1.jpg"
 seoDescription: "Viaje en bicicleta desde Madaba hasta Áqaba. Visita al monte Nebo y la fortaleza de Mukawer."
 translationKey: "jordania-2011/etapa-1"
+distance: 62.7
+elevation: 821
 ---
 
 Tenía muchas ganas de volver a un país árabe y, aunque mi primera idea era Egipto, finalmente me decidí por Jordania. No iba a ver las pirámides, pero por contra iba a visitar la magnífica ciudad de Petra.
