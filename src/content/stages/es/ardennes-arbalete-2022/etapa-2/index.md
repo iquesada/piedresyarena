@@ -8,6 +8,8 @@ address: "Malmedy"
 description: "Ahora sí, ¡verano!"
 image: "./IMG_20220708_142554.jpg"
 translationKey: "ardennes-arbalete-2022/etapa-2"
+distance: 72.5
+elevation: 1134
 ---
 
 ¿Cómo iba a amanecer hoy? Sorpresa... de las buenas. Aunque frío, el día amanece despejado, lo que anima mucho a pedalear. Al poco de salir de Malmedy ya me meto en bosques. Discurro toda la mañana por estrechos senderos que me llevan de un bosque a otro, cruzados de tarde en tarde por una carretera, y vuelta al sendero. ¡El sueño de cualquier ciclista!
