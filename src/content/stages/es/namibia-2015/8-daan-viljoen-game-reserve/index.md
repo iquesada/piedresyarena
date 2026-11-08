@@ -9,6 +9,8 @@ description: "Un buen día de BTT"
 image: "./P1070083.jpg"
 seoDescription: "Viaje en bicicleta por Namibia. Etapa 8, Daan Viljoen Game Reserve"
 translationKey: "namibia-2015/8-daan-viljoen-game-reserve"
+distance: 58.0
+elevation: 936
 ---
 
 Ya estamos de vuelta en Windhoek, la capital de Namibia. Tras la grata experiencia del kayak con las focas, un autobús nos llevó durante varias horas desde la fresca y agradable costa hasta el caluroso interior. Cuando llegamos a Windhoek, hace ya diez días, no habíamos padecido tanto calor. Y estamos en el invierno austral, no me quiero imaginar los veranos en esta parte del mundo.

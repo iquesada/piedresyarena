@@ -9,6 +9,8 @@ description: "Cambio de aires"
 image: "./P1060984.jpg"
 seoDescription: "Viaje en bicicleta por Namibia. De Henties Bay a Swakopmund"
 translationKey: "namibia-2015/6-de-henties-bay-a-swakopmund"
+distance: 71.3
+elevation: 127
 ---
 
 Hoy nos toca etapa llana y con buen firme. Vamos a recorrer la costa desde Henties Bay hasta Swakopmund, poco más de 70 kilómetros fáciles que vamos a agradecer después del día de ayer. El clima cambió totalmente, amaneció mucho más frío que días atrás y sobre todo mucho más húmedo, tanto es así que salimos con el chubasquero. Como en el camping no había cafetería, arrancamos la ruta sin desayunar con la esperanza de encontrar un buen sitio para hacerlo. Y así fue, nada más salir nos encontramos con una bonita cafetería donde pudimos tomar un gran desayuno, uno de los mejores del viaje. Nuevamente Henties Bay nos sorprendía gratamente.

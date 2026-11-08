@@ -9,6 +9,8 @@ description: "Tras los pasos de la White Lady"
 image: "./P1060932.jpg"
 seoDescription: "Viaje en bicicleta por Namibia. Del monte Brandberg a Uis"
 translationKey: "namibia-2015/4-del-monte-brandberg-a-uis"
+distance: 45.8
+elevation: 584
 ---
 
 Tras la paliza de ayer, hoy nos levantamos con más bien pocas ganas de juerga. Por fortuna tenemos un día sencillo, al menos sobre el papel, sabemos que las etapas vistas sobre el mapa son una cosa y a los pedales, otra distinta. Los primeros 8 kilómetros son difíciles, sobre una pista parecida a la de ayer, pero tras ellos vendrán otros más sencillos. Pero antes de pedalear toca alimentarse, así que nos vamos al lodge a disfrutar de un buen desayuno. Y ahí nos encontramos a Carlos, una pequeña suricata que se ha convertido en la mascota del lodge por méritos propios. Tras intentar robarme (sin éxito) el agua del camelbak, tuvo el amable gesto de posar para una foto.

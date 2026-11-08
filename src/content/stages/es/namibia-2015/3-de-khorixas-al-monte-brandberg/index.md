@@ -9,6 +9,8 @@ description: "La ruta de los elefantes"
 image: "./P1060912.jpg"
 seoDescription: "Viaje en bicicleta por Namibia. De Khorixas al monte Brandberg"
 translationKey: "namibia-2015/3-de-khorixas-al-monte-brandberg"
+distance: 101.4
+elevation: 358
 ---
 
 Finalmente el susto que nos dieron con el reguetón se quedó en una anécdota y tuvimos una noche tranquila lo que, unido a la paliza de bici que nos habíamos dado, nos hizo dormir de lo lindo. Aun así nos levantamos temprano, hoy nos esperaba un día duro y había que salir lo antes posible. A las siete de la mañana salimos hacia el monte Brandberg. En este monte (más bien un macizo) se encuentra el punto más alto de Namibia, el Königstein, de 2573 metros. También se pueden encontrar multitud de pinturas rupestres. Vamos a tener la suerte de visitar una de ellas, tal vez la más famosa, la llamada White Lady.
