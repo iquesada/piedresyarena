@@ -8,6 +8,8 @@ address: "Atabe"
 description: "Magic!"
 image: "./shatili.jpg"
 translationKey: "georgia-2019/3-de-atabe-a-shatili"
+distance: 45.2
+elevation: 1205
 ---
 
 ¡Qué bien se duerme cuando se está cansado! La noche ha sido fría, así que me he acurrucado y he dormido como pocas veces. Me levanto temprano y me encuentro con otro desayuno contundente, compuesto de prácticamente lo mismo que la cena del día anterior: queso casero, miel de sus abejas, verduras de su huerto... pero desgraciadamente, el único café que se consume por la zona es café soluble. Vaya, tampoco me voy a quejar por eso... pero mejor me tomo un té.

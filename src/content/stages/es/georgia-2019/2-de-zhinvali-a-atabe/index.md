@@ -8,6 +8,8 @@ address: "Zhinvali"
 description: "Adentrándome en el Cáucaso"
 image: "./atabe.jpg"
 translationKey: "georgia-2019/2-de-zhinvali-a-atabe"
+distance: 71.6
+elevation: 1627
 ---
 
 El día no empieza nada bien. Me he despertado en mitad de la noche con migraña. Por la mañana la migraña continúa con la misma intensidad, con sus síntomas habituales de dolor de cabeza y nauseas. Desayuno un café y poco más, y arranco con bastante miedo... y el estómago casi vacío.

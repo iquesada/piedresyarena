@@ -8,6 +8,8 @@ address: "Zhinvali"
 description: "Bici limpia, viaje terminado"
 image: "./monastry.jpg"
 translationKey: "georgia-2019/6-de-zhinvali-a-telavi"
+distance: 93.5
+elevation: 1205
 ---
 
 Hoy tocaba ruta sencilla, al menos sobre el papel. Aunque me quedaban bastantes kilómetros hasta Telavi todo el recorrido era asfaltado, lo que facilitaba mucho la marcha. Eso sí, los 100 kilómetros los había que rodar.
