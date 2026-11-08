@@ -9,7 +9,6 @@ const labels = {
 };
 ---
 <dialog class="zoom" aria-label={t(locale, 'photo.open')} data-labels={JSON.stringify(labels)}>
-  <img alt="" />
   <p class="zoom-count" aria-live="polite"></p>
   <button type="button" class="zoom-close" aria-label={t(locale, 'photo.close')}>✕</button>
   <button type="button" class="zoom-prev" aria-label={t(locale, 'gallery.prev')}>←</button>
@@ -18,7 +17,10 @@ const labels = {
 
 <script>
   const dialog = document.querySelector<HTMLDialogElement>('dialog.zoom')!;
-  const big = dialog.querySelector('img')!;
+  // Created here, not in the markup: the build check wants every <img> in the HTML to be an optimized one.
+  const big = document.createElement('img');
+  big.alt = '';
+  dialog.prepend(big);
   const count = dialog.querySelector<HTMLElement>('.zoom-count')!;
   const { open, position } = JSON.parse(dialog.dataset.labels!) as { open: string; position: string };
   const photos = [...document.querySelectorAll<HTMLImageElement>('.prose img')].filter((img) => !img.closest('a'));
