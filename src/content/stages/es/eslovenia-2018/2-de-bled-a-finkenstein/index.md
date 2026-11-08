@@ -8,6 +8,8 @@ address: "Lago Bled"
 description: "El día más duro"
 image: "./julian_alps.jpg"
 translationKey: "eslovenia-2018/2-de-bled-a-finkenstein"
+distance: 70.6
+elevation: 2077
 ---
 
 Después del tute del día anterior me propuse seriamente escapar de cualquier <em>emboscada</em> posible. Sabía que la etapa sería dura. Me propuse cruzar a Austria y, para ello, tenía que cruzar la cadena montañosa que representa la frontera natural entre Eslovenia y Austria. El desnivel no me lo iba a quitar nadie, pero intentaría evitar en todo lo posible volver a empujar la bici. Y lo conseguí durante los primeros 35 kilómetros, en los que rodé mayoritariamente por un carril bici (sí, había kilómetros y kilómetros de carril bici) ligeramente ascendentes, pero muy sencillos. Todos ellos por un precioso valle, en el que tuve la suerte de ver el entrenamiento de verano de los esquiadores de fondo. Por desgracia, no pude sacarles una foto.

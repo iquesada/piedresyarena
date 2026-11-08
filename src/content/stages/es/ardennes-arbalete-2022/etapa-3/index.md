@@ -8,6 +8,8 @@ address: "Houffalize"
 description: "La Chouffe"
 image: "./IMG_20220709_102858.jpg"
 translationKey: "ardennes-arbalete-2022/etapa-3"
+distance: 72.9
+elevation: 1495
 ---
 
 Pero, ¿Bélgica no era todo llano? Nada más salir de Houffalize (donde, por cierto, conviene llevar buena ropa de abrigo si vas a pasar la noche) la ruta me lleva por kilómetros de bosques y más bosques. De estrechos caminos a pequeñas pistas, me siento perdido en los bosques de Bélgica. Aunque hoy en día, con la ruta cargada en el GPS, lo de perderse se hace complicado.

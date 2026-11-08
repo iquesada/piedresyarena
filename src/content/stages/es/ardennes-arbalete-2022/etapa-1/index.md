@@ -8,6 +8,8 @@ address: "Lieja"
 description: "¿Vacaciones de verano?"
 image: "./IMG_20220707_093035.jpg"
 translationKey: "ardennes-arbalete-2022/etapa-1"
+distance: 77.3
+elevation: 985
 ---
 
 Creo que esta era una deuda pendiente. No puede ser que mi afición al ciclismo aún no me haya llevado a Bélgica. Por un motivo u otro he visitado diferentes partes del mundo, pero me quedaba uno de los países con más tradición ciclista. Si no el que más.

@@ -8,6 +8,8 @@ address: "Lieja"
 description: "Emboscada final"
 image: "./IMG_20220711_161252.jpg"
 translationKey: "ardennes-arbalete-2022/etapa-5"
+distance: 58.4
+elevation: 689
 ---
 
 Como ya comenté en la entrada anterior, la hospitalidad del alojamiento era casi insuperable. Y el desayuno... en fin, os dejo una muestra.

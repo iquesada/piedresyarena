@@ -8,6 +8,8 @@ address: "Salamanca"
 description: "Ancha es Castilla"
 image: "./zamora.jpg"
 translationKey: "ruta-de-la-plata-2016/2-de-salamanca-a-granja-de-moreruela"
+distance: 107.2
+elevation: 779
 ---
 
 La etapa de hoy no parece muy interesante. Más de cien kilómetros absolutamente llanos me separan de Granja de Moreruela, destino programado para la etapa del día. Antes de salir de Salamanca me encuentro con David, un sevillano muy simpático. Viene haciendo la Ruta de la Plata desde Sevilla, con intención de llegar a Granja de Moreruela para ahí desviarse y tomar el camino sanabrés con rumbo a Santiago de Compostela. Dado que tenemos el mismo destino para el día de hoy, decidimos compartir ruta.

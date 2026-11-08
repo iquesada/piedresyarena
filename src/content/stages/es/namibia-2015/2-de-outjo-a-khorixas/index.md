@@ -9,6 +9,8 @@ description: "Adentrándonos en Damaraland"
 image: "./P1060836.jpg"
 seoDescription: "Ruta en bicicleta por Namibia. Segunda etapa, de Outjo a Khorixas"
 translationKey: "namibia-2015/2-de-outjo-a-khorixas"
+distance: 123.5
+elevation: 264
 ---
 
 Un desayuno de campeonato para empezar el día nos despide del lodge <a title="Sophienhof Lodge" href="http://www.sophienhof-lodge.com/en/" target="_blank">Sophienhof</a>, un apacible lugar al que nos gustaría volver algún día. Cómodo y tranquilo... pero no es lo que toca en este viaje, hemos venido a montar en bicicleta y justamente eso es lo que vamos a hacer. 123 kilómetros de carretera nos separan de nuestro destino en Khorixas.

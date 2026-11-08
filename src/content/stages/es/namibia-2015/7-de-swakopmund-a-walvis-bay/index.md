@@ -9,6 +9,8 @@ description: "El final de la aventura"
 image: "./P1070001.jpg"
 seoDescription: "Viaje en bicicleta por Namibia. Etapa 7, de Swakopmund a Walvis Bay."
 translationKey: "namibia-2015/7-de-swakopmund-a-walvis-bay"
+distance: 39.4
+elevation: 112
 ---
 
 Último día, última etapa. Tan solo quedan 35 kilómetros por recorrer entre Swakopmund y Walvis Bay, sencillos y llanos, siguiendo rumbo sur por la costa por un terreno similar al de ayer. Podría darnos pena, y nos dará, pero el cansancio acumulado y el clima desapacible nos hacen tener muchas ganas de llegar a destino y descansar de la bici por unos días. Salimos abrigados, la bruma nos envuelve y la humedad cala. El asfalto es bueno y rápidamente dejamos Swakopmund atrás.

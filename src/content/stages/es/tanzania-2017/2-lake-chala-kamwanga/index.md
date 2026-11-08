@@ -8,6 +8,8 @@ address: "Lake Chala"
 description: "Auténtico"
 image: "./tanzania2.jpg"
 translationKey: "tanzania-2017/2-lake-chala-kamwanga"
+distance: 77.7
+elevation: 1535
 ---
 
 Hemos pasado una noche magnífica en el lago Chala. Nuestra primera noche de camping sin mosquitos, eso es una buena noticia. Aunque nuestro organismo va cargado de Malarone, no tenemos ningún interés en probar su eficacia.

@@ -10,6 +10,8 @@ image: "./etiopia_4.jpg"
 seoTitle: "Etiopía Wild Bike 4 | piedres y arena"
 seoDescription: "Cuarta etapa del Etiopía Wild Bike. Blog de viajes en bicicleta."
 translationKey: "etiopia-wild-bike-2012/etapa-4"
+distance: 70.8
+elevation: 638
 ---
 
 Hoy hemos dormido a más altura, por lo que la noche no ha sido tan calurosa y hemos podido descansar mucho mejor. La cama del Hotel Africa era confortable, la he aprovechado para dormir como un bebé.

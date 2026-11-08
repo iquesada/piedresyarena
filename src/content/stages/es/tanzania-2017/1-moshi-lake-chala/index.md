@@ -8,6 +8,8 @@ address: "Moshi, Tanzania"
 description: "Un comienzo inesperado"
 image: "./tanzania1.jpg"
 translationKey: "tanzania-2017/1-moshi-lake-chala"
+distance: 73.4
+elevation: 539
 ---
 
 Por fin vamos a pedalear por Tanzania. Después de una llegada complicada, al ver que nuestras bicis no habían volado con nosotros y se habían quedado en algún aeropuerto (posiblemente en Nairobi), todo se solucionó. Desde el aeropuerto avisaron a Elisante, el encargado del hotel, de la llegada de las bicis a las oficinas que la compañía aérea tiene en Arusha, y éste nos gestionó un transporte para ir a por ellas. Aprovecho para darle las gracias a Elisante por la ayuda prestada, aunque no creo que me lea.

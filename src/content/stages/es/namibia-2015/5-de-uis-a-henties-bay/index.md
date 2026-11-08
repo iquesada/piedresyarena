@@ -9,6 +9,8 @@ description: "Dureza inesperada"
 image: "./P1060975.jpg"
 seoDescription: "Viaje en bicicleta por Namibia. De Uis a Henties Bay"
 translationKey: "namibia-2015/5-de-uis-a-henties-bay"
+distance: 122.5
+elevation: 208
 ---
 
 El día amaneció apacible, soleado y sin viento, lo cual nos animó bastante teniendo en cuenta la etapa que nos esperaba, 120 kilómetros rectos y llanos hasta la costa. Sin tiempo que perder nos lanzamos por la pista rumbo a Henties Bay, con la esperanza de avanzar alegremente sin que el recorrido se hiciese muy pesado. Poco a poco avanzamos y vamos haciendo kilómetros, el firme es bueno en su mayor parte y los pequeños tramos de tôle ondulée y arena no molestan demasiado.

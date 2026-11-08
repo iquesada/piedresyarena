@@ -8,6 +8,8 @@ address: "Tbilisi"
 description: "Duro!"
 image: "./tblisi1.jpg"
 translationKey: "georgia-2019/1-de-tblisi-a-zhinvali"
+distance: 55.1
+elevation: 1136
 ---
 
 Mi primera etapa comienza con poca confianza. Primero, de forma global, no me siento confiado con el viaje. Mi estado mental no es el mejor, y no por nada en concreto. Simplemente me cuesta pensar en todos estos días en solitario. ¡Ni que fuese la primera vez! Y segundo, el caos circulatorio de <em>Tbilisi</em> me asusta un poco, escapar de la ciudad puede ser peligroso y me va a llevar un buen rato. Aunque, tal vez, este segundo miedo sea consecuencia de mi estado mental.

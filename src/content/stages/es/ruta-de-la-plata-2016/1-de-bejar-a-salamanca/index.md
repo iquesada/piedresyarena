@@ -8,6 +8,8 @@ address: "Béjar"
 description: "Rumbo norte"
 image: "./calzada-de-bejar.jpg"
 translationKey: "ruta-de-la-plata-2016/1-de-bejar-a-salamanca"
+distance: 75.1
+elevation: 960
 ---
 
 Siguiendo con esta última serie de rutas del tipo <em>saliendo desde mi casa llegar a nosedonde</em>, o bien <em>llegar a mi casa saliendo desde otro sitio</em>, se me ocurrió realizar la Ruta de la Plata. Cruzar la península de sur a norte se me antojaba interesante y, aunque por número de días libres no podría salir desde Sevilla, tal vez podría realizar un trayecto más corto y dejar el sur para otra ocasión. Un recurso muy interesante para preparar esta ruta es la web <a href="https://rutadelaplata.com/">Ruta Vía de la Plata</a>. La información proporcionada en esta página, con recursos tanto para ciclistas como para caminantes, me ayudó a decidirme sobre el trayecto a realizar. Saliendo desde Béjar, poco más de 500 kilómetros me separaban de mi casa. Béjar, ¡allá vamos!

@@ -10,6 +10,8 @@ image: "./DSCN2631.jpg"
 seoTitle: "Etiopía Wild Bike 6 | piedres y arena"
 seoDescription: "Sexta etapa del Etiopía Wild Bike. Blog de viajes en bicicleta."
 translationKey: "etiopia-wild-bike-2012/etapa-6"
+distance: 77.0
+elevation: 892
 ---
 
 ¡Qué frío! Hoy hemos dormido en altura y realmente ha hecho frío, ese saco que ha sobrado durante los días de calor ha sido mi salvación esta noche. Dentro de la tienda de campaña la temperatura ha bajado hasta casi los cero grados, lo que no está nada mal comparado con las anteriores noches a 25 grados.

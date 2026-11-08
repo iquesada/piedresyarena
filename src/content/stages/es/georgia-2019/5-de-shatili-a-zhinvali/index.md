@@ -8,6 +8,8 @@ address: "Shatili"
 description: "Más de 100 km de vuelta"
 image: "./roads.jpg"
 translationKey: "georgia-2019/5-de-shatili-a-zhinvali"
+distance: 102.6
+elevation: 1574
 ---
 
 En Shatili tenía dos opciones: seguir hacia el sureste y atravesar el Atsunta, o bien volver sobre mis pasos. El paso del Atsunta parece espectacular, y sin duda merece la pena. Pero no voy equipado para la ocasión; hacer el paso en un solo día no parece factible, y no me he traído la tienda de campaña ni hornillo, así que habrá que dejarlo para otra ocasión.

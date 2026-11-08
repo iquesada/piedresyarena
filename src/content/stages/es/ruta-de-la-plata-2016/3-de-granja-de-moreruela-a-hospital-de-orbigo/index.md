@@ -8,6 +8,8 @@ address: "Granja de Moreruela"
 description: "Los caminos se separan"
 image: "./granja.jpg"
 translationKey: "ruta-de-la-plata-2016/3-de-granja-de-moreruela-a-hospital-de-orbigo"
+distance: 96.2
+elevation: 551
 ---
 
 Hoy retomo la ruta en solitario. David, mi compañero de ruta en el día de ayer, se desvía hacia el oeste dirección Puebla de Sanabria, mientras que yo sigo rumbo norte hacia Hospital de Órbigo. Largas y llanas rectas entre los terrenos de cultivo me acompañarán durante las horas de la mañana. Por fortuna una suave y fresca brisa ayuda a llevar el pedaleo con comodidad. La monotonía de la ruta es rota de golpe por uno de esos lugares con encanto que te arrancan una sonrisa y te obligan a disparar unas cuantas fotos para tratar de inmortalizarlo. Es una pena no ser un buen fotógrafo.

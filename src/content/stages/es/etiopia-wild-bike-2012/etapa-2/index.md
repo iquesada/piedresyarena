@@ -10,6 +10,8 @@ image: "./etiopia_2.jpg"
 seoTitle: "Etiopía Wild Bike 2 | piedres y arena"
 seoDescription: "Segunda etapa del Etiopía Wild Bike. Blog de viajes en bicicleta."
 translationKey: "etiopia-wild-bike-2012/etapa-2"
+distance: 50.4
+elevation: 1284
 ---
 
 La noche ha sido muy calurosa, creo que este saco no es el más apropiado para Etiopía. De hecho, ningún saco es apropiado para Etiopía. Desayunamos fuerte, un largo ascenso nos espera nada más salir para remontar desde los 1.300 metros de altura a los que nos encontramos hasta los 2.150 metros. Me junto con José María, un gran ciclista tarraconense y vamos ganando altura poco a poco. El sol aprieta de lo lindo y es difícil mantenerse hidratado.

@@ -8,6 +8,8 @@ address: "Shatili"
 description: "Grabado en la retina"
 image: "./shatili_name.jpg"
 translationKey: "georgia-2019/4-shatili"
+distance: 37.5
+elevation: 707
 ---
 
 Nada más llegar a Shatili me di cuenta de que estaba en un sitio mágico. Acercarse por la pista para contemplar cómo se abre el valle que da paso a esta histórica villa es una de esas imágenes que quedarán grabadas en mi retina para siempre. No me podría conformar con pasar un único día aquí, tenía que disfrutarlo un poco más. Y más aún cuando había conseguido alojarme en un guesthouse que habían habilitado en una de las casas de la villa. Era, sin duda, el menos glamuroso,  pero el más auténtico.
