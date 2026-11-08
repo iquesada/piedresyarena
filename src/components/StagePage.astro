@@ -3,7 +3,7 @@ import { render } from 'astro:content';
 import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import StageNav from './StageNav.astro';
-import { formatDate, t, toLocale } from '../i18n';
+import { formatDate, stageFigures, t, toLocale } from '../i18n';
 import { stagesOf, tripOf, tripPath, tripText, type Stage } from '../lib/content';
 import TripMark from './TripMark.astro';
 
@@ -17,7 +17,7 @@ const { Content } = await render(stage.entry);
 const locale = toLocale(Astro.currentLocale);
 const trip = await tripOf(stage);
 const stages = await stagesOf(locale, trip.id);
-const { title, date, image, description, seoTitle, seoDescription } = stage.data;
+const { title, date, image, description, seoTitle, seoDescription, distance, elevation } = stage.data;
 ---
 <Base title={title} seoTitle={seoTitle} description={seoDescription ?? description} overlay alternate={alternate}>
   <header class="opener">
@@ -33,7 +33,7 @@ const { title, date, image, description, seoTitle, seoDescription } = stage.data
   <article>
     <div class="prose">
       {description && <p class="deck">{description}</p>}
-      <p class="date"><time datetime={date.toISOString().slice(0, 10)}>{formatDate(locale, date)}</time></p>
+      <p class="date"><time datetime={date.toISOString().slice(0, 10)}>{formatDate(locale, date)}</time>{stageFigures(locale, distance, elevation).map((f) => ` · ${f}`)}</p>
     </div>
     <div class="prose body"><Content /></div>
   </article>

@@ -27,6 +27,10 @@ const stages = defineCollection({
       lat: z.number(),
       lng: z.number(),
       address: z.string().optional(),
+      /** Km ridden that day. */
+      distance: z.number().positive().optional(),
+      /** Metres climbed that day. */
+      elevation: z.number().int().nonnegative().optional(),
       description: z.string(),
       image: image(),
       seoTitle: z.string().optional(),
