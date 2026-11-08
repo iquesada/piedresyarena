@@ -23,6 +23,12 @@ export function formatDate(locale: string | undefined, date: Date): string {
   return new Intl.DateTimeFormat(intlTags[l], { ...dateFormats[l], timeZone: 'UTC' }).format(date);
 }
 
+/** "92 km · 1.450 m+": the stage figures that are known, in the locale's number format. */
+export function stageFigures(locale: string | undefined, distance?: number, elevation?: number): string[] {
+  const n = new Intl.NumberFormat(intlTags[toLocale(locale)], { maximumFractionDigits: 0, useGrouping: 'always' });
+  return [distance !== undefined && `${n.format(distance)} km`, elevation !== undefined && `${n.format(elevation)} m+`].filter((s) => s !== false);
+}
+
 export function stageCount(locale: string | undefined, n: number): string {
   return n === 1 ? t(locale, 'trip.stage') : t(locale, 'trip.stages', { n });
 }

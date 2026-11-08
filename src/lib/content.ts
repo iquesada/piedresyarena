@@ -4,7 +4,7 @@ import type { Locale } from '../i18n';
 export type Trip = CollectionEntry<'trips'>;
 type SpanishData = CollectionEntry<'stages'>['data'];
 
-/** A stage in one locale. Text comes from that locale; date, place, trip and cover always from Spanish. */
+/** A stage in one locale. Text comes from that locale; date, place, trip, cover and figures always from Spanish. */
 export type Stage = {
   locale: Locale;
   /** translationKey, shared by both versions: `<trip>/<Spanish slug>`. */
@@ -12,7 +12,7 @@ export type Stage = {
   slug: string;
   /** For render(). */
   entry: CollectionEntry<'stages'> | CollectionEntry<'stageTranslations'>;
-  data: Pick<SpanishData, 'title' | 'description' | 'seoTitle' | 'seoDescription' | 'date' | 'trip' | 'lat' | 'lng' | 'image'>;
+  data: Pick<SpanishData, 'title' | 'description' | 'seoTitle' | 'seoDescription' | 'date' | 'trip' | 'lat' | 'lng' | 'image' | 'distance' | 'elevation'>;
 };
 
 // Both locales are in Spanish order.
@@ -44,9 +44,9 @@ async function englishStages(): Promise<Stage[]> {
     if (seen.has(key)) throw new Error(`${file}: translationKey "${key}" is already used by another English stage`);
     seen.add(key);
     const [folderTrip, slug] = entry.id.split('/');
-    const { date, trip, lat, lng, image } = es.data;
+    const { date, trip, lat, lng, image, distance, elevation } = es.data;
     if (folderTrip !== trip.id) throw new Error(`${file}: trip folder "${folderTrip}" does not match the Spanish stage's trip "${trip.id}"`);
-    return { locale: 'en', key, slug, entry, data: { title, description, seoTitle, seoDescription, date, trip, lat, lng, image } };
+    return { locale: 'en', key, slug, entry, data: { title, description, seoTitle, seoDescription, date, trip, lat, lng, image, distance, elevation } };
   });
   for (const trip of new Set(stages.map((s) => s.data.trip.id))) {
     const missing = [...spanish.values()].filter((s) => s.data.trip.id === trip && !seen.has(s.key)).map((s) => s.key);
