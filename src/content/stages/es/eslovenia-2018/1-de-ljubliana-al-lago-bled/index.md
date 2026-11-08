@@ -8,6 +8,8 @@ address: "hostel tresor, ljubljana"
 description: "Día sorprendente"
 image: "./bled.jpg"
 translationKey: "eslovenia-2018/1-de-ljubliana-al-lago-bled"
+distance: 71.4
+elevation: 1458
 ---
 
 Primer día, toma de contacto con mi nuevo viaje en solitario por Eslovenia. El plan para hoy es viajar tranquilo. La distancia es corta y el perfil no parece demasiado abrupto, así que pedalearé con calma hasta el lago. Como llegaré con tiempo, la idea es visitar el entorno del lago para, más tarde, buscar dónde dormir.

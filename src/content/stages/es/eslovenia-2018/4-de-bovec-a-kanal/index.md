@@ -7,6 +7,8 @@ lng: 13.55822368438703
 description: "Por el valle del Soča"
 image: "./soca_mountain.jpg"
 translationKey: "eslovenia-2018/4-de-bovec-a-kanal"
+distance: 75.8
+elevation: 1748
 ---
 
 La etapa de hoy va a ser larga y el calor va a apretar, así que intento madrugar y salir al amanecer. La salida de Bovec es por carretera, cuesta abajo, y hasta tengo un poco de frío que agradezco. En menos de 10 kilómetros empiezo a subir por carretera, y poco después me desvío por una pista que debería llevarme hasta la cima del monte Stol. La pista tiene un firme desigual, pero no demasiado rota.

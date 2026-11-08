@@ -8,6 +8,8 @@ address: "Finkenstein, Austria"
 description: "Schengen day"
 image: "./bovec.jpg"
 translationKey: "eslovenia-2018/3-de-finkestein-a-bovec"
+distance: 56.8
+elevation: 925
 ---
 
 Dormir en un hotel ha sido una buena idea. Aunque el colchón y el saco de dormir son confortables, nada como una buena cama para recuperar fuerzas. Y cómo no, cargar el depósito. El desayuno del Gasthof Feichter es fantástico. Lo cierto es que es un alojamiento poco habitual para cuando viajo. Pero vaya, un día es un día.

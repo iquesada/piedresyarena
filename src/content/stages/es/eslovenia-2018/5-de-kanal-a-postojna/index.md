@@ -8,6 +8,8 @@ address: "Kanal"
 description: "¡Calor extremo!"
 image: "./kanal.jpg"
 translationKey: "eslovenia-2018/5-de-kanal-a-postojna"
+distance: 79.7
+elevation: 1702
 ---
 
 Mi intención era, al igual que el resto de días, madrugar y salir temprano. Y así lo hice, madrugué. Pero me quedé un buen rato charlando con los dueños del guesthouse. Me recomendaron que hiciese una parada a mitad de ruta para comer en una granja donde servían un buen almuerzo. Aún me duele no haberles hecho caso, pero lo cierto es que ni esa granja estaba a mitad de ruta ni me quedaba cerca, tenía que desviarme unos 10 kilómetros. Bueno, algún sitio encontraré para comer.
