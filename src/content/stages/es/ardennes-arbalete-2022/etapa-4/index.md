@@ -2,9 +2,9 @@
 title: "Ardennes Arbalète 4"
 date: 2022-07-10
 trip: "ardennes-arbalete-2022"
-lat: 50.34727705800937
-lng: 5.586183507995504
-address: "Roche-À-Frêne"
+lat: 50.0313
+lng: 5.3996
+address: "Saint-Hubert"
 description: "Couettes et Picotin"
 image: "./couettes.jpg"
 translationKey: "ardennes-arbalete-2022/etapa-4"

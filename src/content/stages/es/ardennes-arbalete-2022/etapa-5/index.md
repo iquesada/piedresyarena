@@ -2,9 +2,9 @@
 title: "Ardennes Arbalète 5"
 date: 2022-07-11
 trip: "ardennes-arbalete-2022"
-lat: 50.63640647114874
-lng: 5.565970380859273
-address: "Lieja"
+lat: 50.34727705800937
+lng: 5.586183507995504
+address: "Roche-À-Frêne"
 description: "Emboscada final"
 image: "./IMG_20220711_161252.jpg"
 translationKey: "ardennes-arbalete-2022/etapa-5"
