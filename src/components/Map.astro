@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import { getImage } from 'astro:assets';
 import { formatDate, t, toLocale } from '../i18n';
 import { allStages, stagePath, tripPath, tripText } from '../lib/content';
+import { tracks } from '../pages/tracks/[trip].json';
 
 interface Props {
   /** id of an element that may be drawn over the map (bottom band or left column); markers are fitted around it. */
@@ -17,10 +18,12 @@ const trips = await Promise.all(
     name: tripText(locale, trip).name,
     url: tripPath(locale, trip),
     color: trip.data.color,
+    tracks: trip.id in tracks ? `/tracks/${trip.id}.json` : undefined,
     stages: await Promise.all(
       stages
         .filter((s) => s.data.trip.id === trip.id)
         .map(async (s, i) => ({
+          key: s.key,
           lat: s.data.lat,
           lng: s.data.lng,
           title: s.data.title,
@@ -48,8 +51,10 @@ const trips = await Promise.all(
   import 'leaflet/dist/leaflet.css';
   import { RIDER_SVG } from '../lib/rider';
 
-  type Stage = { lat: number; lng: number; title: string; url: string; n: string; date: string; thumb: string };
-  type Trip = { name: string; url: string; color: string; stages: Stage[] };
+  type Stage = { key: string; lat: number; lng: number; title: string; url: string; n: string; date: string; thumb: string };
+  /** tracks: URL of the trip's tracks file (src/pages/tracks), when some stage has one. */
+  type Trip = { name: string; url: string; color: string; tracks?: string; stages: Stage[] };
+  type Point = [number, number];
 
   /** Below this zoom each trip is one pin; from it on, each stage has its own. */
   const STAGES_ZOOM = 5;
@@ -128,15 +133,20 @@ const trips = await Promise.all(
 
   const tripPins = L.layerGroup();
   const stagePins = L.layerGroup();
-  // Trip lines join the stage places in order, and arrows show the way. A stage place is where the stage
-  // starts, so the line ends where the last stage starts: the last stage's ride is not drawn.
+  // At stage zoom each stage is drawn as its track, the ride itself, when it has one. A stage without a track
+  // keeps its piece of trip line: dashed, from its place to the next stage's (a stage place is where the stage
+  // starts, so without a track the last stage's ride is not drawn). Arrows show the way on both.
   const tripLines = L.layerGroup();
+  const trackLines = L.layerGroup().addTo(tripLines);
+  const dashedLines = L.layerGroup().addTo(tripLines);
   const arrows = L.layerGroup().addTo(tripLines);
+  /** Loaded tracks by stage key; trips whose tracks file was requested. */
+  const loaded = new Map<string, Point[]>();
+  const requested = new Set<Trip>();
   for (const trip of trips) {
     const icon = pin(trip.color);
-    const points = trip.stages.map((s): [number, number] => [s.lat, s.lng]);
+    const points = trip.stages.map((s): Point => [s.lat, s.lng]);
     const bounds = L.latLngBounds(points);
-    L.polyline(points, { color: trip.color, weight: 3, opacity: 0.7, dashArray: '6 6', interactive: false }).addTo(tripLines);
     // A trip's pin zooms into its stages.
     L.marker(bounds.getCenter(), { icon, title: trip.name, alt: trip.name, riseOnHover: true })
       .on('click', () => fit(bounds))
@@ -153,22 +163,65 @@ const trips = await Promise.all(
     }
   }
 
-  // One arrow at the middle of each segment, pointing to the next stage. Angles are taken on screen, where
-  // the map draws the line, so they change with the zoom.
-  function drawArrows() {
-    arrows.clearLayers();
+  // An arrow at `at`, pointing from a to b. Angles are taken on screen, where the map draws the line, so
+  // they change with the zoom.
+  function addArrow(color: string, at: L.Point, a: L.Point, b: L.Point) {
+    L.marker(map.layerPointToLatLng(at), {
+      icon: arrow(color, Math.atan2(b.y - a.y, b.x - a.x)),
+      interactive: false,
+      keyboard: false,
+      zIndexOffset: -1000,
+    }).addTo(arrows);
+  }
+
+  // Tracks where loaded, dashed trip line elsewhere; one arrow at the middle of each, pointing the way.
+  function drawLines() {
+    for (const layer of [trackLines, dashedLines, arrows]) layer.clearLayers();
     for (const trip of trips) {
-      for (let i = 1; i < trip.stages.length; i++) {
-        const a = map.latLngToLayerPoint([trip.stages[i - 1].lat, trip.stages[i - 1].lng]);
-        const b = map.latLngToLayerPoint([trip.stages[i].lat, trip.stages[i].lng]);
-        if (a.distanceTo(b) < ARROW_MIN_SEGMENT) continue;
-        L.marker(map.layerPointToLatLng(a.add(b).divideBy(2)), {
-          icon: arrow(trip.color, Math.atan2(b.y - a.y, b.x - a.x)),
-          interactive: false,
-          keyboard: false,
-          zIndexOffset: -1000,
-        }).addTo(arrows);
-      }
+      trip.stages.forEach((s, i) => {
+        const track = loaded.get(s.key);
+        if (track) {
+          L.polyline(track, { color: trip.color, weight: 3, opacity: 0.85, interactive: false }).addTo(trackLines);
+          const screen = track.map((p) => map.latLngToLayerPoint(p));
+          const length = screen.slice(1).reduce((sum, p, j) => sum + p.distanceTo(screen[j]), 0);
+          if (length < ARROW_MIN_SEGMENT) return;
+          // The middle by distance on screen, on the segment that holds it.
+          let done = 0;
+          for (let j = 1; j < screen.length; j++) {
+            const step = screen[j].distanceTo(screen[j - 1]);
+            if (done + step >= length / 2) {
+              const at = screen[j - 1].add(screen[j].subtract(screen[j - 1]).multiplyBy((length / 2 - done) / step));
+              addArrow(trip.color, at, screen[j - 1], screen[j]);
+              break;
+            }
+            done += step;
+          }
+          return;
+        }
+        const next = trip.stages[i + 1];
+        if (!next) return;
+        L.polyline([[s.lat, s.lng], [next.lat, next.lng]], { color: trip.color, weight: 3, opacity: 0.7, dashArray: '6 6', interactive: false }).addTo(dashedLines);
+        const a = map.latLngToLayerPoint([s.lat, s.lng]);
+        const b = map.latLngToLayerPoint([next.lat, next.lng]);
+        if (a.distanceTo(b) >= ARROW_MIN_SEGMENT) addArrow(trip.color, a.add(b).divideBy(2), a, b);
+      });
+    }
+  }
+
+  // Tracks are fetched only for the trips in view at stage zoom, once.
+  function loadTracks() {
+    const view = map.getBounds();
+    for (const trip of trips) {
+      if (!trip.tracks || requested.has(trip)) continue;
+      if (!view.intersects(L.latLngBounds(trip.stages.map((s): Point => [s.lat, s.lng])))) continue;
+      requested.add(trip);
+      fetch(trip.tracks)
+        .then((r) => (r.ok ? r.json() : {}))
+        .then((byStage: Record<string, Point[]>) => {
+          for (const [key, track] of Object.entries(byStage)) loaded.set(key, track);
+          if (map.getZoom() >= STAGES_ZOOM) drawLines();
+        })
+        .catch(() => requested.delete(trip)); // try again on the next move
     }
   }
 
@@ -176,9 +229,13 @@ const trips = await Promise.all(
     const detailed = map.getZoom() >= STAGES_ZOOM;
     for (const layer of detailed ? [tripPins] : [stagePins, tripLines]) layer.remove();
     for (const layer of detailed ? [stagePins, tripLines] : [tripPins]) layer.addTo(map);
-    if (detailed) drawArrows();
+    if (detailed) {
+      drawLines();
+      loadTracks();
+    }
   };
   map.on('zoomend', showPins);
+  map.on('moveend', () => map.getZoom() >= STAGES_ZOOM && loadTracks());
   fit(L.latLngBounds(trips.flatMap((trip) => trip.stages.map((s): [number, number] => [s.lat, s.lng]))));
   showPins();
 </script>
