@@ -1,0 +1,100 @@
+---
+import { t, toLocale } from '../i18n';
+
+// Every photo in the page's text opens full screen, uncropped, and the arrows step through all of them in order.
+const locale = toLocale(Astro.currentLocale);
+const labels = {
+  open: t(locale, 'photo.open'),
+  position: t(locale, 'photo.position'),
+};
+---
+<dialog class="zoom" aria-label={t(locale, 'photo.open')} data-labels={JSON.stringify(labels)}>
+  <img alt="" />
+  <p class="zoom-count" aria-live="polite"></p>
+  <button type="button" class="zoom-close" aria-label={t(locale, 'photo.close')}>✕</button>
+  <button type="button" class="zoom-prev" aria-label={t(locale, 'gallery.prev')}>←</button>
+  <button type="button" class="zoom-next" aria-label={t(locale, 'gallery.next')}>→</button>
+</dialog>
+
+<script>
+  const dialog = document.querySelector<HTMLDialogElement>('dialog.zoom')!;
+  const big = dialog.querySelector('img')!;
+  const count = dialog.querySelector<HTMLElement>('.zoom-count')!;
+  const { open, position } = JSON.parse(dialog.dataset.labels!) as { open: string; position: string };
+  const photos = [...document.querySelectorAll<HTMLImageElement>('.prose img')].filter((img) => !img.closest('a'));
+  let current = 0;
+
+  function show(i: number) {
+    current = (i + photos.length) % photos.length;
+    const photo = photos[current];
+    // Same srcset as the photo in the text, chosen for the whole screen: the largest file that fits.
+    big.removeAttribute('src');
+    big.sizes = '100vw';
+    big.srcset = photo.srcset;
+    big.src = photo.currentSrc || photo.src;
+    big.alt = photo.alt;
+    count.textContent = position.replace('{n}', String(current + 1)).replace('{total}', String(photos.length));
+  }
+
+  photos.forEach((photo, i) => {
+    photo.tabIndex = 0;
+    photo.setAttribute('role', 'button');
+    photo.setAttribute('aria-label', photo.alt ? `${open}: ${photo.alt}` : open);
+    photo.addEventListener('click', () => {
+      show(i);
+      dialog.showModal();
+    });
+    photo.addEventListener('keydown', (e) => {
+      if (e.key !== 'Enter' && e.key !== ' ') return;
+      e.preventDefault();
+      photo.click();
+    });
+  });
+
+  dialog.classList.toggle('single', photos.length < 2);
+  dialog.querySelector('.zoom-close')!.addEventListener('click', () => dialog.close());
+  dialog.querySelector('.zoom-prev')!.addEventListener('click', () => show(current - 1));
+  dialog.querySelector('.zoom-next')!.addEventListener('click', () => show(current + 1));
+  // A click on the dark background (the dialog itself, not the photo or a button) closes it; Esc is the browser's.
+  dialog.addEventListener('click', (e) => e.target === dialog && dialog.close());
+  dialog.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowLeft') show(current - 1);
+    else if (e.key === 'ArrowRight') show(current + 1);
+  });
+  // Swipe sideways on touch screens.
+  let startX: number | undefined;
+  dialog.addEventListener('pointerdown', (e) => (startX = e.pointerType === 'touch' ? e.clientX : undefined));
+  dialog.addEventListener('pointerup', (e) => {
+    if (startX === undefined || photos.length < 2) return;
+    const dx = e.clientX - startX;
+    if (Math.abs(dx) > 50) show(current + (dx < 0 ? 1 : -1));
+    startX = undefined;
+  });
+  // Give focus back to the photo that was opened last.
+  dialog.addEventListener('close', () => photos[current]?.focus({ preventScroll: true }));
+</script>
+
+<style>
+  :global(.prose img[role='button']) { cursor: zoom-in; }
+  :global(.prose img[role='button']:focus-visible) { outline: 3px solid var(--sand); outline-offset: -3px; }
+  :global(html:has(dialog.zoom[open])) { overflow: hidden; }
+
+  .zoom {
+    width: 100vw; height: 100dvh; max-width: none; max-height: none; margin: 0; padding: 0; border: 0;
+    background: rgb(0 0 0 / 0.94); color: var(--white); overscroll-behavior: contain;
+  }
+  .zoom::backdrop { background: transparent; }
+  .zoom[open] { display: grid; place-items: center; }
+  .zoom img { max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; touch-action: pan-y pinch-zoom; }
+  .zoom-count { position: absolute; top: 1rem; left: 1rem; margin: 0; font: 600 0.9rem var(--display); color: #e8e6de; }
+  .zoom button {
+    position: absolute; width: 2.75rem; height: 2.75rem; border: 2px solid var(--white); background: rgb(0 0 0 / 0.4);
+    color: var(--white); font: 600 1.25rem var(--display); cursor: pointer;
+  }
+  .zoom button:hover { background: var(--white); color: var(--black); }
+  .zoom button:focus-visible { outline: 3px solid var(--sand); outline-offset: 2px; }
+  .zoom-close { top: 0.75rem; right: 0.75rem; }
+  .zoom-prev { left: 0.75rem; top: 50%; translate: 0 -50%; }
+  .zoom-next { right: 0.75rem; top: 50%; translate: 0 -50%; }
+  .zoom.single .zoom-prev, .zoom.single .zoom-next, .zoom.single .zoom-count { display: none; }
+</style>
