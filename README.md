@@ -4,7 +4,7 @@ Source of [piedresyarena.com](https://www.piedresyarena.com), a blog about bicyc
 
 This is a static site built with [Astro](https://astro.build) and published on GitHub Pages. There is no backend, database or admin panel: the site is edited by changing files in this repository and pushing to `main`.
 
-The site content is in Spanish and English. Everything else in the repository is in English.
+The site content is in Spanish and English.
 
 See [ADR 0001](docs/adr/0001-migrate-to-static-site.md) for the migration from WordPress and the reasoning behind it, and [ADR 0002](docs/adr/0002-english-version.md) for the English version.
 
@@ -131,41 +131,3 @@ It reads `englishPublic` and checks more in each mode:
 
 Every push to `main` runs a GitHub Actions workflow (`.github/workflows/deploy.yml`) that builds the site and publishes it to GitHub Pages. The same workflow runs `npm run check` and `npm test` on every pull request and before each deploy; if either fails, the site is not deployed. There is no preview deployment: check changes locally with `npm run build` and `npm run preview` (or `npm run check`) before pushing.
 
-### Going live
-
-One-time steps after the first deployment:
-
-1. In the repository settings, go to **Settings → Pages** and set **Source** to **GitHub Actions**.
-2. Set the custom domain to `www.piedresyarena.com` (it matches `public/CNAME`).
-3. At the DNS provider of `piedresyarena.com`:
-   - apex `A` records: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`;
-   - apex `AAAA` records: `2606:50c0:8000::153`, `2606:50c0:8001::153`, `2606:50c0:8002::153`, `2606:50c0:8003::153`;
-   - a `CNAME` record for `www` pointing to `iquesada.github.io`;
-   - keep any existing `MX` (email) records.
-4. Once the certificate is issued, enable **Enforce HTTPS**.
-
-## Migration from WordPress
-
-`old/` holds the WordPress database dump and the uploads backup. It is not committed to the repository.
-
-`tools/migrate.py` reads the dump and generates:
-- `src/content/trips.yaml`;
-- the stage folders and their images (downscaled to 1600 px, without EXIF data);
-- the about page;
-- `src/redirects.json`.
-
-Python setup (a virtual environment is recommended):
-
-```sh
-python3 -m venv .venv
-. .venv/bin/activate
-pip install -r tools/requirements.txt
-```
-
-The migration has already been run, and its output is committed. Re-run it only to regenerate everything from the dump:
-
-```sh
-python3 tools/migrate.py --force
-```
-
-> **Warning:** `--force` deletes `src/content/stages/es/`, `src/content/pages/es/`, `src/content/trips.yaml` and `src/redirects.json` before writing them again. Any edit made to those files since the migration is lost, including the English trip names (`en:` in `trips.yaml`). `src/content/stages/en/` and `src/content/pages/en/` are not touched. Without `--force`, the script refuses to run if they exist.
