@@ -94,3 +94,11 @@
   en:
     name: "Ardennes Arbalète"
     country: "Belgium"
+- id: "ruta-el-dorado-2023"
+  name: "Colombia, Ruta El Dorado"
+  year: 2023
+  country: "Colombia"
+  color: "#b5179e"
+  en:
+    name: "Colombia, El Dorado route"
+    country: "Colombia"
