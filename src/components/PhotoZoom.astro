@@ -89,7 +89,8 @@ const labels = {
   }
   .zoom::backdrop { background: transparent; }
   .zoom[open] { display: grid; place-items: center; }
-  .zoom img { max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; touch-action: pan-y pinch-zoom; }
+  /* :global because the script creates the img, so it has no scope attribute. Viewport units: the grid row takes its height from the img, so 100% would not limit it. */
+  .zoom :global(img) { max-width: 100vw; max-height: 100dvh; width: auto; height: auto; object-fit: contain; touch-action: pan-y pinch-zoom; }
   .zoom-count { position: absolute; top: 1rem; left: 1rem; margin: 0; font: 600 0.9rem var(--display); color: #e8e6de; }
   .zoom button {
     position: absolute; width: 2.75rem; height: 2.75rem; border: 2px solid var(--white); background: rgb(0 0 0 / 0.4);
