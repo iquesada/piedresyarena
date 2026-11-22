@@ -94,7 +94,7 @@ const versions = switchTo && { [locale]: canonical, [other]: new URL(switchTo, A
     background: var(--sand); color: var(--black); font: 600 1rem var(--display); text-decoration: none;
   }
   .skip:not(:focus) { width: 1px; height: 1px; padding: 0; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
-  h1, h2, h3 { font-family: var(--display); line-height: 0.95; margin: 0; }
+  h1, h2, h3 { font-family: var(--display); line-height: 0.95; margin: 0; text-wrap: balance; overflow-wrap: break-word; }
 
   .bar {
     display: flex; align-items: center; justify-content: space-between; gap: 1rem;
