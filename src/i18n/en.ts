@@ -4,6 +4,8 @@ export default {
   'site.title': 'piedres y arena',
   'site.description': 'A blog about cycling trips around the world.',
   'nav.about': 'About',
+  'skip.main': 'Skip to content',
+  'skip.map': 'Skip the map',
   'lang.switch': 'Read this page in English',
   'social.instagram': 'Follow me on Instagram',
   'stage.prev': 'Previous stage',

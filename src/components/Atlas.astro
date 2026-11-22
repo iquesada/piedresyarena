@@ -8,6 +8,7 @@ const stages = await allStages(locale);
 const trips = new Set(stages.map((s) => s.data.trip.id)).size;
 ---
 <section class="atlas">
+  <a href="#atlas-title" class="skip">{t(locale, 'skip.map')}</a>
   <Map overlay="atlas-title" />
   <div class="atlas-title" id="atlas-title">
     <h1 class="display">{t(locale, 'home.title')}</h1>
