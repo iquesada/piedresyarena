@@ -38,19 +38,19 @@ const labels = {
     count.textContent = position.replace('{n}', String(current + 1)).replace('{total}', String(photos.length));
   }
 
-  photos.forEach((photo, i) => {
-    photo.tabIndex = 0;
-    photo.setAttribute('role', 'button');
-    photo.setAttribute('aria-label', photo.alt ? `${open}: ${photo.alt}` : open);
-    photo.addEventListener('click', () => {
+  // Each photo goes inside a real button: keyboard, focus and role come with it.
+  const buttons = photos.map((photo, i) => {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'zoom-open';
+    button.setAttribute('aria-label', photo.alt ? `${open}: ${photo.alt}` : open);
+    photo.replaceWith(button);
+    button.append(photo);
+    button.addEventListener('click', () => {
       show(i);
       dialog.showModal();
     });
-    photo.addEventListener('keydown', (e) => {
-      if (e.key !== 'Enter' && e.key !== ' ') return;
-      e.preventDefault();
-      photo.click();
-    });
+    return button;
   });
 
   dialog.classList.toggle('single', photos.length < 2);
@@ -73,12 +73,14 @@ const labels = {
     startX = undefined;
   });
   // Give focus back to the photo that was opened last.
-  dialog.addEventListener('close', () => photos[current]?.focus({ preventScroll: true }));
+  dialog.addEventListener('close', () => buttons[current]?.focus({ preventScroll: true }));
 </script>
 
 <style>
-  :global(.prose img[role='button']) { cursor: zoom-in; }
-  :global(.prose img[role='button']:focus-visible) { outline: 3px solid var(--sand); outline-offset: -3px; }
+  :global(.prose .zoom-open) {
+    display: block; width: 100%; height: 100%; padding: 0; border: 0; background: none; font: inherit; color: inherit; cursor: zoom-in;
+  }
+  :global(.prose .zoom-open:focus-visible) { outline: 3px solid var(--sand); outline-offset: -3px; }
   :global(html:has(dialog.zoom[open])) { overflow: hidden; }
 
   .zoom {
