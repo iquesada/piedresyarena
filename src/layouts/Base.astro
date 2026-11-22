@@ -92,6 +92,8 @@ const versions = switchTo && { [locale]: canonical, [other]: new URL(switchTo, A
   body { margin: 0; background: var(--white); color: var(--black); font: 1.1875rem/1.65 var(--serif); font-optical-sizing: auto; }
   body.dark { background: var(--night); color: var(--white); }
   a { color: inherit; }
+  /* No double-tap zoom delay, and no grey tap box: every link and button has its own hover style. */
+  a, button { touch-action: manipulation; -webkit-tap-highlight-color: transparent; }
   body.dark, .bar, footer, .opener, .tile { --focus: var(--sand); }
   .leaflet-container { --focus: var(--black); }
   a:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
@@ -112,6 +114,7 @@ const versions = switchTo && { [locale]: canonical, [other]: new URL(switchTo, A
     display: inline-flex; align-items: center; gap: 0.55rem; text-decoration: none;
     font-family: var(--display); font-weight: 800; font-stretch: 112%; font-size: 1.05rem; letter-spacing: 0.02em; text-transform: uppercase;
   }
+  .brand:hover { color: var(--sand); }
   .bar nav { display: flex; gap: 1rem; font-weight: 600; font-stretch: 90%; font-size: 1rem; }
   .bar nav a { text-decoration: none; white-space: nowrap; }
   .bar nav a:hover { color: var(--sand); }
@@ -129,6 +132,7 @@ const versions = switchTo && { [locale]: canonical, [other]: new URL(switchTo, A
   .opener-text { padding-bottom: 2.25rem; }
   .kicker { margin: 0 0 0.6rem; font-family: var(--display); font-weight: 600; font-size: 1rem; color: var(--sand); display: flex; align-items: center; gap: 0.5rem; }
   .kicker a { text-decoration: none; }
+  .kicker a:hover { color: var(--white); }
   .display { font-weight: 850; font-stretch: 62%; text-transform: uppercase; }
   .tile { position: relative; display: block; aspect-ratio: 4 / 5; overflow: hidden; color: var(--white); text-decoration: none; background: var(--black); }
   .tile > img { transition: transform 0.6s ease; }
@@ -147,6 +151,7 @@ const versions = switchTo && { [locale]: canonical, [other]: new URL(switchTo, A
   .prose { max-width: var(--measure); margin: 0 auto; }
   .prose p { margin: 0 0 1.2em; }
   .prose a { text-decoration-thickness: 1px; text-underline-offset: 0.18em; }
+  .prose a:hover { text-decoration-thickness: 2px; }
   .prose figure { margin: 2.5rem -1.1rem; }
   .prose figure img { display: block; width: 100%; height: auto; }
   .prose figcaption { font-family: var(--display); font-size: 0.9rem; color: var(--stone); padding: 0.5rem 1.1rem 0; }
