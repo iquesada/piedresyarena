@@ -7,6 +7,7 @@ import { formatDate, stageFigures, t, toLocale } from '../i18n';
 import { stagesOf, tripOf, tripPath, tripText, type Stage } from '../lib/content';
 import TripMark from './TripMark.astro';
 import PhotoZoom from './PhotoZoom.astro';
+import ReadingBar from './ReadingBar.astro';
 
 interface Props {
   stage: Stage;
@@ -19,17 +20,19 @@ const locale = toLocale(Astro.currentLocale);
 const trip = await tripOf(stage);
 const stages = await stagesOf(locale, trip.id);
 const { title, date, image, description, seoTitle, seoDescription, distance, elevation } = stage.data;
+const position = t(locale, 'stage.position', { n: stages.findIndex((s) => s.key === stage.key) + 1, total: stages.length });
 ---
 <Base title={title} seoTitle={seoTitle} description={seoDescription ?? description} overlay alternate={alternate}>
   <header class="opener">
     <Image src={image} alt="" widths={[480, 760, 1080, 1600]} sizes="100vw" priority />
     <div class="opener-text">
       <p class="kicker">
-        <a href={tripPath(locale, trip)} class="trip"><TripMark color={trip.data.color} />{tripText(locale, trip).name}</a>, {t(locale, 'stage.position', { n: stages.findIndex((s) => s.key === stage.key) + 1, total: stages.length })}
+        <a href={tripPath(locale, trip)} class="trip"><TripMark color={trip.data.color} />{tripText(locale, trip).name}</a>, {position}
       </p>
       <h1 class="display">{title}</h1>
     </div>
   </header>
+  <ReadingBar trip={trip} position={position} title={title} />
 
   <article>
     <div class="prose">
