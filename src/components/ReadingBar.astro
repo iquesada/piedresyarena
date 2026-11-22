@@ -1,0 +1,62 @@
+---
+import LogoIcon from './LogoIcon.astro';
+import TripMark from './TripMark.astro';
+import { toLocale } from '../i18n';
+import { homePath, tripPath, tripText, type Trip } from '../lib/content';
+
+interface Props {
+  trip: Trip;
+  position: string;
+  title: string;
+}
+
+const { trip, position, title } = Astro.props;
+const locale = toLocale(Astro.currentLocale);
+---
+{/* aria-hidden, so every link in it must stay out of the tab order. */}
+<div class="reading-bar" aria-hidden="true">
+  <a href={homePath(locale)} class="home" tabindex="-1"><LogoIcon /></a>
+  <a href={tripPath(locale, trip)} class="trip" tabindex="-1"><TripMark color={trip.data.color} /><span class="name">{tripText(locale, trip).name}</span></a>
+  <span class="position">{position}</span>
+  <span class="title">{title}</span>
+</div>
+
+<script>
+  // The bar only shows once the opener has scrolled away, and only while scrolling up.
+  const bar = document.querySelector<HTMLElement>('.reading-bar')!;
+  const opener = document.querySelector('.opener');
+  if (opener) {
+    // Clamped: the iOS bounce at the bottom must not read as scrolling up.
+    const clamp = () => Math.min(Math.max(scrollY, 0), document.documentElement.scrollHeight - innerHeight);
+    let lastY = clamp();
+    addEventListener('scroll', () => {
+      const y = clamp();
+      if (Math.abs(y - lastY) < 8) return; // lastY stays put, so slow scrolls add up
+      const past = opener.getBoundingClientRect().bottom <= 0;
+      bar.classList.toggle('shown', past && y < lastY);
+      lastY = y;
+    }, { passive: true });
+  }
+</script>
+
+<style>
+  .reading-bar {
+    position: fixed; inset: 0 0 auto; height: 3rem; z-index: 1050; /* between the overlay header (1000) and the skip link (1100) */
+    display: flex; align-items: center; gap: 0.75rem; padding-inline: 1.1rem;
+    background: var(--night); color: var(--white); font: 600 1rem var(--display); white-space: nowrap;
+    translate: 0 -100%; transition: translate 0.2s ease;
+  }
+  .reading-bar.shown { translate: 0 0; }
+  @media (prefers-reduced-motion: reduce) { .reading-bar { transition: none; } }
+  .home, .trip, .position { flex: none; }
+  a { text-decoration: none; }
+  a:hover { color: var(--sand); }
+  .trip { display: inline-flex; align-items: baseline; gap: 0.45rem; }
+  .trip :global(.trip-mark) { align-self: center; }
+  /* stage.position is lowercase ("etapa 3 de 6"). */
+  .position { display: inline-block; }
+  .position::first-letter { text-transform: uppercase; }
+  .title { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; font-weight: 800; font-stretch: 75%; }
+  @media (max-width: 599px) { .trip .name { display: none; } }
+  :global(html:has(.reading-bar)) { scroll-padding-top: 3rem; }
+</style>
