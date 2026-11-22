@@ -36,6 +36,8 @@ const versions = switchTo && { [locale]: canonical, [other]: new URL(switchTo, A
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {dark && <meta name="color-scheme" content="dark" />}
+    <meta name="theme-color" content={dark ? '#1a1a17' : '#ffffff'} />{/* --night / --white */}
     <title>{fullTitle}</title>
     <meta name="description" content={description || t(locale, 'site.description')} />
     <link rel="icon" href="/favicon.ico" sizes="32x32" />
