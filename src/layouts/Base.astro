@@ -49,7 +49,7 @@ const versions = switchTo && { [locale]: canonical, [other]: new URL(switchTo, A
   <body class:list={{ dark }}>
     <a href="#main" class="skip">{t(locale, 'skip.main')}</a>
     <header class:list={['bar', { overlay }]}>
-      <a href={homePath(locale)} class="brand"><LogoIcon /><span>{wordmark}</span></a>
+      <a href={homePath(locale)} class="brand"><LogoIcon /><span translate="no">{wordmark}</span></a>
       <nav>
         <a href={aboutPath(locale)}>{t(locale, 'nav.about')}</a>
         {switchTo && <a href={switchTo} hreflang={other} lang={other} aria-label={t(other, 'lang.switch')}>{other.toUpperCase()}</a>}
@@ -59,7 +59,7 @@ const versions = switchTo && { [locale]: canonical, [other]: new URL(switchTo, A
       <slot />
     </main>
     <footer>
-      <a href={homePath(locale)} class="brand"><LogoIcon /><span>{wordmark}</span></a>
+      <a href={homePath(locale)} class="brand"><LogoIcon /><span translate="no">{wordmark}</span></a>
       <p>{t(locale, 'site.description')}</p>
       <InstagramLink />
     </footer>
