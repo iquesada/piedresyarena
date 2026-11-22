@@ -16,16 +16,16 @@ Hoy tocaba ruta sencilla, al menos sobre el papel. Aunque me quedaban bastantes 
 
 Qué mejor manera de empezar que con un puerto, no muy largo, pero con rampas duras. Tras coronar el puerto fui atravesando diferentes pueblos sin demasiado interés.
 
-![](./bike_park.jpg)
+![Bicicleta apoyada en la verja de un parque con paseos de baldosa roja](./bike_park.jpg)
 
 Afortunadamente, en uno de los pueblos encontré una gasolinera con manguera a presión donde le pude dar un buen lavado a mi bici. El polvo del día anterior había sido tan abundante que había creado una costra dura en todo el cuadro. Además, parecía casi imposible quitarlo de la transmisión. Afortunadamente la manguera tenía presión suficiente para arrancar la pintura. Dejé mi bici totalmente limpia y seguí viaje hacia Telavi.
 
-![](./car.jpg)
+![Un coche antiguo levanta polvo en una carretera recién asfaltada](./car.jpg)
 
-![](./memorial.jpg)
+![Monumento de mármol a los caídos de 1941–1945, con decenas de retratos](./memorial.jpg)
 
 En la parte final del viaje pasé por el imponente <a href="https://goo.gl/maps/S5QBY9pWBtEPT3CL7">Monasterio de Alaverdi</a>.
 
-![](./wine.jpg)
+![El monasterio de Alaverdi: catedral de torre cónica y edificio de piedra tras la muralla](./wine.jpg)
 
 Y de ahí hasta el final, poco más que contar. Finalmente llegué a Telavi, donde pude relajarme en la ciudad más tranquila de todas las que he visto a mi paso por Georgia. He de reconocer que el viaje no funcionó como esperaba pero, con todo, me queda un gran sabor de boca de mi paso por Georgia. Unos paisajes maravillosos, una gente encantadora y una gastronomía que, si no la habéis probado, os la recomiendo.

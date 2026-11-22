@@ -18,20 +18,20 @@ Rápidamente cojo un carril bici que, aunque confuso en ciertos momentos, me sac
 
 Una vez fuera de la ciudad, el nivel de tráfico desciende al mínimo. Me cruzo con algún coche de cuando en cuando, eso es todo. Eso sí, la carretera se va poniendo dura y empiezan las primeras subidas fuertes. En pocos kilómetros salgo de la carretera y me adentro en pistas forestales, también poco transitadas. Y así, poco a poco, paso el primer puerto. Vuelvo al valle y ya veo los montes al fondo. El paisaje es muy verde y muy, muy bonito. Dado que la etapa no es muy larga, y parece sencilla, no cojo agua en el CamelBak. Intento apañarme con el bidón.
 
-![](./bled_valey.jpg)
+![Camino asfaltado que sube entre prados verdes y frutales, con montañas boscosas al fondo](./bled_valey.jpg)
 
 Después del valle vuelvo a las pistas forestales y empieza la odisea. La vegetación cierra el camino totalmente, es imposible pasar. Me voy desviando por otros caminos por los que sí se puede pasar durante un rato, pero se cierran más adelante. Intento alejarme lo menos posible de la ruta principal, pero no es sencillo. A veces me encuentro a escasos 20 metros de la pista principal, pero es imposible pasar. Y llegar a la pista principal tampoco me garantiza nada, porque la cruzo en algunos tramos y está totalmente bloqueada. Todo esto, unido al peso y al volumen de las alforjas, hace que avance muy despacio.
 
-![](./slovenia1.jpg)
+![Bicicleta con alforjas verdes apoyada bajo un mapa del parque Polhograjski Dolomiti](./slovenia1.jpg)
 
 Sin darme cuenta van pasando las horas, me quedo sin agua y empiezo a pensar que la mejor idea habría sido dar la vuelta.
 
-![](./directions.jpg)
+![Bicicleta junto a un poste de madera lleno de flechas indicadoras, en un cruce entre prados](./directions.jpg)
 
 De repente, se abre un claro en el bosque y llego a una casa. Bien, al menos podré conseguir agua. Allí vive una señora que no habla ni una palabra de inglés, y sobra decir que yo no hablo esloveno, con lo que me explico como puedo y me da agua suficiente para el resto del día. Compruebo que el camino que lleva hasta la casa baja al valle contrario al que yo quiero ir, parece que la mejor opción es seguir adelante. ¡Pues adelante!
 
-![](./slovenia2.jpg)
+![Valle verde con un pueblo de tejados rojos y montañas rocosas detrás](./slovenia2.jpg)
 
 Aún me quedaba otra hora de más de lo mismo. Al fin, la vegetación se abre y llego a un camino. Después carretera, coches... y Bled. Sitio turístico donde los haya, el tráfico y el bullicio contrastan con las horas de soledad que he vivido durante el día de hoy. Busco el camping, que está a la orilla del lago, y monto mi tienda. Un baño, una buena cena y a descansar, los 70 kilómetros han hecho mella, especialmente los kilómetros de empujar la bici. Mañana tendré que mirar dónde me meto, tal vez la ruta que he descargado no está actualizada. Pero que no se me malinterprete: he disfrutado como un niño.
 
-![](./bikamper.jpg)
+![Bicicleta sosteniendo una pequeña tienda de campaña amarilla con un toldo gris](./bikamper.jpg)

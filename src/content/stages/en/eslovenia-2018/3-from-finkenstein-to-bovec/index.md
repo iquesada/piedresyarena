@@ -12,11 +12,11 @@ Shortly after leaving the hotel I join a cycle path. I leave Austria and enter I
 
 I go through Tarvisio on my way back to Slovenia and climb the Predil Pass, a lovely mountain pass beside a lake.
 
-![](./italy_lake.jpg)
+![Mountain lake with a gravel beach, ringed by pines and a great rock face](./italy_lake.jpg)
 
 I spend the day crossing borders (which I rather enjoy, I won’t deny it), and in just over three hours I’ve reached my destination.
 
-![](./crossing_borders.jpg)
+![Collage of the bike beside the border signs for Slovenia, Italy and Austria](./crossing_borders.jpg)
 
 Today I’ve ridden just over 55 kilometres with a thousand metres of climbing, all on the road. A quiet, relaxed day to get my strength back and enjoy tomorrow’s stage. It will be tough, especially the first part.
 
@@ -24,10 +24,10 @@ Bovec is the area’s hub for outdoor sports. I reckon you could spend a whole w
 
 The evening is very lively and I stay a while to watch the band. They seem to be well known in Slovenia...
 
-![](./bovec_party.jpg)
+![Band playing on a blue-lit stage, with the crowd in silhouette](./bovec_party.jpg)
 
 But the truth is their music doesn’t do much for me. I take the chance to try the polenta at the local market, which I’d give a solid eight out of ten, and head back to the campsite. I can hear the band perfectly from my bed, so I read for a while until they run out of songs. I have to say I’m going to bed pretty early every day.
 
 Right, full stomach and relaxed legs. Tomorrow will be a big day.
 
-![](./bovec_food.jpg)
+![People queueing at night at wooden food stalls](./bovec_food.jpg)

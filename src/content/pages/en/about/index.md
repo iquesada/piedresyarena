@@ -12,28 +12,28 @@ I’m devoted to deserts, and I’ve been lucky enough to ride through the Sahar
 
 <div class="gallery strip">
 
-![](./IMG_0136.jpg)
+![Me in a helmet, surrounded by smiling boys and children below a snow-streaked mountain](./IMG_0136.jpg)
 
-![](./img_2483.jpg)
+![Me in a red top, beside an old woman leaning out of her window](./img_2483.jpg)
 
-![](./IMG_1922.jpg)
+![Me and a young woman eating watermelon by a table, on a plain with hills](./IMG_1922.jpg)
 
-![](./DSCN2054.jpg)
+![Me and a Mongolian boy on the Gobi steppe, with a camel behind](./DSCN2054.jpg)
 
-![](./DSCN2367.jpg)
+![Me beside a Bedouin man and his dromedary in the desert](./DSCN2367.jpg)
 
 ![Iñaki in Ethiopia](./DSCN2684.jpg)
 
-![](./etiopia_4.jpg)
+![Me, smiling, among a group of Ethiopian children and young people crowding the camera](./etiopia_4.jpg)
 
-![](./P1070006.jpg)
+![Me riding across the sand of the Namibian desert, beside a palm tree](./P1070006.jpg)
 
-![](./kamwanga-guest-house.jpg)
+![Nines, the teacher and me in front of the Kamwanga guesthouse](./kamwanga-guest-house.jpg)
 
-![](./liubliana.jpg)
+![Me with the bike on Ljubljana’s Dragon Bridge](./liubliana.jpg)
 
-![](./shatili.jpg)
+![Me with the bike, beside two travellers and a man leaning over a wooden balcony, in Shatili](./shatili.jpg)
 
-![](./IMG_20220710_193640.jpg)
+![Me lying on the grass with my arms spread, next to a puppy on its back](./IMG_20220710_193640.jpg)
 
 </div>

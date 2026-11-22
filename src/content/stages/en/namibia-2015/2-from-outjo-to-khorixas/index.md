@@ -27,7 +27,7 @@ Although we’re going fast, very fast, averaging over 27 km/h, so long in the s
 
 The stage ends up feeling long. We arrive worn out and dreading tomorrow’s stage: 98 kilometres to the White Lady lodge, on Mount Brandberg, 80 of them on gravel tracks in who knows what condition. But today, for now, good tarmac.
 
-<div class="embed"><iframe src="https://www.youtube.com/embed/oDP1870gNnY" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><iframe src="https://www.youtube.com/embed/oDP1870gNnY" title="Video: from Outjo to Khorixas" loading="lazy" allowfullscreen></iframe></div>
 
 At last we reach Khorixas, the administrative capital of Damaraland. With only 11,000 inhabitants, it has nothing whatsoever to offer tourists, but it’s interesting in a different way: here we can see what real life is like in Namibia, far from the comforts of the white man (usually of German descent) who lives in the lap of luxury in a, let’s say, different Africa. But not Khorixas. This is Africa.
 

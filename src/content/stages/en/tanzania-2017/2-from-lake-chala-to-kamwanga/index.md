@@ -10,13 +10,13 @@ It’s been a wonderful night: the place couldn’t be more peaceful, and the on
 
 But we didn’t come here to rest, we came to ride. So we load up the panniers and set off, up the track, towards the track that will take us to the north side of Kilimanjaro, the so-called <em>lower road.</em>
 
-![](./nines-lower-road.jpg "Nines, lower road")
+![Nines, smiling, rides a red dirt track between dry fields](./nines-lower-road.jpg "Nines, lower road")
 
-![](./inaki-lower-road.jpg "Iñaki, lower road")
+![Me, with green panniers, riding past some mud-brick houses](./inaki-lower-road.jpg "Iñaki, lower road")
 
 The track gains height little by little; today’s destination is quite high up. The ground isn’t too broken, but it’s nowhere near the luxury of the day before. Rocks poke out of the dirt and make the going, at times, rougher than we’d like. We don’t pass a single car, only motorbikes. Lots of motorbikes. The famous <a href="https://en.wikipedia.org/wiki/Boda_boda">boda boda</a>, the cheapest (and most dangerous) taxis in Africa. Many of them overtook us at high speed, on their old bikes with bald tyres... they don’t look very safe, and everyone told us how many accidents they cause.
 
-![](./lower-road.jpg "Lower Road")
+![Straight red dirt track, with a woman walking along the side](./lower-road.jpg "Lower Road")
 
 A little further on we come out onto a tarmac road. We have a lot of kilometres to cover today, so it suits us very well. We pass through several lively villages, the ones on the border between Tanzania and Kenya. The traffic, lorries above all, is very heavy, although we soon leave this area behind and the traffic eases off.
 
@@ -24,14 +24,14 @@ The road climbs gradually: today’s stage will take us from just over 900 metre
 
 After eight hours on the bike we reach Kamwanga. Waiting for us here was <em>the teacher</em>, a Maasai who works as coordinator of the Kamwanga Cultural Centre. This would be the most authentic experience of the trip. And to start with, a beer.
 
-![](./IMG_20170908_162649.jpg "Kamwanga Guest House")
+![The teacher and me raising bottles of beer in a bar with posters on the walls](./IMG_20170908_162649.jpg "Kamwanga Guest House")
 
 We stay in a modest guest house. After a shower, we leave our stuff lying around the room and go off to see the village.
 
-![](./kamwanga-habitacion.jpg "Our room in Kamwanga")
+![Plain room with peeling walls, a bed and our bags on it](./kamwanga-habitacion.jpg "Our room in Kamwanga")
 
 The teacher took us all round the village, introducing us to people and telling us how, and on what, people make a living in these parts. Agriculture obviously dominates the economy of these villages, bananas above all. We were also surprised to see, in such a small village, a mosque, a Catholic church and a Protestant church. All together, in a small space, and at peace.
 
 After the tour of the village we’re starving. We invite the teacher to have dinner with us and treat ourselves to a little feast of local food, really, really good. And from there we head off to bed: it’s been a long day and we need to rest. What we didn’t know was that the night would be long too... but I’ll tell you about that in the next post.
 
-![](./kamwanga-cena.jpg "Dinner in Kamwanga")
+![Table with plates of rice, stewed beans and greens](./kamwanga-cena.jpg "Dinner in Kamwanga")

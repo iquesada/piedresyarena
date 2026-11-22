@@ -16,11 +16,11 @@ Creo que esta era una deuda pendiente. No puede ser que mi afición al ciclismo 
 
 No me costó mucho organizarlo. Con intención de partir desde Lieja, llegué con mis bártulos al aeropuerto de Bruselas. Para todo aquél que no lo conozca le diré que tiene, al menos, dos cosas buenas. Uno, taquillas grandes donde puedo dejar la caja de la bici. Y dos, acceso directo al tren. Y con estas, nada más llegar me dispuse a montar la bici, guardé las maletas en la taquilla y cogí el primer tren dirección Lieja.
 
-![](./IMG_20220706_164114.jpg)
+![La caja de la bici, una bolsa de ruedas y una maleta en el suelo de una consigna](./IMG_20220706_164114.jpg)
 
 El viaje es rápido. Aun haciendo cambio de tren a medio camino, llegué a Lieja en menos de dos horas. Por fin iba a estrenar mi nueva bici y mi nuevo sistema: adiós alforjas, ¡hola bikepacking!
 
-![](./IMG_20220706_193846.jpg)
+![La bicicleta nueva con bolsas de bikepacking, en una plaza de Lieja](./IMG_20220706_193846.jpg)
 
 Me alojé en un pequeño hotel de Lieja y al día siguiente, bien temprano, arranqué mi viaje.
 
@@ -28,15 +28,15 @@ No puedo decir que el arranque haya sido el mejor. A primera hora llovía muchí
 
 Los primeros kilómetros fueron sencillos, y pude disfrutar de primera mano de los famosísimos carriles bici que unen los pueblos de Bélgica. Kilómetros y kilómetros de asfalto destinado únicamente a las bicicletas, muy transitados, que te llevan casi a cualquier lugar. Y además, muy cuidados.
 
-![](./IMG_20220707_112743.jpg)
+![Bicicleta en una pasarela de madera adornada con jardineras de flores rojas](./IMG_20220707_112743.jpg)
 
 Por fortuna apenas me llovió y, aunque el tiempo distaba mucho de ser bueno, la ropa no llegó a calarme. Abandoné los carriles bici para adentrarme en una red de bonitos senderos, muy divertidos. Y así llegué a Limburgo, donde pude esquivar los <em>frietkoten</em> o freidurías y agenciarme un dürüm para comer un poco más tarde. Con su forma cilíndrica, su envoltorio de papel de aluminio y lo bien que se conserva después de recién hecho, he descubierto en este viaje que son ideales para llevar en la bici y poder degustar <em>más adelante</em>.
 
-![](./IMG_20220707_141330.jpg)
+![Mi mano con un burrito a medio comer, con la bicicleta tumbada en la hierba](./IMG_20220707_141330.jpg)
 
 Y así, poco a poco, fui haciendo camino mientras el cielo se oscurecía y las nubes cada vez se cerraban más. La temperatura comenzó a bajar, no a lo loco, pero sí lo suficiente para plantearme... ¡por qué tengo que ir tan abrigado en pleno julio! Ay, vacaciones de verano, ¿dónde estáis?
 
-![](./IMG_20220707_160229.jpg)
+![Yo, con chubasquero amarillo y casco, en una carretera ancha y vacía bajo cielo gris](./IMG_20220707_160229.jpg)
 
 En este punto ya me empezaban a sobrar los kilómetros. Siempre trato de ir bien preparado en cuanto a la ruta a realizar, y nunca he considerado un <em>deshonor</em> el coger un atajo o evitar alguna zona si es difícil de transitar, se me hace tarde, o simplemente no me apetece. Y ese día había un trozo que se preveía totalmente encharcado (y seguramente embarrado) y, honestamente, no me apetecía comenzar así.
 

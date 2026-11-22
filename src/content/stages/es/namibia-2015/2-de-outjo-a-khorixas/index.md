@@ -35,7 +35,7 @@ Aunque rodamos rápido, muy rápido, con una media por encima de los 27 km/h, ta
 
 La etapa termina por hacérsenos larga, llegamos tocados y temiendo por la etapa de mañana. 98 kilómetros hasta el White Lady lodge, en el monte Brandberg, 80 de ellos por pista en vete a saber tú qué condiciones. Pero hoy, de momento, buen asfalto.
 
-<div class="embed"><iframe src="https://www.youtube.com/embed/oDP1870gNnY" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><iframe src="https://www.youtube.com/embed/oDP1870gNnY" title="Vídeo: de Outjo a Khorixas" loading="lazy" allowfullscreen></iframe></div>
 
 Por fin llegamos a Khorixas, capital administrativa de Damaraland. Con solamente 11.000 habitantes, es un lugar sin ningún tipo de interés turístico pero con un interés diferente: podemos ver cómo es la vida real en Namibia, lejos de las comodidades del hombre blanco (generalmente de ascendencia alemana) que vive a todo tren en una África, digamos, diferente. Pero Khorixas no, esto sí es África.
 

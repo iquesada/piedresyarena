@@ -20,7 +20,7 @@ Afortunadamente empieza la subida. Digo afortunadamente porque no hay manera de 
 
 Me junto con Daniel Becerril, los kilómetros pasan con rapidez. Estoy disfrutando realmente de esta etapa, es preciosa. Poco más adelante alcanzamos a Luis y a Paolo Angaroni, un italiano muy simpático. Poco a poco vamos haciendo kilómetros y vadeando ríos, hasta que en uno de estos ríos vemos... ¡a la maglia rosa! ¿Qué pasa aquí, cómo podemos haber cogido al líder en el kilómetro 80 de la etapa?
 
-![](./mbc2010-perdidos.jpg)
+![Ciclistas en la orilla de un río; uno, con los brazos abiertos, llama a otro para que cruce](./mbc2010-perdidos.jpg)
 
 Cruzamos el río, parece que Marzio, el líder, interpretó mal la señal de "río profundo" y se dio una vuelta de varios kilómetros. Dani, al otro lado del río, intenta convencerle para cruzar. Mientras tanto, Paolo, desde el río, nos dice que el agua está muy fría (o algo así), yo (18) le digo que le mande al cuerno mientras que Luis no entiende nada.
 

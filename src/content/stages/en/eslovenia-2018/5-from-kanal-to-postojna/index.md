@@ -8,11 +8,11 @@ My plan, as on every other day, was to get up early and set off early. And so I 
 
 Once again, kilometres and kilometres of cycle path. They never cease to amaze me.
 
-![](./bike_path.jpg)
+![Paved cycle path with a wooden railing, in the shade of the woods](./bike_path.jpg)
 
 Today has been one of the days when the heat is hurting me most. I prefer heat to cold, but everything has its limits. Today’s route is a constant up and down on tracks and back roads, with a good climb at the end.
 
-![](./slovenia_mountains.jpg)
+![Meadow with fruit trees and a small roofed wooden shrine with the sign “Bela”](./slovenia_mountains.jpg)
 
 I went through loads of villages and small towns, and I think I stopped at every single river I came across to cool off a bit. The heat is stifling, and shade is not exactly plentiful. The last part runs through Slovenia’s wine country, and I ride past vineyard after vineyard.
 

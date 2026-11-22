@@ -18,4 +18,4 @@ translationKey: "etiopia-wild-bike-2012/etapa-9"
 
 Os dejo un vídeo de producción propia, para que veáis el ambiente de Lalibela.
 
-<div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/cvVNK7qOrTY" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/cvVNK7qOrTY" title="Vídeo: festividad de San Jorge en Lalibela" loading="lazy" allowfullscreen></iframe></div>

@@ -379,6 +379,30 @@ class TestEnglishPublic:
         assert check_build.english_public(check_build.ROOT / 'src' / 'i18n' / 'index.ts') in (True, False)
 
 
+# --- Photos in the text --------------------------------------------------------------
+
+class TestAltText:
+    def test_photo_in_the_text_without_alt(self, tmp_path):
+        body = '<article class="prose body"><p><img src="/_astro/a.webp" alt=""></p></article>'
+        assert '/index.html: photo without alt text: /_astro/a.webp' in run(tmp_path, pages={'/': page('/', body=body)})
+
+    def test_blank_or_missing_alt(self):
+        p = check_build.Page('<div class="prose"><img src="a.webp" alt=" "><img src="b.webp"></div>')
+        assert p.bare_imgs == ['a.webp', 'b.webp']
+
+    def test_photo_in_a_gallery_inside_the_text(self):
+        p = check_build.Page('<div class="prose"><div class="gallery"><p><img src="a.webp" alt=""></p></div></div>')
+        assert p.bare_imgs == ['a.webp']
+
+    def test_photo_with_alt(self):
+        assert check_build.Page('<div class="prose"><img src="a.webp" alt="Bicicleta en un puente"></div>').bare_imgs == []
+
+    def test_decorative_photos_outside_the_text(self):
+        p = check_build.Page('<header class="opener"><img src="a.webp" alt=""></header>'
+                             '<article class="prose"></article><img src="b.webp" alt="">')
+        assert p.bare_imgs == []
+
+
 # --- Page -----------------------------------------------------------------------------
 
 class TestPage:

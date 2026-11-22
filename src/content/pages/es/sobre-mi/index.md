@@ -13,28 +13,28 @@ Siento devoción por los desiertos, y he tenido la suerte de pedalear por el Sá
 
 <div class="gallery strip">
 
-![](./IMG_0136.jpg)
+![Yo, con casco, rodeado de chicos y niños sonrientes ante una montaña con nieve](./IMG_0136.jpg)
 
-![](./img_2483.jpg)
+![Yo, con jersey rojo, junto a una anciana asomada a la ventana de su casa](./img_2483.jpg)
 
-![](./IMG_1922.jpg)
+![Yo y una chica comiendo sandía junto a una mesa, en una llanura con colinas](./IMG_1922.jpg)
 
-![](./DSCN2054.jpg)
+![Yo y un chico mongol en la estepa del Gobi, con un camello detrás](./DSCN2054.jpg)
 
-![](./DSCN2367.jpg)
+![Yo junto a un beduino y su dromedario en el desierto](./DSCN2367.jpg)
 
 ![Iñaki Etiopía](./DSCN2684.jpg)
 
-![](./etiopia_4.jpg)
+![Yo, sonriente, entre un grupo de niños y jóvenes etíopes que se apiñan ante la cámara](./etiopia_4.jpg)
 
-![](./P1070006.jpg)
+![Yo, en bicicleta por la arena del desierto de Namibia, junto a una palmera](./P1070006.jpg)
 
-![](./kamwanga-guest-house.jpg)
+![Nines, el profesor y yo ante el guesthouse de Kamwanga](./kamwanga-guest-house.jpg)
 
-![](./liubliana.jpg)
+![Yo con la bicicleta en el puente de los Dragones de Ljubljana](./liubliana.jpg)
 
-![](./shatili.jpg)
+![Yo con la bicicleta, junto a dos viajeros y un hombre asomado a un balcón de madera, en Shatili](./shatili.jpg)
 
-![](./IMG_20220710_193640.jpg)
+![Yo, tumbado en la hierba con los brazos abiertos, junto a un cachorro panza arriba](./IMG_20220710_193640.jpg)
 
 </div>

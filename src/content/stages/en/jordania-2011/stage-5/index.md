@@ -29,7 +29,7 @@ The queen stage was getting tough. But all that ground that was costing us so mu
 
 And so you can see what I mean, take a look at the video one of my companions shot.
 
-<div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/tzNQVS-t4pw" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/tzNQVS-t4pw" title="Video: cycling in Wadi Rum" loading="lazy" allowfullscreen></iframe></div>
 
 At last we reached Wadi Rum. The scenery was spectacular, and I couldn’t wait for the next stage to ride among les piedres y la arena. But first we were going to enjoy a magnificent dinner, prepared in the most traditional style. A metal container, with embers at the bottom and a stack of trays above, served as the grill. Tightly closed and buried in the sand, this container gave it the exotic touch. Late in the evening we went to <em>dig up</em> our dinner, made up of meat and vegetables. And to be honest, it was sensational, although I admit the exotic touch earns it extra points.
 

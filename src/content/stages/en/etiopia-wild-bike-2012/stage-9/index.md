@@ -12,4 +12,4 @@ Last breakfast. We take down camp for the last time and set off on the last stag
 
 Here’s a video I made myself, so you can get a feel for the atmosphere in Lalibela.
 
-<div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/cvVNK7qOrTY" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/cvVNK7qOrTY" title="Video: St George’s Day festival in Lalibela" loading="lazy" allowfullscreen></iframe></div>

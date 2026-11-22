@@ -24,14 +24,18 @@ class Page(HTMLParser):
         self.lang = self.refresh = self.canonical = self.robots = None
         self.title = False
         self.urls, self.imgs = [], []
+        self.bare_imgs = []  # src of the <img>s in the text (.prose) without alt text
         self.links = []  # hrefs to follow, without the hreflang ones (switcher and alternates)
         self.alternates, self.switcher = {}, None  # hreflang -> href of <link rel=alternate>; <a hreflang> href
-        self.divs, self.embeds, self.nested_embeds = [], [], 0  # open <div>s (True = .embed), iframes per .embed
+        self.blocks, self.embeds, self.nested_embeds = [], [], 0  # classes of the open <div>s and <article>s, iframes per .embed
         self.feed(text)
 
     def handle_endtag(self, tag):
-        if tag == 'div' and self.divs:
-            self.divs.pop()
+        if tag in ('div', 'article') and self.blocks:
+            self.blocks.pop()
+
+    def inside(self, cls):
+        return any(cls in classes for classes in self.blocks)
 
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
@@ -56,16 +60,18 @@ class Page(HTMLParser):
             urls = [u for trip in json.loads(a['data-trips']) for u in [trip['url']] + [s['url'] for s in trip['stages']]]
             self.links += urls
             self.urls += urls
-        if tag == 'div':
-            is_embed = 'embed' in (a.get('class') or '').split()
-            if is_embed:
-                self.nested_embeds += any(self.divs)
+        if tag in ('div', 'article'):
+            classes = (a.get('class') or '').split()
+            if 'embed' in classes:
+                self.nested_embeds += self.inside('embed')
                 self.embeds.append(0)
-            self.divs.append(is_embed)
-        elif tag == 'iframe' and any(self.divs):
+            self.blocks.append(classes)
+        elif tag == 'iframe' and self.inside('embed'):
             self.embeds[-1] += 1
         if tag == 'img':
             self.imgs.append(a.get('src') or '')
+            if self.inside('prose') and not (a.get('alt') or '').strip():
+                self.bare_imgs.append(a.get('src') or '')
         for key in ('href', 'src'):
             if a.get(key):
                 self.urls.append(a[key])
@@ -166,6 +172,7 @@ def check(dist: Path, content: Path, public: bool) -> list[str]:
         if '![' in text:
             errors.append(f'{rel}: literal ![')
         errors += [f'{rel}: image not optimized: {src}' for src in page.imgs if not src.startswith('/_astro/')]
+        errors += [f'{rel}: photo without alt text: {src}' for src in page.bare_imgs]
         for url in page.urls:
             path = internal(dist, url, f)
             if path and not target(dist, path):

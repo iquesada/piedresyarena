@@ -28,21 +28,21 @@ Más adelante nos encontramos con el poblado de Tenta. He de reconocer que sient
 
 <div class="gallery">
 
-![](./DSCN2641.jpg)
+![Mercado de Tenta: mujeres con haces de leña y burros en una explanada de tierra](./DSCN2641.jpg)
 
-![](./DSCN2637.jpg)
+![Un chico y una mujer junto al molino de grano, dentro de una nave en penumbra](./DSCN2637.jpg)
 
-![](./DSCN2636.jpg)
+![Burros cargados con sacos y hombres junto a una choza de techo de paja](./DSCN2636.jpg)
 
-![](./DSCN2634.jpg)
+![Mujer sentada en el suelo vendiendo guindillas rojas secas sobre una tela](./DSCN2634.jpg)
 
-![](./DSCN26311.jpg)
+![Dos mujeres con pañuelos, sentadas junto a un saco de grano](./DSCN26311.jpg)
 
-![](./DSCN2630.jpg)
+![Montón de grano rojizo sobre sacos extendidos en el suelo](./DSCN2630.jpg)
 
-![](./DSCN2629.jpg)
+![Multitud en el mercado, con un hombre y un chico mirando a la cámara](./DSCN2629.jpg)
 
-![](./DSCN2626.jpg)
+![Calle de tierra llena de gente, con un chico de gorro gris en primer plano](./DSCN2626.jpg)
 
 </div>
 

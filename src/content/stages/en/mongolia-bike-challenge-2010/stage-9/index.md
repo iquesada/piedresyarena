@@ -12,7 +12,7 @@ Luckily the climbing begins. I say luckily because there’s no way of warming u
 
 I join Daniel Becerril, and the kilometres fly by. I’m really enjoying this stage, it’s beautiful. A little further on we catch Luis and Paolo Angaroni, a very friendly Italian. Little by little we clock up kilometres and ford rivers, until in one of them we see... the maglia rosa! What’s going on here, how can we have caught the leader at kilometre 80 of the stage?
 
-![](./mbc2010-perdidos.jpg)
+![Cyclists on a riverbank; one, arms spread, calls another to cross](./mbc2010-perdidos.jpg)
 
 We cross the river; it seems Marzio, the leader, misread the “deep river” sign and went several kilometres out of his way. Dani, on the other side of the river, tries to persuade him to cross. Meanwhile Paolo, from the river, tells us the water is very cold (or something like that), I (in 18th place) tell him to tell him to get lost, while Luis doesn’t understand a thing.
 

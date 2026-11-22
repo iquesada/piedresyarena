@@ -14,21 +14,21 @@ elevation: 1495
 
 Pero, ¿Bélgica no era todo llano? Nada más salir de Houffalize (donde, por cierto, conviene llevar buena ropa de abrigo si vas a pasar la noche) la ruta me lleva por kilómetros de bosques y más bosques. De estrechos caminos a pequeñas pistas, me siento perdido en los bosques de Bélgica. Aunque hoy en día, con la ruta cargada en el GPS, lo de perderse se hace complicado.
 
-![](./IMG_20220709_131059.jpg)
+![Sendero de tierra por un bosque, visto desde el manillar con el GPS](./IMG_20220709_131059.jpg)
 
 Aunque sabía que hoy iba a pasar por <a href="https://chouffe.com/es-es/nuestra-cerveza/la-chouffe">La Chouffe</a>, lo cierto es que encontrármela fue una pequeña sorpresa. Aficionado como soy a la cerveza en general, es curioso que mi primera visita a una fábrica sea tan lejos de casa. Aproveché para visitar el entorno de la fábrica y, cómo no, la tienda de regalos. Y por si queda alguna duda... ¡demasiados kilómetros por delante como para tomarme una! Ya habrá tiempo después.
 
-![](./IMG_20220709_101532.jpg)
+![Bicicleta apoyada en una valla junto a los letreros de madera de la cervecería](./IMG_20220709_101532.jpg)
 
 En este punto empecé a encontrarme a gente corriendo, con dorsales. ¡Qué suerte la mía encontrarme con una carrera de montaña, en sentido contrario de mi marcha, por caminos tan estrechos! Afortunadamente nuestros caminos se separaron antes de provocar un accidente, y me dirigí rápidamente a La Roche-en-Ardenne donde volví a sucumbir a los encantos de la fritanga belga para la hora de comer. No lo voy a negar, ¡es todo un vicio!
 
-![](./IMG_20220709_124650.jpg)
+![Río que atraviesa un pueblo, con edificios en la orilla y colinas boscosas](./IMG_20220709_124650.jpg)
 
 A la postre fue un mal plan. Nada más comer tuve que enfrentarme a la rampa más dura de toda la ruta. Aun con el estómago lleno (¡y de qué manera!) tuve que pedalear primero, y empujar después, mi bici bien cargada hasta lo alto.
 
 Afortunadamente, desde ahí, una sucesión de cortas subidas y bajadas por single tracks me dejarían muy buen sabor de boca.
 
-![](./IMG_20220709_151421.jpg)
+![Yo, sentado en un banco de madera junto a la bicicleta, al borde de un bosque](./IMG_20220709_151421.jpg)
 
 Según me voy acercando a Saint-Hubert, muy cerca de mi destino, el sol empieza a apretar muchísimo. Es llamativo el calor que puede hacer en esta zona. El sol golpea como un lanzallamas, y ya llevo un buen rato sin ver una sombra.
 

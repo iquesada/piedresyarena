@@ -16,11 +16,11 @@ Mi intención era, al igual que el resto de días, madrugar y salir temprano. Y 
 
 Nuevamente, kilómetros y kilómetros de carril bici. No dejan de impresionarme.
 
-![](./bike_path.jpg)
+![Carril bici asfaltado con barandilla de madera, a la sombra del bosque](./bike_path.jpg)
 
 Hoy ha sido uno de los días donde el calor me está haciendo más daño. Prefiero el calor al frío, pero todo tiene un límite. El recorrido de hoy es un continuo sube-baja de caminos y carreteras secundarias, con una buena subida al final.
 
-![](./slovenia_mountains.jpg)
+![Prado con frutales y una pequeña cruz de madera con tejadillo y el letrero «Bela»](./slovenia_mountains.jpg)
 
 Atravesé un montón de pueblos y pequeñas ciudades, y creo que paré en todos y cada uno de los ríos que encontré para refrescarme un poco. El calor está siendo asfixiante, y las zonas de sombra no abundan en exceso. La parte final transcurre por la zona vinícola de Eslovenia, y atravieso multitud de viñedos.
 
