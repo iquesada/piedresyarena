@@ -77,13 +77,16 @@ const versions = switchTo && { [locale]: canonical, [other]: new URL(switchTo, A
     --serif: 'Source Serif 4 Variable', Georgia, serif;
     --measure: 48rem; /* about 90 characters of body text */
     --wide: 64rem; /* figures break out to this width: keep in sync with sizes in astro.config.mjs */
+    --focus: var(--black); /* focus ring: black on light surfaces, sand on dark ones and photos */
   }
   * { box-sizing: border-box; }
   html { -webkit-text-size-adjust: 100%; }
   body { margin: 0; background: var(--white); color: var(--black); font: 1.1875rem/1.65 var(--serif); font-optical-sizing: auto; }
   body.dark { background: var(--night); color: var(--white); }
   a { color: inherit; }
-  a:focus-visible { outline: 3px solid var(--sand); outline-offset: 2px; }
+  body.dark, .bar, footer, .opener, .tile { --focus: var(--sand); }
+  .leaflet-container { --focus: var(--black); }
+  a:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
   h1, h2, h3 { font-family: var(--display); line-height: 0.95; margin: 0; }
 
   .bar {
@@ -157,7 +160,7 @@ const versions = switchTo && { [locale]: canonical, [other]: new URL(switchTo, A
     font: 600 1.25rem var(--display); cursor: pointer;
   }
   .strip-controls button:hover { background: var(--black); color: var(--white); }
-  .strip-controls button:focus-visible { outline: 3px solid var(--sand); outline-offset: 2px; }
+  .strip-controls button:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
   @media (min-width: 760px) {
     .prose blockquote { margin-inline: -3rem; }
     .prose figure, .prose .gallery { margin-inline: calc((min(100vw, var(--wide)) - var(--measure)) / -2); }
