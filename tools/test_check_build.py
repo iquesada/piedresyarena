@@ -403,6 +403,21 @@ class TestAltText:
         assert p.bare_imgs == []
 
 
+# --- Links within the page ----------------------------------------------------------
+
+class TestFragments:
+    def test_link_to_a_missing_id(self, tmp_path):
+        body = '<a href="#main" class="skip">Saltar</a><main></main>'
+        assert '/index.html: link to missing #main' in run(tmp_path, pages={'/': page('/', body=body)})
+
+    def test_link_to_an_existing_id(self):
+        p = check_build.Page('<a href="#main">Saltar</a><main id="main"></main>')
+        assert p.fragments == ['main'] and 'main' in p.ids
+
+    def test_bare_hash_and_other_pages_are_not_fragments(self):
+        assert check_build.Page('<a href="#">top</a><a href="/x/#y">x</a>').fragments == []
+
+
 # --- Page -----------------------------------------------------------------------------
 
 class TestPage:

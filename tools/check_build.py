@@ -26,6 +26,7 @@ class Page(HTMLParser):
         self.urls, self.imgs = [], []
         self.bare_imgs = []  # src of the <img>s in the text (.prose) without alt text
         self.links = []  # hrefs to follow, without the hreflang ones (switcher and alternates)
+        self.ids, self.fragments = set(), []  # id attributes; targets of the links within the page (href="#x")
         self.alternates, self.switcher = {}, None  # hreflang -> href of <link rel=alternate>; <a hreflang> href
         self.blocks, self.embeds, self.nested_embeds = [], [], 0  # classes of the open <div>s and <article>s, iframes per .embed
         self.feed(text)
@@ -49,6 +50,10 @@ class Page(HTMLParser):
             self.canonical = a.get('href')
         elif tag == 'meta' and a.get('name') == 'robots':
             self.robots = a.get('content')
+        if a.get('id'):
+            self.ids.add(a['id'])
+        if (a.get('href') or '').startswith('#') and len(a['href']) > 1:
+            self.fragments.append(a['href'][1:])
         if 'hreflang' in a:
             if tag == 'a':
                 self.switcher = a.get('href')
@@ -173,6 +178,7 @@ def check(dist: Path, content: Path, public: bool) -> list[str]:
             errors.append(f'{rel}: literal ![')
         errors += [f'{rel}: image not optimized: {src}' for src in page.imgs if not src.startswith('/_astro/')]
         errors += [f'{rel}: photo without alt text: {src}' for src in page.bare_imgs]
+        errors += [f'{rel}: link to missing #{x}' for x in page.fragments if x not in page.ids]
         for url in page.urls:
             path = internal(dist, url, f)
             if path and not target(dist, path):
