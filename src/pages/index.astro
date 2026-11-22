@@ -5,6 +5,7 @@ import TripTiles from '../components/TripTiles.astro';
 import { homePath } from '../lib/content';
 ---
 <Base dark alternate={homePath('en')}>
+  <link slot="head" rel="preconnect" href="https://tile.openstreetmap.org" />{/* map tiles, see Map.astro */}
   <Atlas />
   <TripTiles />
 </Base>
