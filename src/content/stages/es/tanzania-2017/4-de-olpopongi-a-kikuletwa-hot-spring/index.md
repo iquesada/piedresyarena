@@ -26,11 +26,11 @@ Y de repente, la sorpresa del día. Como ciclista, uno está acostumbrado a que 
 
 ![Una jirafa entre los arbustos junto a la pista](./giraffe_road.jpg "Una jirafa en nuestro camino")
 
-He de confesar que la imagen no representa para nada lo que sentimos. Esta fue la primera vez que vimos una jirafa en libertad, y nos pareció impresionante. Me temblaba el pulso y era incapaz de sacar mi cámara. No por miedo (aunque un poco de respeto sí que da, es muy grande...) sino por los nervios de ver a tan maravilloso animal, mirándonos fijamente, pensando tal vez que éramos una especie de marcianos, con nuestra piel blanca y nuestra ropa ajustada de colores chillones.
+He de confesar que la imagen no representa para nada lo que sentimos. Esta fue la primera vez que vimos una jirafa en libertad, y nos pareció impresionante. Me temblaba el pulso y era incapaz de sacar mi cámara. No por miedo (aunque un poco de respeto sí que da, es muy grande…) sino por los nervios de ver a tan maravilloso animal, mirándonos fijamente, pensando tal vez que éramos una especie de marcianos, con nuestra piel blanca y nuestra ropa ajustada de colores chillones.
 
 Miramos a nuestra izquierda y vemos un grupo de jirafas, mirándonos fijamente desde la altura. Parecían submarinistas, asomando de forma simpática su cabeza sobre el horizonte. Sus orejas y pequeños cuernos nos hacen sonreír. No sabemos cuántas hay, pero no menos de una treintena.
 
-![Grupo de jirafas en la sabana, mirando hacia la cámara](./giraffes.jpg "No nos quitan ojo...")
+![Grupo de jirafas en la sabana, mirando hacia la cámara](./giraffes.jpg "No nos quitan ojo…")
 
 Vemos también un grupo de cebras. Pero nuestra atención sigue con las jirafas. Nos acercamos poco a poco, y a esa misma velocidad se va alejando nuestra amiga. A lo lejos, unos niños la asustan y vemos cómo se aleja corriendo. Sus movimientos parecen ir a cámara lenta, pero desaparece de nuestra vista en muy poco tiempo.
 

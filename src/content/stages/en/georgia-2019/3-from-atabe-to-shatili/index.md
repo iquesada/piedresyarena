@@ -4,7 +4,7 @@ description: "Magic!"
 translationKey: "georgia-2019/3-de-atabe-a-shatili"
 ---
 
-How well you sleep when you’re tired! The night was cold, so I curled up and slept like I rarely do. I get up early to another hearty breakfast, made up of pretty much the same as the previous night’s dinner: homemade cheese, honey from their own bees, vegetables from their garden... but sadly, the only coffee drunk around here is instant. Oh well, I’m not going to complain about that... but I’d better have a tea.
+How well you sleep when you’re tired! The night was cold, so I curled up and slept like I rarely do. I get up early to another hearty breakfast, made up of pretty much the same as the previous night’s dinner: homemade cheese, honey from their own bees, vegetables from their garden… but sadly, the only coffee drunk around here is instant. Oh well, I’m not going to complain about that… but I’d better have a tea.
 
 The morning is cold, and the fog keeps the humidity quite high. On top of that, the first few kilometres are downhill, so today will be the first and only day I put on some warm clothes. I lose height quickly and gradually come out of the fog sitting on the mountaintops. The morning treats me to some wonderful views.
 
@@ -28,7 +28,7 @@ On the way up I come across several machines working at different points along t
 
 After a few hours I reach the top. Although I’m at almost 3,000 metres and can feel the difference in temperature, the breeze is so pleasant that I don’t even think about putting on warm clothes. Time to drop down into the valley for the last part of the route to Shatili.
 
-It looked like a breakneck descent to the valley was coming, but nothing could be further from the truth. There were roadworks everywhere: widening the road, lengthening the track to ease a gradient, clearing a landslide... but they weren’t roadworks like the ones we’re used to. Most of the time you’d find the machines blocking the road, and a line of vehicles and people waiting for them to finish what they were doing so the road could reopen. Although there was little traffic, you’d still find a good handful of cars waiting for 15 or 20 minutes. And nobody seemed to get impatient: it is what it is! So the <em>breakneck</em> descent turned into a short descent followed by a stop, again and again.
+It looked like a breakneck descent to the valley was coming, but nothing could be further from the truth. There were roadworks everywhere: widening the road, lengthening the track to ease a gradient, clearing a landslide… but they weren’t roadworks like the ones we’re used to. Most of the time you’d find the machines blocking the road, and a line of vehicles and people waiting for them to finish what they were doing so the road could reopen. Although there was little traffic, you’d still find a good handful of cars waiting for 15 or 20 minutes. And nobody seemed to get impatient: it is what it is! So the <em>breakneck</em> descent turned into a short descent followed by a stop, again and again.
 
 ![Pshav-Khevsureti downhill](./P1110475.jpg)
 

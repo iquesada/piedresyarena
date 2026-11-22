@@ -24,7 +24,7 @@ A few kilometres further on we entered a drier, more desert-like area. The veget
 
 We joined the road for a few kilometres and then turned back onto a track. Hard-packed dirt, climbing all the way, with lots of stones and the odd lorry. That’s because this track is the main road linking all those villages.
 
-We turned right off the track at a junction, heading for <a href="https://en.wikipedia.org/wiki/Lake_Chala">Lake Chala</a> down a very fast descent. On the one hand we’re happy, with gravity on our side. On the other... tomorrow we’ll have to climb back up here!
+We turned right off the track at a junction, heading for <a href="https://en.wikipedia.org/wiki/Lake_Chala">Lake Chala</a> down a very fast descent. On the one hand we’re happy, with gravity on our side. On the other… tomorrow we’ll have to climb back up here!
 
 Before reaching Lake Chala, there’s the entrance gate to get through. The area around the lake, a volcanic crater on the border between Tanzania and Kenya, is a nature reserve with restricted entry and a fee that only tourists can afford. Spending the night by the lake isn’t cheap for us, so I imagine it’s out of the question for the locals. We also found out that not many tourists must turn up at the lake without a guide, because the man in charge of collecting the entrance fee barely spoke English. After a while we managed to get in and reach the lake. An 80-kilometre stage: we’ve earned it.
 

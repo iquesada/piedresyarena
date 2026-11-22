@@ -16,7 +16,7 @@ The track gets more and more broken, and the gradient keeps increasing. The kilo
 
 ![Wooden cabin with a pitched roof and a log fence, in a forest clearing](./house.jpg)
 
-Now the track becomes impossible: with all the rocks and the weight of the panniers, there’s no way I can ride up. I stop for a bite to eat and carry on pushing. Exactly what I didn’t want to do: push. But there can’t be much left; this has to end soon...
+Now the track becomes impossible: with all the rocks and the weight of the panniers, there’s no way I can ride up. I stop for a bite to eat and carry on pushing. Exactly what I didn’t want to do: push. But there can’t be much left; this has to end soon…
 
 But it doesn’t. The track runs out and I start going cross-country. I keep pushing the bike and it feels like it will never end. After two hours and a thousand metres of climbing, I give up. This section can be avoided, and a short detour by road will get me to my destination. It hurts to give up, but this is pointless. The way the luggage sits makes the bike awkward to push, and it’s far too heavy to do it for hours. Everything hurts, so I turn back.
 

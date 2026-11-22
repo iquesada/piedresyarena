@@ -11,7 +11,7 @@ Today will be our first stage off the tarmac, with almost 100 kilometres of grav
 
 ![Track linking Khorixas and Uis](./P1060861.jpg "Track linking Khorixas and Uis")
 
-The landscape grows more and more arid, the sand swallows the vegetation, and at every bend we think we see an animal... but no, there’s no sign of life. Solitude keeps us company along this track where, every now and then, a car breaks the soft sound of our tyres on the ground, reminding us that we’re not alone in this country.
+The landscape grows more and more arid, the sand swallows the vegetation, and at every bend we think we see an animal… but no, there’s no sign of life. Solitude keeps us company along this track where, every now and then, a car breaks the soft sound of our tyres on the ground, reminding us that we’re not alone in this country.
 
 ![Solitude on the road](./P1060867.jpg "Solitude on the road")
 
@@ -29,7 +29,7 @@ We ride on happily until kilometre 60, 40 from the end. There we leave the main 
 
 We ride alone, completely alone, for hours. That solitude wears down and softens the track (and our spirits), turning it alternately into corrugations or a beach. Corrugations, or tôle ondulée as the French call them, are the worst. It feels (I imagine) like riding over a corrugated roof. Sometimes the ridges are closer together, sometimes further apart, but they always have the same effect: constant bouncing. And yes, with panniers it’s much worse.
 
-Luckily gravity is on our side: the track runs gently downhill and we can keep going. Even so, everything gets heavier and heavier and we get more and more tired... and the worst is yet to come. 20 kilometres from our destination we take the turn-off that should lead us straight to the lodge, but it turns out to be a sandy track that gradually gets softer until it forces us off the bikes.
+Luckily gravity is on our side: the track runs gently downhill and we can keep going. Even so, everything gets heavier and heavier and we get more and more tired… and the worst is yet to come. 20 kilometres from our destination we take the turn-off that should lead us straight to the lodge, but it turns out to be a sandy track that gradually gets softer until it forces us off the bikes.
 
 ![Sand and more sand](./frm.jpg "Sand and more sand")
 
@@ -37,11 +37,11 @@ With the panniers loaded, all we can do is push the bikes while the track, far f
 
 <div class="embed"><iframe src="https://www.youtube.com/embed/Ju_qE8b3mJ0" title="Video: Namibia, corrugated tracks and sand" loading="lazy" allowfullscreen></iframe></div>
 
-Little by little we press on. Sand, corrugations, more sand... and what’s that smell? 5 kilometres from our destination we cross the bed of the Ugab River, completely and utterly dry. And there’s that smell again...
+Little by little we press on. Sand, corrugations, more sand… and what’s that smell? 5 kilometres from our destination we cross the bed of the Ugab River, completely and utterly dry. And there’s that smell again…
 
 ![Trail towards Mount Brandberg](./P1060900.jpg "Trail towards Mount Brandberg")
 
-Tired, absolutely shattered, we reach the lodge. We check in, have a drink and go to pitch the tent as soon as possible so we can rest. The moment we step out of reception we come face to face with a big elephant. Maybe it wasn’t that big, I don’t know, but it certainly looked huge to us. And there’s only one thing better than seeing an animal like this, and that’s seeing it in the wild. Big, huge, unflappable. Majestic. Right in front of us, eating the plants that welcome visitors to the lodge as if they were its own. Although, come to think of it, they are. We’re the visitors, the foreigners who’ve come to bother them. We’ll try to bother them as little as possible, in case they get cross... Well, now we know what that smell was. And I’m sorry, but the elephant didn’t like us and we left without taking any photos.
+Tired, absolutely shattered, we reach the lodge. We check in, have a drink and go to pitch the tent as soon as possible so we can rest. The moment we step out of reception we come face to face with a big elephant. Maybe it wasn’t that big, I don’t know, but it certainly looked huge to us. And there’s only one thing better than seeing an animal like this, and that’s seeing it in the wild. Big, huge, unflappable. Majestic. Right in front of us, eating the plants that welcome visitors to the lodge as if they were its own. Although, come to think of it, they are. We’re the visitors, the foreigners who’ve come to bother them. We’ll try to bother them as little as possible, in case they get cross… Well, now we know what that smell was. And I’m sorry, but the elephant didn’t like us and we left without taking any photos.
 
 Honestly, it’s one of those things that make a trip worthwhile. The campsite is beautiful, perhaps the best place I’ve ever reached by bike in my whole life. Once again, luxury in the middle of nowhere. Who’d have thought we’d be camping in elephant country?
 
@@ -57,7 +57,7 @@ By the way, the bathrooms had no roof. One more exotic touch for such a magnific
 
 ![Nightfall in the Namibian desert](./P1060905.jpg "Nightfall in the Namibian desert")
 
-I want one of these...
+I want one of these…
 
 ![Another way to camp](./P1060917.jpg "Another way to camp")
 

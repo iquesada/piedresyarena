@@ -15,7 +15,7 @@ elevation: 771
 
 Después del día de descanso (por llamarlo de alguna manera, ya que la visita a Petra no fue lo que se dice un descanso) nos tocaba la etapa reina. 92 kilómetros nos separaban de nuestro destino en el Wadi Rum, un precioso desierto que ha salido en multitud de películas y que íbamos a tener el lujo de disfrutar, incluso íbamos a dormir en sus arenas dentro de unas confortables jaimas.
 
-Por fin íbamos a tener una etapa completa sin asfalto, todo iban a ser piedres y arena. No hay que decir que yo estaba encantado... Salimos por una pista ancha, con mucha piedra, a más de 1.600 metros de altura. Rápidamente entraríamos en el desierto. Largas pistas, cielo azul y, a lo lejos, la arena. Estaba entusiasmado.
+Por fin íbamos a tener una etapa completa sin asfalto, todo iban a ser piedres y arena. No hay que decir que yo estaba encantado… Salimos por una pista ancha, con mucha piedra, a más de 1.600 metros de altura. Rápidamente entraríamos en el desierto. Largas pistas, cielo azul y, a lo lejos, la arena. Estaba entusiasmado.
 
 ![Jordania caminos](./DSCN2343.jpg)
 

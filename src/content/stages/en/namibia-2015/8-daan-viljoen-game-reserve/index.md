@@ -27,10 +27,10 @@ The heat, far too much of it, drives the animals to the coolest areas, which are
 
 ![The only giraffe of the trip](./P1070093.jpg "The only giraffe of the trip")
 
-The ground is very abrasive and full of little thorns, which makes us extra careful. The rock grips better than tarmac, so we can ride up almost any slope. Only our legs (or lack of strength in them) force us off the bike. And the punctures... we dodge them by the skin of our teeth.
+The ground is very abrasive and full of little thorns, which makes us extra careful. The rock grips better than tarmac, so we can ride up almost any slope. Only our legs (or lack of strength in them) force us off the bike. And the punctures… we dodge them by the skin of our teeth.
 
 ![Thorns in Namibia](./P1070076.jpg "Thorns in Namibia")
 
-With the trail done, we go back to the restaurant where we started to relax a little before returning to Windhoek. All that’s left is to pack the bikes, put them on the plane and go home. The worst part of the trip, no doubt about it. Going back is hard: it’s been many days of adventure, uncertainty, sleeping in a tent, companionship and supporting each other when things went wrong. Now it’s back to reality. Time to go our separate ways, although lots of people who love us are waiting for us and we can’t wait to see them. There’s the story to write and more dreaming to do. The future will be tough, but who knows whether we’ll live a similar adventure again... or a better one? What’s clear is that I’ve had the best of company, without which none of this would have been possible. Thank you, Nines!!
+With the trail done, we go back to the restaurant where we started to relax a little before returning to Windhoek. All that’s left is to pack the bikes, put them on the plane and go home. The worst part of the trip, no doubt about it. Going back is hard: it’s been many days of adventure, uncertainty, sleeping in a tent, companionship and supporting each other when things went wrong. Now it’s back to reality. Time to go our separate ways, although lots of people who love us are waiting for us and we can’t wait to see them. There’s the story to write and more dreaming to do. The future will be tough, but who knows whether we’ll live a similar adventure again… or a better one? What’s clear is that I’ve had the best of company, without which none of this would have been possible. Thank you, Nines!!
 
 ![End of the adventure](./namibia.jpg "End of the adventure")

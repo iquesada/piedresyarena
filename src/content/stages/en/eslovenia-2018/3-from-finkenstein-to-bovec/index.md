@@ -22,7 +22,7 @@ Today I’ve ridden just over 55 kilometres with a thousand metres of climbing, 
 
 Bovec is the area’s hub for outdoor sports. I reckon you could spend a whole week here, doing something every day, without repeating a sport. I’ve arrived quite early, so I have time to explore the village and do a bit of sightseeing.
 
-The evening is very lively and I stay a while to watch the band. They seem to be well known in Slovenia...
+The evening is very lively and I stay a while to watch the band. They seem to be well known in Slovenia…
 
 ![Band playing on a blue-lit stage, with the crowd in silhouette](./bovec_party.jpg)
 

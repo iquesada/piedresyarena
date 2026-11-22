@@ -19,7 +19,7 @@ Tras las altas temperaturas de días atrás, de hasta 50º, resulta que hoy no h
 
 ![Jordania castillo Shobak](./DSCN2223.jpg)
 
-Este castillo se encuentra en lo alto de una montaña que en esta ocasión no íbamos a escalar en bicicleta, sino que íbamos a encontrar una forma más original. Algo nos imaginábamos cuando nos habían pedido llevar con nosotros calzado cómodo y un frontal, y es que existe un camino por dentro de la montaña que nos lleva desde la base hasta lo alto del castillo. En apenas media hora alcanzamos nuestro destino de una forma muy divertida. Estoy seguro de que si hubiese algo similar en Europa (que lo habrá) habría que poner casco, cuerdas, botas de seguridad... pero en Jordania no hay problema, cada uno es libre y dueño de sus actos.
+Este castillo se encuentra en lo alto de una montaña que en esta ocasión no íbamos a escalar en bicicleta, sino que íbamos a encontrar una forma más original. Algo nos imaginábamos cuando nos habían pedido llevar con nosotros calzado cómodo y un frontal, y es que existe un camino por dentro de la montaña que nos lleva desde la base hasta lo alto del castillo. En apenas media hora alcanzamos nuestro destino de una forma muy divertida. Estoy seguro de que si hubiese algo similar en Europa (que lo habrá) habría que poner casco, cuerdas, botas de seguridad… pero en Jordania no hay problema, cada uno es libre y dueño de sus actos.
 
 ![Jordania ruta al castillo Shobak](./DSCN2228.jpg)
 

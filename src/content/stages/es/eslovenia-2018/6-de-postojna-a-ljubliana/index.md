@@ -26,7 +26,7 @@ Llega la zona de pistas. Al poco de entrar me encuentro con este cartel. No habl
 
 ![Cartel amarillo en un árbol con un oso: «Pozor! Področje medveda»](./osos.jpg)
 
-No podía haber día sin emboscada. Espero no tener que escapar de un oso. Y yo que me quejaba de las abejas...
+No podía haber día sin emboscada. Espero no tener que escapar de un oso. Y yo que me quejaba de las abejas…
 
 Poco más adelante me encuentro nuevamente con estos ¿panales de trashumancia? Están al lado de los caminos y esta vez no consigo evitarlas, una se me cuela en el casco y me vuelven a picar. Tengo suerte que no soy alérgico ni me afectan demasiado, así que la molestia es breve, ¡aunque intensa!
 

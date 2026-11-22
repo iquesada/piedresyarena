@@ -19,7 +19,7 @@ La pendiente no es demasiado pronunciada y, prácticamente, toda la subida la ha
 
 ![Cordillera de cumbres rocosas con restos de nieve, vista desde un prado de altura](./stol_cima.jpg)
 
-Me siento durante un rato a comer algo y me preparo para la bajada. He leído que la bajada del Stol es la mejor bajada de Europa. Bueno, no creo que sea para tanto... aunque sin duda, va a ser divertida. Las alforjas no me van a permitir bajar todo lo rápido que me gustaría, pero vaya, ¡no tendría mucho sentido perder mi equipaje en la bajada!
+Me siento durante un rato a comer algo y me preparo para la bajada. He leído que la bajada del Stol es la mejor bajada de Europa. Bueno, no creo que sea para tanto… aunque sin duda, va a ser divertida. Las alforjas no me van a permitir bajar todo lo rápido que me gustaría, pero vaya, ¡no tendría mucho sentido perder mi equipaje en la bajada!
 
 Una sucesión de <em>zetas</em> me esperan, para perder en poco tiempo los metros que tanto me ha costado ganar.
 

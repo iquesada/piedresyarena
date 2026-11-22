@@ -22,4 +22,4 @@ No había narices a bajar en el todo terreno, jeje. Bueno, no se puede negar que
 
 ![Carlos Abellán y yo en la nieve, con una manada de yaks detrás](./mbc8_3.jpg)
 
-Por fin llegamos al campamento. Una buena noticia nos espera... ¡hoy es la última noche en tienda de campaña! Y mañana, novena etapa, la más larga de todas con 144km. ¡A por ella!
+Por fin llegamos al campamento. Una buena noticia nos espera… ¡hoy es la última noche en tienda de campaña! Y mañana, novena etapa, la más larga de todas con 144km. ¡A por ella!

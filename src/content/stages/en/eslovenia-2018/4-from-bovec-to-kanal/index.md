@@ -12,7 +12,7 @@ The gradient isn’t too steep and I do almost the whole climb in the shade. As 
 
 ![Range of rocky peaks with patches of snow, seen from a high meadow](./stol_cima.jpg)
 
-I sit down for a while to eat something and get ready for the descent. I’ve read that the Stol descent is the best in Europe. Well, I don’t think it’s quite that good... but it’s definitely going to be fun. The panniers won’t let me go down as fast as I’d like, but hey, there wouldn’t be much point in losing my luggage on the way down!
+I sit down for a while to eat something and get ready for the descent. I’ve read that the Stol descent is the best in Europe. Well, I don’t think it’s quite that good… but it’s definitely going to be fun. The panniers won’t let me go down as fast as I’d like, but hey, there wouldn’t be much point in losing my luggage on the way down!
 
 A string of <em>hairpins</em> awaits, to lose in no time the metres I worked so hard to gain.
 

@@ -22,7 +22,7 @@ Estos caminos me acercan a Lugo, una ciudad que me gusta mucho y tengo ganas de
 
 El día es frío y la parada me afecta, se me mete el frío en el cuerpo y, unido a la paliza, me deja un poco tocado. Creo que se me nota en la cara porque allí donde paro a comer un pincho me ceban literalmente, dándome varios pinchos de esos que vienen gratis con la consumición. Se lo agradezco un montón de veces y arranco rápidamente dirección Melide, quedan muchos kilómetros y pocas horas de luz, no puedo pararme demasiado. Pero ya sabemos que las prisas no son buenas consejeras.
 
-Para quien no conozca Lugo le diré que está en lo alto de una colina. Con las prisas, bajo la colina... por donde no es, dirección a Fonsagrada. Con el cabreo en el cuerpo vuelvo a subir la colina para tomar la dirección correcta, y aprieto bien para tratar de entrar en calor.
+Para quien no conozca Lugo le diré que está en lo alto de una colina. Con las prisas, bajo la colina… por donde no es, dirección a Fonsagrada. Con el cabreo en el cuerpo vuelvo a subir la colina para tomar la dirección correcta, y aprieto bien para tratar de entrar en calor.
 
 Y voy entrando en calor, al menos todo lo que me deja la intensa humedad de este día. Me centro en pedalear, si quiero llegar de día no me puedo despistar, así que no paro a sacar fotos y voy comiendo sobre la marcha. Lo que sobre el mapa parecía una ruta fácil se convierte en un sube-baja bastante tortuoso, aunque bonito, con una subida casi al final a una zona de molinos de central eólica. Desde aquí diviso Melide a lo lejos, así que sólo queda bajar por una bonita pista. A las 6 de la tarde llego a un confortable albergue donde por fin puedo quitarme la ropa húmeda y darme una ducha.
 

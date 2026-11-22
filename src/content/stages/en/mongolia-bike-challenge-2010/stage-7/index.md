@@ -8,7 +8,7 @@ translationKey: "mongolia-bike-challenge-2010/etapa-7"
 
 Today we’re up earlier than usual and the start is brought forward to 7 in the morning to take on the queen stage. The occasion deserves it. 132km with 2620m of total climbing and 3 KOM climbs, after the beating of the day before, can wreak havoc. And tomorrow another long day… well, let’s not think about it.
 
-The day dawns cold, very cold. We have breakfast at 5 in the morning, put on our winter kit and stay inside the marquee until the last moment: it’s too cold to be out in the open. <strong>One minute to the start!</strong> We leave the marquee and line up under the start arch at the very last moment, blimey it’s cold...
+The day dawns cold, very cold. We have breakfast at 5 in the morning, put on our winter kit and stay inside the marquee until the last moment: it’s too cold to be out in the open. <strong>One minute to the start!</strong> We leave the marquee and line up under the start arch at the very last moment, blimey it’s cold…
 
 7 in the morning, the show begins. After a short climb we hurl ourselves down a wide, steep track. The first part looks fast, good.
 

@@ -11,7 +11,7 @@ After the high temperatures of the previous days, up to 50 degrees, it turned ou
 
 ![Jordan, Shobak castle](./DSCN2223.jpg)
 
-This castle stands on top of a mountain that, this time, we weren’t going to climb by bike: we were going to find a more original way. We had an inkling of something when they asked us to bring comfortable shoes and a head torch, and sure enough there’s a passage inside the mountain that takes you from the bottom right up to the castle. In barely half an hour we reached our goal in a very entertaining way. I’m sure that if there were something similar in Europe (and there must be) you’d have to wear a helmet, ropes, safety boots... but in Jordan it’s no problem: everyone is free and responsible for their own actions.
+This castle stands on top of a mountain that, this time, we weren’t going to climb by bike: we were going to find a more original way. We had an inkling of something when they asked us to bring comfortable shoes and a head torch, and sure enough there’s a passage inside the mountain that takes you from the bottom right up to the castle. In barely half an hour we reached our goal in a very entertaining way. I’m sure that if there were something similar in Europe (and there must be) you’d have to wear a helmet, ropes, safety boots… but in Jordan it’s no problem: everyone is free and responsible for their own actions.
 
 ![Jordan, the route up to Shobak castle](./DSCN2228.jpg)
 

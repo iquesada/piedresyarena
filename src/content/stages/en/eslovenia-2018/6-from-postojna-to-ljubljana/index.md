@@ -20,7 +20,7 @@ Now come the tracks. Shortly after starting on them I come across this sign. I d
 
 ![Yellow sign on a tree with a bear: “Pozor! Področje medveda”](./osos.jpg)
 
-There couldn’t be a day without an ambush. I hope I won’t have to run away from a bear. And there I was complaining about the bees...
+There couldn’t be a day without an ambush. I hope I won’t have to run away from a bear. And there I was complaining about the bees…
 
 A little further on I come across these, er, transhumant beehives? They’re right beside the paths and this time I can’t avoid them: one gets into my helmet and I get stung again. Luckily I’m not allergic and they don’t affect me much, so the pain is brief, but intense!
 

@@ -24,7 +24,7 @@ La pista está cada vez más rota, y la pendiente sigue en aumento. Los kilómet
 
 ![Cabaña de madera con tejado a dos aguas y cerca de troncos, en un claro del bosque](./house.jpg)
 
-La pista ya se pone imposible, entre la cantidad de piedra y el peso de las alforjas, es imposible subir montado. Paro a comer algo y sigo empujando. Justo lo que no quería hacer, empujar. Pero ya queda poco, esto se tiene que acabar en breves...
+La pista ya se pone imposible, entre la cantidad de piedra y el peso de las alforjas, es imposible subir montado. Paro a comer algo y sigo empujando. Justo lo que no quería hacer, empujar. Pero ya queda poco, esto se tiene que acabar en breves…
 
 Pero no es así. La pista se acaba y empiezo el monte a través. Sigo empujando la bici y esto parece que no termina nunca. Tras dos horas y mil metros de desnivel, me rindo. Este paso es evitable, y una ligera vuelta por la carretera me llevará a destino. Me duele rendirme, pero esto es un sinsentido. La posición del equipaje hace complicado empujar la bicicleta, y pesa demasiado como para hacerlo durante horas. Me duele todo, así que doy la vuelta.
 

@@ -25,11 +25,11 @@ No tardamos mucho en llegar al punto de partida del trekking que nos va a llevar
 
 ![Cauce del río hacia la White Lady](./P1060965.jpg "Cauce del río hacia la White Lady")
 
-Mientras  avanzamos, nuestro guía nos va mostrando los árboles y plantas más habituales de la zona. Las acacias, muy preciadas por los elefantes, el tamarix, un árbol casi mágico del que se obtiene prácticamente de todo, como por ejemplo una bebida parecida al café, zumos... vamos, casi cualquier cosa.
+Mientras  avanzamos, nuestro guía nos va mostrando los árboles y plantas más habituales de la zona. Las acacias, muy preciadas por los elefantes, el tamarix, un árbol casi mágico del que se obtiene prácticamente de todo, como por ejemplo una bebida parecida al café, zumos… vamos, casi cualquier cosa.
 
 ![Trekking hacia la White Lady](./P1060947.jpg "Trekking hacia la White Lady")
 
-Finalmente llegamos al punto en cuestión. Nos explica cómo un aventurero alemán las localizó, estas y otras pinturas sobre la roca, en las inmediaciones del monte Brandberg. Unas 600 pinturas rupestres han sido descubiertas en la zona, lo cual es sorprendente no tanto por su cantidad sino por el hecho de que se conserven en buen estado. La más importante de todas es la White Lady,  con 2.000 años de antigüedad. Descubierta por el explorador y topógrafo alemán Reinhard Maack, representa a una mujer con las piernas y brazos de color blanco en una escena de caza. Yo no tengo tan claro que sea una mujer o un hombre... juzgad vosotros.
+Finalmente llegamos al punto en cuestión. Nos explica cómo un aventurero alemán las localizó, estas y otras pinturas sobre la roca, en las inmediaciones del monte Brandberg. Unas 600 pinturas rupestres han sido descubiertas en la zona, lo cual es sorprendente no tanto por su cantidad sino por el hecho de que se conserven en buen estado. La más importante de todas es la White Lady,  con 2.000 años de antigüedad. Descubierta por el explorador y topógrafo alemán Reinhard Maack, representa a una mujer con las piernas y brazos de color blanco en una escena de caza. Yo no tengo tan claro que sea una mujer o un hombre… juzgad vosotros.
 
 ![Escena de caza de la White Lady](./P1060957.jpg "Escena de caza de la White Lady")
 

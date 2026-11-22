@@ -16,7 +16,7 @@ Día 17 de agosto, etapa 7. La etapa reina de la carrera.
 
 Hoy amanecemos antes de lo normal y adelantamos la salida a las 7 de la mañana para afrontar la etapa reina. La ocasión lo merece. Los 132km con 2620m de desnivel acumulado y 3 premios de montaña, después de la paliza del día anterior, pueden hacer estragos. Y mañana otro día largo… bueno, no pensemos en ello.
 
-El día amanece frío, muy frío. Desayunamos a las 5 de la mañana, nos vestimos de largo y nos metemos en la carpa hasta el último momento, hace demasiado frío para estar a la intemperie. <strong>¡Un minuto para la salida!</strong> Salimos de la carpa y nos ponemos bajo el arco de salida en el último momento, caray qué frío...
+El día amanece frío, muy frío. Desayunamos a las 5 de la mañana, nos vestimos de largo y nos metemos en la carpa hasta el último momento, hace demasiado frío para estar a la intemperie. <strong>¡Un minuto para la salida!</strong> Salimos de la carpa y nos ponemos bajo el arco de salida en el último momento, caray qué frío…
 
 7 de la mañana, empieza el espectáculo. Tras una pequeña subida nos tiramos hacia abajo por una pista ancha y empinada. La primera parte parece rápida, bien.
 

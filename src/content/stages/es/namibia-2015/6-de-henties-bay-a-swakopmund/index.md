@@ -33,11 +33,11 @@ Tras un paseo por la costa entramos en el centro de la ciudad y encontramos un l
 
 Nada más entrar en la ciudad nos damos cuenta de que realmente es una ciudad alemana en la costa africana. Con sus 35.000 habitantes, esta pequeña ciudad es un pedazo de Alemania en el desierto. Ni sus establecimientos ni sus habitantes nos recuerdan que estemos en África. Vamos, no creo que tengamos problemas si nos apetece cenar chucrut.
 
-Como hemos llegado temprano, montamos la tienda en el que debe ser el camping más cómodo de todo el planeta y nos damos una vuelta por la ciudad. Esa puerta que veis frente a nuestra tienda es nuestro baño privado, al lado de nuestro tendal privado, fregadero, barbacoa... No sabíamos que existiesen sitios así, ¡y nos encantan!
+Como hemos llegado temprano, montamos la tienda en el que debe ser el camping más cómodo de todo el planeta y nos damos una vuelta por la ciudad. Esa puerta que veis frente a nuestra tienda es nuestro baño privado, al lado de nuestro tendal privado, fregadero, barbacoa… No sabíamos que existiesen sitios así, ¡y nos encantan!
 
 ![Camping en Swakopmund](./P1060988.jpg "Camping en Swakopmund")
 
-Nada más salir del camping nos encontramos con el pequeño acuario de Swakopmund que bien merece una visita. Y sí, Swakopmund es bonito, pero... no es esto lo que buscamos en África. Aunque no se pueda negar que sea toda una curiosidad.
+Nada más salir del camping nos encontramos con el pequeño acuario de Swakopmund que bien merece una visita. Y sí, Swakopmund es bonito, pero… no es esto lo que buscamos en África. Aunque no se pueda negar que sea toda una curiosidad.
 
 ![Casa Hohenzollernhaus](./P1060997.jpg "Casa Hohenzollernhaus")
 

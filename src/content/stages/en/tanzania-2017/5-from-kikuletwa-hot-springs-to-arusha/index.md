@@ -1,6 +1,6 @@
 ---
 title: "Tanzania 5, from Kikuletwa Hot Springs to Arusha"
-description: "Lots of tarmac... at last!"
+description: "Lots of tarmac… at last!"
 translationKey: "tanzania-2017/5-de-kikuletwa-hot-spring-a-arusha"
 ---
 

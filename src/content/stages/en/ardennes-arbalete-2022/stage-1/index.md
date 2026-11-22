@@ -26,7 +26,7 @@ Luckily it hardly rained on me and, although the weather was far from good, I ne
 
 ![My hand holding a half-eaten burrito, with the bike lying in the grass](./IMG_20220707_141330.jpg)
 
-And so, little by little, I made my way while the sky grew darker and the clouds closed in. The temperature began to drop, not dramatically, but enough to make me wonder... why on earth do I have to be wrapped up like this in the middle of July! Oh, summer holidays, where are you?
+And so, little by little, I made my way while the sky grew darker and the clouds closed in. The temperature began to drop, not dramatically, but enough to make me wonder… why on earth do I have to be wrapped up like this in the middle of July! Oh, summer holidays, where are you?
 
 ![Me, in a yellow rain jacket and helmet, on a wide empty road under a grey sky](./IMG_20220707_160229.jpg)
 

@@ -14,7 +14,7 @@ elevation: 1535
 
 Hemos pasado una noche magnífica en el lago Chala. Nuestra primera noche de camping sin mosquitos, eso es una buena noticia. Aunque nuestro organismo va cargado de Malarone, no tenemos ningún interés en probar su eficacia.
 
-Ha sido una noche maravillosa, el lugar no puede ser más tranquilo y el único sonido que hemos oído ha sido el de algún ave nocturna. Tras desmontar la tienda, nos vamos a por el desayuno. Una tortilla de vegetales nos estaba esperando, frente a las preciosas vistas del lago Chala. Vamos a echar de menos este sitio...
+Ha sido una noche maravillosa, el lugar no puede ser más tranquilo y el único sonido que hemos oído ha sido el de algún ave nocturna. Tras desmontar la tienda, nos vamos a por el desayuno. Una tortilla de vegetales nos estaba esperando, frente a las preciosas vistas del lago Chala. Vamos a echar de menos este sitio…
 
 Pero no hemos venido aquí a descansar, sino a montar en bicicleta. Así que cargamos las alforjas y nos lanzamos, camino arriba, hacia la pista que nos llevará a la parte norte del Kilimanjaro, la llamada <em>lower road.</em>
 
@@ -22,7 +22,7 @@ Pero no hemos venido aquí a descansar, sino a montar en bicicleta. Así que car
 
 ![Yo, con alforjas verdes, pedaleo junto a unas casas de adobe](./inaki-lower-road.jpg "Iñaki, lower road")
 
-La pista va ganando altura poco a poco, nuestro destino de hoy está bastante alto. El terreno no está muy roto, pero ni de lejos representa el lujo del día anterior. Las rocas asoman entre la tierra y hacen que la marcha sea, por momentos, más incómoda de lo deseado. No nos cruzamos con ningún coche, tan solo motos. Muchas motos. Los famosos <a href="https://en.wikipedia.org/wiki/Boda_boda">boda boda</a>, los taxis más baratos (y más peligrosos) de África. Muchos nos adelantaron a gran velocidad, con sus viejas motos y ruedas lisas... no parecen muy seguros, y todos nos informaron de la cantidad de accidentes que provocaban.
+La pista va ganando altura poco a poco, nuestro destino de hoy está bastante alto. El terreno no está muy roto, pero ni de lejos representa el lujo del día anterior. Las rocas asoman entre la tierra y hacen que la marcha sea, por momentos, más incómoda de lo deseado. No nos cruzamos con ningún coche, tan solo motos. Muchas motos. Los famosos <a href="https://en.wikipedia.org/wiki/Boda_boda">boda boda</a>, los taxis más baratos (y más peligrosos) de África. Muchos nos adelantaron a gran velocidad, con sus viejas motos y ruedas lisas… no parecen muy seguros, y todos nos informaron de la cantidad de accidentes que provocaban.
 
 ![Pista de tierra roja y recta, con una mujer caminando por el borde](./lower-road.jpg "Lower Road")
 
@@ -40,6 +40,6 @@ Nos alojamos en un modesto guest house. Tras una ducha, dejamos nuestros trastos
 
 El profesor nos llevó por todo el pueblo, presentándonos a la gente y contándonos cómo, y de qué, se vive en estas zonas. Evidentemente, la agricultura domina la economía de estos pueblos, sobre todo los plátanos. Por otro lado, nos sorprendió ver, en un pueblo tan pequeño, una mezquita, una iglesia católica y una iglesia protestante. Todos juntos, en un pequeño espacio, y en paz.
 
-Tras la visita por el pueblo estamos hambrientos. Invitamos al profesor a cenar con nosotros y nos damos un pequeño festín de comida local, muy muy buena. Y de aquí nos vamos para la cama, el día ha sido largo y necesitamos descansar. Lo que no sabíamos es que la noche iba a ser larga también... pero eso lo contaré en la próxima entrada.
+Tras la visita por el pueblo estamos hambrientos. Invitamos al profesor a cenar con nosotros y nos damos un pequeño festín de comida local, muy muy buena. Y de aquí nos vamos para la cama, el día ha sido largo y necesitamos descansar. Lo que no sabíamos es que la noche iba a ser larga también… pero eso lo contaré en la próxima entrada.
 
 ![Mesa con platos de arroz, alubias guisadas y verdura](./kamwanga-cena.jpg "Cena en Kamwanga")

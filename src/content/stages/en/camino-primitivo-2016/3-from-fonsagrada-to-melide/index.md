@@ -16,7 +16,7 @@ These paths bring me to Lugo, a city I really like and have been wanting to visi
 
 It’s a cold day and the stop gets to me: the cold gets into my bones and, on top of the hard slog, it leaves me a bit worse for wear. It must show on my face, because at the place where I stop for a pincho they literally stuff me, giving me several of those pinchos that come free with your drink. I thank them over and over and quickly set off towards Melide: there are a lot of kilometres left and few hours of daylight, so I can’t stop for long. But we all know that haste makes waste.
 
-For anyone who doesn’t know Lugo, I’ll tell you it sits on top of a hill. In my rush, I go down the hill... the wrong way, towards Fonsagrada. Fuming, I climb back up the hill to take the right direction, and push hard to try to warm up.
+For anyone who doesn’t know Lugo, I’ll tell you it sits on top of a hill. In my rush, I go down the hill… the wrong way, towards Fonsagrada. Fuming, I climb back up the hill to take the right direction, and push hard to try to warm up.
 
 And I do warm up, at least as much as the heavy damp of the day allows. I focus on pedalling: if I want to arrive in daylight I can’t get distracted, so I don’t stop to take photos and I eat on the go. What looked like an easy route on the map turns into a rather tortuous up and down, though a pretty one, with a climb near the end to a wind farm. From there I can make out Melide in the distance, so all that’s left is to ride down a lovely track. At 6 in the evening I reach a comfortable hostel where I can finally take off my damp clothes and have a shower.
 

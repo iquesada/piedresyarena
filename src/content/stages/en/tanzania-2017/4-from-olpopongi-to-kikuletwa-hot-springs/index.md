@@ -18,11 +18,11 @@ And suddenly, the surprise of the day. As a cyclist, you get used to animals cro
 
 ![A giraffe among the bushes beside the track](./giraffe_road.jpg "A giraffe in our path")
 
-I have to confess the photo doesn’t do justice to what we felt. It was the first time we’d seen a giraffe in the wild, and we were amazed. My hands were shaking and I couldn’t get my camera out. Not out of fear (though it does command a bit of respect, it’s very big...) but from the excitement of seeing such a wonderful animal staring straight at us, perhaps thinking we were some kind of Martians, with our white skin and our tight, garishly coloured clothes.
+I have to confess the photo doesn’t do justice to what we felt. It was the first time we’d seen a giraffe in the wild, and we were amazed. My hands were shaking and I couldn’t get my camera out. Not out of fear (though it does command a bit of respect, it’s very big…) but from the excitement of seeing such a wonderful animal staring straight at us, perhaps thinking we were some kind of Martians, with our white skin and our tight, garishly coloured clothes.
 
 We look to our left and see a group of giraffes, staring down at us from on high. They looked like divers, their heads bobbing comically above the horizon. Their ears and little horns make us smile. We don’t know how many there are, but no fewer than thirty.
 
-![A group of giraffes on the savannah, looking towards the camera](./giraffes.jpg "They don’t take their eyes off us...")
+![A group of giraffes on the savannah, looking towards the camera](./giraffes.jpg "They don’t take their eyes off us…")
 
 We also see a group of zebras. But our attention stays on the giraffes. We edge closer, and at the same pace our friend moves away. In the distance some children startle it, and we watch it run off. Its movements seem to be in slow motion, but it disappears from view in no time.
 

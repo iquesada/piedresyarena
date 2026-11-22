@@ -6,7 +6,7 @@ seoDescription: "Fifth stage of the Ethiopia Wild Bike. A cycle travel blog."
 translationKey: "etiopia-wild-bike-2012/etapa-5"
 ---
 
-It was a comfortable night... until 5 in the morning, when the village imam decided we’d slept enough and started to pray. Honestly, it sounded as if he were praying in our room. I suppose you get used to it in time...
+It was a comfortable night… until 5 in the morning, when the village imam decided we’d slept enough and started to pray. Honestly, it sounded as if he were praying in our room. I suppose you get used to it in time…
 
 We’re sorry to leave this lovely village, but we’re eager to see today’s route. 77 kilometres of (almost) non-stop climbing, topping out at 3,700 metres, over a majestic high plateau at 3,500 metres. Today we really do feel the altitude, but the scenery gives us wings and we want to reach the top. Slowly we climb through Ethiopia’s beautiful landscapes.
 

@@ -4,7 +4,7 @@ description: "My first Camino begins!"
 translationKey: "camino-primitivo-2016/1-de-oviedo-a-campiello"
 ---
 
-It seems strange that, living in a city on the Camino de Santiago, the Way of St James, I’d never got round to doing it... but there you go. Taking advantage of the very mild winter we’re having, I picked a few days at the beginning of February and went for it. This time of year lets you do the Camino without the crowds in the pilgrims’ hostels.
+It seems strange that, living in a city on the Camino de Santiago, the Way of St James, I’d never got round to doing it… but there you go. Taking advantage of the very mild winter we’re having, I picked a few days at the beginning of February and went for it. This time of year lets you do the Camino without the crowds in the pilgrims’ hostels.
 
 Being from Oviedo, the most logical thing seemed to be to start here and ride the Camino Primitivo, the oldest route of the Way of St James. I’ve planned four stages; we’ll see whether I can stick to them. On this first stage my father decided to come with me for a few kilometres. It’s 9 in the morning and a sultry wind is blowing that promises rain. I’ve always loved the path that takes us to Grado. I haven’t ridden it for ages, and today I enjoy it like a kid. The clouds clear and the sun comes out, a sun that really beats down, especially for the time of year. We enjoy some lovely trails as far as the first stop, in Grado, where we strip off layers like mad. Everything’s too much; I’m starting to think shorts wouldn’t have been a bad idea.
 

@@ -32,7 +32,7 @@ Kilómetros más adelante nos adentramos en una zona más desértica. La vegetac
 
 Salimos durante unos pocos kilómetros a la carretera para volver nuevamente a un camino. Pista dura en continuo ascenso, con mucha piedra y algún que otro camión. Y es que esta pista es la carretera principal que une todos esos pueblos.
 
-Nos desviamos de la pista en un cruce a la derecha, rumbo al <a href="https://es.wikipedia.org/wiki/Lago_Chala">Lago Chala</a> por un camino descendente muy rápido. Felices por un lado, la gravedad juega a nuestro favor. Por otro lado... ¡mañana tendremos que subir por aquí!
+Nos desviamos de la pista en un cruce a la derecha, rumbo al <a href="https://es.wikipedia.org/wiki/Lago_Chala">Lago Chala</a> por un camino descendente muy rápido. Felices por un lado, la gravedad juega a nuestro favor. Por otro lado… ¡mañana tendremos que subir por aquí!
 
 Antes de llegar al Lago Chala toca pasar por el control de entrada. El entorno de este lago, una caldera volcánica situada entre Tanzania y Kenia, representa una reserva natural con entrada restringida previo pago de una tasa que sólo los turistas se pueden permitir. Pasar la noche en el entorno del lago no es barato para nosotros, con lo que entiendo que para los locales es prohibitivo. Además descubrimos que no muchos turistas deben llegar al lago sin un guía, porque la persona encargada de cobrar la tasa de entrada apenas habla inglés. Después de un rato, conseguimos pasar y llegar al lago. 80 kilómetros de etapa, nos lo hemos ganado.
 

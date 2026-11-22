@@ -24,7 +24,7 @@ Al poco de salir, otro soleado día nos permite ver con claridad, desde los más
 
 La vista es increíble, nuevamente se hace patente que el viaje ha merecido la pena. Pero aún quedan más cosas interesantes.
 
-Más adelante nos encontramos con el poblado de Tenta. He de reconocer que siento debilidad por los poblados bulliciosos, llenos de vida y gente, y Tenta tiene ambas cosas. La plaza del pueblo nos saluda y nuestra visita no genera el revuelo de pueblos anteriores, lo que nos indica que esta encrucijada recibe visitantes de muchos lugares. Nos adentramos en el mercado, y lo que vemos nos apasiona. La zona de <em>carga y descarga</em>, con los burros como único medio de transporte. La zona de las verduras, de la sal, de la electrónica, de la ropa... incluso hay un molino en el que conseguimos entrar, algo que al capataz no le hizo mucha gracia y nos sacó de ahí a escobazos.
+Más adelante nos encontramos con el poblado de Tenta. He de reconocer que siento debilidad por los poblados bulliciosos, llenos de vida y gente, y Tenta tiene ambas cosas. La plaza del pueblo nos saluda y nuestra visita no genera el revuelo de pueblos anteriores, lo que nos indica que esta encrucijada recibe visitantes de muchos lugares. Nos adentramos en el mercado, y lo que vemos nos apasiona. La zona de <em>carga y descarga</em>, con los burros como único medio de transporte. La zona de las verduras, de la sal, de la electrónica, de la ropa… incluso hay un molino en el que conseguimos entrar, algo que al capataz no le hizo mucha gracia y nos sacó de ahí a escobazos.
 
 <div class="gallery">
 

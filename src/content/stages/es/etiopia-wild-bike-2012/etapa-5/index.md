@@ -14,7 +14,7 @@ distance: 77.5
 elevation: 1631
 ---
 
-Ha sido una noche confortable... hasta las 5 de la mañana, hora a la que el imán del pueblo ha considerado que ya habíamos dormido suficiente y se ha puesto a rezar. Sinceramente, parecía que estaba rezando en la habitación. Supongo que con el tiempo uno se acostumbra...
+Ha sido una noche confortable… hasta las 5 de la mañana, hora a la que el imán del pueblo ha considerado que ya habíamos dormido suficiente y se ha puesto a rezar. Sinceramente, parecía que estaba rezando en la habitación. Supongo que con el tiempo uno se acostumbra…
 
 Nos da pena dejar este bonito pueblo, pero estamos ansiosos por ver el recorrido de la etapa de hoy. 77 kilómetros en (casi) continuo ascenso, tocando techo a 3.700 metros de altura, sobre un majestuoso altiplano a 3.500 metros de altura. Hoy sí que se nota la altura, pero el paisaje da alas y queremos tocar techo. Lentamente ascendemos por los preciosos paisajes etíopes.
 

@@ -13,7 +13,7 @@ distance: 123.5
 elevation: 264
 ---
 
-Un desayuno de campeonato para empezar el día nos despide del lodge <a title="Sophienhof Lodge" href="http://www.sophienhof-lodge.com/en/" target="_blank">Sophienhof</a>, un apacible lugar al que nos gustaría volver algún día. Cómodo y tranquilo... pero no es lo que toca en este viaje, hemos venido a montar en bicicleta y justamente eso es lo que vamos a hacer. 123 kilómetros de carretera nos separan de nuestro destino en Khorixas.
+Un desayuno de campeonato para empezar el día nos despide del lodge <a title="Sophienhof Lodge" href="http://www.sophienhof-lodge.com/en/" target="_blank">Sophienhof</a>, un apacible lugar al que nos gustaría volver algún día. Cómodo y tranquilo… pero no es lo que toca en este viaje, hemos venido a montar en bicicleta y justamente eso es lo que vamos a hacer. 123 kilómetros de carretera nos separan de nuestro destino en Khorixas.
 
 Nos lanzamos a la carretera con muchas ganas y mucha fuerza, avanzamos deprisa rodando en paralelo y charlando, disfrutando del viaje y de la carretera. Por fortuna, esta carretera está mucho menos transitada que la de ayer y eso nos permite disfrutar de la bicicleta. Los kilómetros pasan deprisa y el paisaje va cambiando, se va desertificando y poco a poco va desapareciendo la vegetación.
 
@@ -43,6 +43,6 @@ No obstante, el camping en el que nos vamos a alojar es bonito y cómodo, y nuev
 
 ![Un amigo](./P1060850.jpg "Un amigo")
 
-Preparamos la etapa tras una visita al supermercado (¡agua, mucha agua!), ya nos sentimos confiados. Va a ser una gran etapa, lo sabemos. Eso sí, necesitamos dormir... y la fiesta no cesa a nuestro alrededor. Hasta aquí ha llegado el reguetón, ¡noooooo!
+Preparamos la etapa tras una visita al supermercado (¡agua, mucha agua!), ya nos sentimos confiados. Va a ser una gran etapa, lo sabemos. Eso sí, necesitamos dormir… y la fiesta no cesa a nuestro alrededor. Hasta aquí ha llegado el reguetón, ¡noooooo!
 
 ![Camping Khorixas](./P1060858.jpg "Camping Khorixas")

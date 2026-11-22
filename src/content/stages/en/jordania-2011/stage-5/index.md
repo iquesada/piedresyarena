@@ -7,7 +7,7 @@ translationKey: "jordania-2011/etapa-5"
 
 After the rest day (if you can call it that, since the visit to Petra wasn’t exactly restful) it was time for the queen stage. 92 kilometres separated us from our destination in Wadi Rum, a beautiful desert that has appeared in countless films and that we were going to have the luxury of enjoying; we were even going to sleep on its sands in some comfortable Bedouin tents.
 
-At last we were going to have a whole stage without tarmac: it was all going to be piedres y arena, stones and sand. Needless to say, I was delighted... We set off along a wide, very stony track at over 1,600 metres. We would soon enter the desert. Long tracks, blue sky and, in the distance, the sand. I was thrilled.
+At last we were going to have a whole stage without tarmac: it was all going to be piedres y arena, stones and sand. Needless to say, I was delighted… We set off along a wide, very stony track at over 1,600 metres. We would soon enter the desert. Long tracks, blue sky and, in the distance, the sand. I was thrilled.
 
 ![Jordan, tracks](./DSCN2343.jpg)
 

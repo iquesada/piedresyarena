@@ -16,7 +16,7 @@ La etapa de hoy no parece muy interesante. Más de cien kilómetros absolutamen
 
 ![Compañeros de ruta](./IMG-20160705-WA0007.jpg "Compañeros de ruta")
 
-La ruta no es muy interesante. Una sucesión de caminos con buen firme nos hacen avanzar rápido y, aunque no salvamos ningún desnivel, el nuevo trazado como vía de servicio de la autopista A-66 es más duro de lo que parece. Vamos paralelos a dicha autopista en una sucesión de túnel - puente - túnel... que se hace interminable. De un túnel que pasa bajo la autopista subimos hacia un puente que pasa sobre ella, para bajar a otro túnel y subir nuevamente a otro puente... mientras que la autopista discurre totalmente llana. Un completo absurdo. No obstante, nos queda el alivio de pensar en qué sería de nosotros si fuésemos caminando. O peor, si fuésemos solos.
+La ruta no es muy interesante. Una sucesión de caminos con buen firme nos hacen avanzar rápido y, aunque no salvamos ningún desnivel, el nuevo trazado como vía de servicio de la autopista A-66 es más duro de lo que parece. Vamos paralelos a dicha autopista en una sucesión de túnel - puente - túnel… que se hace interminable. De un túnel que pasa bajo la autopista subimos hacia un puente que pasa sobre ella, para bajar a otro túnel y subir nuevamente a otro puente… mientras que la autopista discurre totalmente llana. Un completo absurdo. No obstante, nos queda el alivio de pensar en qué sería de nosotros si fuésemos caminando. O peor, si fuésemos solos.
 
 ![Miliario en la Ruta de la Plata](./miliario.jpg "Miliario en la Ruta de la Plata")
 

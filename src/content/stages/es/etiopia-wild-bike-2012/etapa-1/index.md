@@ -18,10 +18,10 @@ Salimos a las 6:30 de la mañana, en autobús, con rumbo norte para alejarnos lo
 
 ![etiopia chozas](./DSCN2430.jpg)
 
-A mitad de ruta nos detenemos a comer, y por primera vez somos conscientes del maravilloso paisaje que nos rodea. Nosotros, a 2.500m de altura. Y allí abajo, a unos 1.200m, el cauce del Nilo. El paisaje es sencillamente espectacular, nos deja a todos sin palabras...
+A mitad de ruta nos detenemos a comer, y por primera vez somos conscientes del maravilloso paisaje que nos rodea. Nosotros, a 2.500m de altura. Y allí abajo, a unos 1.200m, el cauce del Nilo. El paisaje es sencillamente espectacular, nos deja a todos sin palabras…
 
 ![Etiopía, cuenca del Nilo](./Etiopia_1617-copia-2.jpeg)
 
-Ahora que lo pienso, ¿no tendremos que bajar allí abajo, verdad? Pues sí, las continuas subidas y bajadas nos acompañarán a lo largo de toda la ruta. El descenso es rapidísimo, perdemos altura a mucha velocidad y vamos notando cómo sube la temperatura, parece que descendemos a los infiernos... Ya abajo, a 1.200m, montamos el campamento y aprovechamos la cuenca del río para asearnos. Una buena cena, y cómo no, un estupendo café, y a dormir. ¡Mañana hay que recuperar altura!
+Ahora que lo pienso, ¿no tendremos que bajar allí abajo, verdad? Pues sí, las continuas subidas y bajadas nos acompañarán a lo largo de toda la ruta. El descenso es rapidísimo, perdemos altura a mucha velocidad y vamos notando cómo sube la temperatura, parece que descendemos a los infiernos… Ya abajo, a 1.200m, montamos el campamento y aprovechamos la cuenca del río para asearnos. Una buena cena, y cómo no, un estupendo café, y a dormir. ¡Mañana hay que recuperar altura!
 
 ![Etiopía campamento](./DSCN2446.jpg)

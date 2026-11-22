@@ -6,7 +6,7 @@ translationKey: "tanzania-2017/2-lake-chala-kamwanga"
 
 We’ve had a magnificent night at Lake Chala. Our first night of camping without mosquitoes, which is good news. Although our bodies are loaded with Malarone, we have no interest in testing how well it works.
 
-It’s been a wonderful night: the place couldn’t be more peaceful, and the only sound we heard was the odd night bird. After taking down the tent, we go and get breakfast. A vegetable omelette was waiting for us, facing the beautiful views of Lake Chala. We’re going to miss this place...
+It’s been a wonderful night: the place couldn’t be more peaceful, and the only sound we heard was the odd night bird. After taking down the tent, we go and get breakfast. A vegetable omelette was waiting for us, facing the beautiful views of Lake Chala. We’re going to miss this place…
 
 But we didn’t come here to rest, we came to ride. So we load up the panniers and set off, up the track, towards the track that will take us to the north side of Kilimanjaro, the so-called <em>lower road.</em>
 
@@ -14,7 +14,7 @@ But we didn’t come here to rest, we came to ride. So we load up the panniers a
 
 ![Me, with green panniers, riding past some mud-brick houses](./inaki-lower-road.jpg "Iñaki, lower road")
 
-The track gains height little by little; today’s destination is quite high up. The ground isn’t too broken, but it’s nowhere near the luxury of the day before. Rocks poke out of the dirt and make the going, at times, rougher than we’d like. We don’t pass a single car, only motorbikes. Lots of motorbikes. The famous <a href="https://en.wikipedia.org/wiki/Boda_boda">boda boda</a>, the cheapest (and most dangerous) taxis in Africa. Many of them overtook us at high speed, on their old bikes with bald tyres... they don’t look very safe, and everyone told us how many accidents they cause.
+The track gains height little by little; today’s destination is quite high up. The ground isn’t too broken, but it’s nowhere near the luxury of the day before. Rocks poke out of the dirt and make the going, at times, rougher than we’d like. We don’t pass a single car, only motorbikes. Lots of motorbikes. The famous <a href="https://en.wikipedia.org/wiki/Boda_boda">boda boda</a>, the cheapest (and most dangerous) taxis in Africa. Many of them overtook us at high speed, on their old bikes with bald tyres… they don’t look very safe, and everyone told us how many accidents they cause.
 
 ![Straight red dirt track, with a woman walking along the side](./lower-road.jpg "Lower Road")
 
@@ -32,6 +32,6 @@ We stay in a modest guest house. After a shower, we leave our stuff lying around
 
 The teacher took us all round the village, introducing us to people and telling us how, and on what, people make a living in these parts. Agriculture obviously dominates the economy of these villages, bananas above all. We were also surprised to see, in such a small village, a mosque, a Catholic church and a Protestant church. All together, in a small space, and at peace.
 
-After the tour of the village we’re starving. We invite the teacher to have dinner with us and treat ourselves to a little feast of local food, really, really good. And from there we head off to bed: it’s been a long day and we need to rest. What we didn’t know was that the night would be long too... but I’ll tell you about that in the next post.
+After the tour of the village we’re starving. We invite the teacher to have dinner with us and treat ourselves to a little feast of local food, really, really good. And from there we head off to bed: it’s been a long day and we need to rest. What we didn’t know was that the night would be long too… but I’ll tell you about that in the next post.
 
 ![Table with plates of rice, stewed beans and greens](./kamwanga-cena.jpg "Dinner in Kamwanga")

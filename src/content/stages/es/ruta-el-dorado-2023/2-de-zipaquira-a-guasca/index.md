@@ -42,7 +42,7 @@ Y se nota. Cuando los kilómetros pasan rápido es que realmente lo estás pasan
 
 ![Bicicleta tumbada en una pista de tierra, entre árboles y hierba](./IMG_20231105_134510.jpg)
 
-En Guatavita, justo antes de llegar a Guasca, hice la parada para comer. Comer... es algo que recuerdo mucho de este viaje.
+En Guatavita, justo antes de llegar a Guasca, hice la parada para comer. Comer… es algo que recuerdo mucho de este viaje.
 
 ![Comida en Guatavita: costilla, papas criollas, arroz y una Coca-Cola, con la bicicleta detrás](./IMG_20231105_140938.jpg)
 

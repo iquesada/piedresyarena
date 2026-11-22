@@ -8,7 +8,7 @@ Today’s stage doesn’t look very interesting. Over a hundred dead-flat kilome
 
 ![Riding companions](./IMG-20160705-WA0007.jpg "Riding companions")
 
-The route isn’t very interesting. A string of tracks with a good surface lets us move fast and, although there’s no climbing to speak of, the new line, laid out as a service road for the A-66 motorway, is harder than it looks. We run alongside the motorway in a sequence of tunnel – bridge – tunnel... that seems never-ending. From a tunnel under the motorway we climb up to a bridge over it, only to drop down to another tunnel and climb back up to another bridge... while the motorway runs completely flat. Utterly absurd. Still, we can take comfort in thinking what would become of us if we were on foot. Or worse, on our own.
+The route isn’t very interesting. A string of tracks with a good surface lets us move fast and, although there’s no climbing to speak of, the new line, laid out as a service road for the A-66 motorway, is harder than it looks. We run alongside the motorway in a sequence of tunnel – bridge – tunnel… that seems never-ending. From a tunnel under the motorway we climb up to a bridge over it, only to drop down to another tunnel and climb back up to another bridge… while the motorway runs completely flat. Utterly absurd. Still, we can take comfort in thinking what would become of us if we were on foot. Or worse, on our own.
 
 ![Roman milestone on the Ruta de la Plata](./miliario.jpg "Roman milestone on the Ruta de la Plata")
 
