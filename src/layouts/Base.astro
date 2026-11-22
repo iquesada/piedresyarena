@@ -2,6 +2,9 @@
 import '@fontsource-variable/archivo/wdth.css';
 import '@fontsource-variable/source-serif-4/opsz.css';
 import '@fontsource-variable/source-serif-4/opsz-italic.css';
+// The latin faces of the opener title and body text, preloaded so they don't swap in late.
+import archivoLatin from '@fontsource-variable/archivo/files/archivo-latin-wdth-normal.woff2?url';
+import serifLatin from '@fontsource-variable/source-serif-4/files/source-serif-4-latin-opsz-normal.woff2?url';
 import LogoIcon from '../components/LogoIcon.astro';
 import InstagramLink from '../components/InstagramLink.astro';
 import { englishPublic, t, toLocale } from '../i18n';
@@ -39,6 +42,7 @@ const versions = switchTo && { [locale]: canonical, [other]: new URL(switchTo, A
     {dark && <meta name="color-scheme" content="dark" />}
     <meta name="theme-color" content={dark ? '#1a1a17' : '#ffffff'} />{/* --night / --white */}
     <title>{fullTitle}</title>
+    {[archivoLatin, serifLatin].map((href) => <link rel="preload" href={href} as="font" type="font/woff2" crossorigin />)}
     <meta name="description" content={description || t(locale, 'site.description')} />
     <link rel="icon" href="/favicon.ico" sizes="32x32" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
@@ -47,6 +51,7 @@ const versions = switchTo && { [locale]: canonical, [other]: new URL(switchTo, A
     {versions && ['es', 'en'].map((l) => <link rel="alternate" hreflang={l} href={versions[l]} />)}
     {versions && <link rel="alternate" hreflang="x-default" href={versions.es} />}
     {locale === 'en' && !englishPublic && <meta name="robots" content="noindex" />}
+    <slot name="head" />
   </head>
   <body class:list={{ dark }}>
     <a href="#main" class="skip">{t(locale, 'skip.main')}</a>
