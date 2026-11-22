@@ -41,7 +41,7 @@ Y hemos llegado. Es increíble, hay focas por todas partes. Unas 10.000 focas vi
 
 Nos vestimos de capitán Pescanova y nos subimos a la piragua. Focas, pelícanos y hasta delfines, tan rápidos y escurridizos que no se dejaron fotografiar ni grabar. Le saqué buen partido a la GoPro.
 
-<div class="embed"><iframe src="https://www.youtube.com/embed/Bb_w8tgchnA" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><iframe src="https://www.youtube.com/embed/Bb_w8tgchnA" title="Vídeo: kayak entre las focas en Walvis Bay" loading="lazy" allowfullscreen></iframe></div>
 
 Diría que las focas se lo pasaron mejor que nosotros si no fuese porque nosotros nos lo pasamos muy, muy bien. Fue una de esas experiencias que dibuja una sonrisa en tu cara cada vez que las recuerdas.
 

@@ -18,14 +18,14 @@ Me salgo de los senderos un momento para uno de los vicios ciclistas más extend
 
 Después de la pausa para el café vuelvo a los senderos. Esta zona es especialmente bonita. Los senderos están limpios, los árboles me permiten rodar a la sombra...
 
-![](./IMG_20220708_111444.jpg)
+![Bicicleta apoyada en un tronco caído, junto a un sendero en un bosque de pinos](./IMG_20220708_111444.jpg)
 
 ... y hasta tengo arándanos gratis.
 
-![](./IMG_20220708_111424.jpg)
+![Mis dedos cogiendo un arándano de una mata](./IMG_20220708_111424.jpg)
 
 Una cosa que me llama la atención es que, de las pocas veces que me salgo de los senderos, es para atravesar una carretera o un pequeño pueblo y rara es la vez que no paso al lado de un cementerio militar. Los cementerios militares belgas tienen su origen en los trágicos acontecimientos ocurridos durante las dos guerras mundiales del siglo XX. Bélgica fue un escenario importante de combates y conflictos durante ambas guerras, lo que llevó a la pérdida de muchas vidas de soldados de diferentes nacionalidades. Estos cementerios militares son lugares de gran importancia histórica y conmemorativa, y se mantienen como recordatorios de los horrores de la guerra y el sacrificio de quienes lucharon por la libertad y la paz.
 
-![](./IMG_20220708_202748.jpg)
+![Monumento de Houffalize a las víctimas de la batalla de las Ardenas, con decenas de placas con nombres](./IMG_20220708_202748.jpg)
 
 El último de estos cementerios que visitaré se encuentra en Houffalize, destino final de mi ruta en el día de hoy. Tras montar mi tienda de campaña en el camping y antes de irme a dormir, aplaco mi hambre a base de freiduría belga. Sin duda, una mala elección para una cena. Pero había que probarla.

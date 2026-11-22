@@ -43,7 +43,7 @@ Por fortuna la gravedad juega a nuestro favor, la pista es ligeramente descenden
 
 Con las alforjas cargadas no podemos hacer más que empujar la bici mientras que la pista, lejos de mejorar, sigue empeorando, y no sabemos cuándo mejorará ni si lo va a hacer en algún momento. Decidimos que es imposible seguir y tiramos de mapa para buscar una alternativa a esta pista de arena. Aquí es donde más hemos de agradecer lo bien que han funcionado tanto el GPS como los mapas digitales de <a title="Tracks4Africa" href="https://tracks4africa.co.za/" target="_blank">Tracks4Africa</a> que compramos para la ocasión. Por fortuna, encontramos dicha alternativa y, aunque dista mucho de ser una autopista, es ciclable. Esta nueva alternativa tiene tan solo un par de kilómetros más.
 
-<div class="embed"><iframe src="https://www.youtube.com/embed/Ju_qE8b3mJ0" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><iframe src="https://www.youtube.com/embed/Ju_qE8b3mJ0" title="Vídeo: Namibia, pistas de chapa ondulada y arena" loading="lazy" allowfullscreen></iframe></div>
 
 Poco a poco vamos avanzando. Arena, tôle ondulée, más arena... ¿y qué es ese olor? A 5 kilómetros de destino pasamos por el cauce del río Ugab, total y absolutamente seco. Y nuevamente ese olor...
 

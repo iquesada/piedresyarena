@@ -37,7 +37,7 @@ La etapa reina se estaba haciendo dura. Pero todo ese terreno que tanto nos esta
 
 Y para que veáis de qué hablo, echadle un vistazo al vídeo que grabó uno de mis compañeros.
 
-<div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/tzNQVS-t4pw" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/tzNQVS-t4pw" title="Vídeo: en bici por Wadi Rum" loading="lazy" allowfullscreen></iframe></div>
 
 Finalmente llegamos al Wadi Rum. El paisaje era espectacular, estaba deseando que llegase la siguiente etapa para pedalear entre les piedres y la arena. Pero antes íbamos a disfrutar de una magnífica cena, preparada al estilo más tradicional. Un recipiente metálico, con ascuas en su base y una serie de bandejas en vertical servían de parrilla. Este recipiente, bien cerrado y enterrado en la arena, le daba el toque exótico. Ya entrada la noche fuimos a <em>desenterrar</em> nuestra cena, compuesta de carne y verduras. Y la verdad es que estaba sensacional, aunque reconozco que el toque exótico le da un punto a su favor.
 

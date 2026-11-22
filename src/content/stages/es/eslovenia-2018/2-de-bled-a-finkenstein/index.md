@@ -14,7 +14,7 @@ elevation: 2077
 
 Después del tute del día anterior me propuse seriamente escapar de cualquier <em>emboscada</em> posible. Sabía que la etapa sería dura. Me propuse cruzar a Austria y, para ello, tenía que cruzar la cadena montañosa que representa la frontera natural entre Eslovenia y Austria. El desnivel no me lo iba a quitar nadie, pero intentaría evitar en todo lo posible volver a empujar la bici. Y lo conseguí durante los primeros 35 kilómetros, en los que rodé mayoritariamente por un carril bici (sí, había kilómetros y kilómetros de carril bici) ligeramente ascendentes, pero muy sencillos. Todos ellos por un precioso valle, en el que tuve la suerte de ver el entrenamiento de verano de los esquiadores de fondo. Por desgracia, no pude sacarles una foto.
 
-![](./slovenia_river.jpg)
+![Bicicleta en un puente de madera sobre un río verde con una pequeña presa](./slovenia_river.jpg)
 
 En menos de dos horas llegué a Mojstrana, un pequeño pueblo en la ladera de la montaña, donde aproveché para coger agua y tomar un café. A partir de aquí empieza la subida, previsiblemente dura, que me llevará a lo alto de las montañas que separan Eslovenia de Austria.
 
@@ -22,7 +22,7 @@ Poco más adelante empieza la subida. Dura, como esperaba. Pero el firme es buen
 
 La pista está cada vez más rota, y la pendiente sigue en aumento. Los kilómetros pasan, y las horas también. Eso sí, la subida es bonita y, de vez en cuando, te encuentras con algo de civilización.
 
-![](./house.jpg)
+![Cabaña de madera con tejado a dos aguas y cerca de troncos, en un claro del bosque](./house.jpg)
 
 La pista ya se pone imposible, entre la cantidad de piedra y el peso de las alforjas, es imposible subir montado. Paro a comer algo y sigo empujando. Justo lo que no quería hacer, empujar. Pero ya queda poco, esto se tiene que acabar en breves...
 
@@ -34,7 +34,7 @@ Yo sigo bajando y llego a la carretera. Avanzo dirección al puerto que me lleva
 
 He de reconocer que no saqué ninguna foto de la subida. Muy dura, con un desnivel constante del 18% y mucho calor. Eso, sumado a la paliza del día, hizo que no me hiciese mucha gracia el puñetero puerto. Pero todo es cuestión de constancia, y finalmente llegué a la cima. Y sí, me hizo ilusión cruzar la frontera en bicicleta.
 
-![](./austria.jpg)
+![Bicicleta bajo el cartel azul de la Unión Europea «Avstrija 150 m», en lo alto del puerto](./austria.jpg)
 
 La bajada hacia Austria tiene un desnivel brutal. En 5 minutos perdí 500 metros que tanto me había costado ganar. Antes de llegar abajo ya había decidido que mañana no iba a subir por aquí. Aún no sabía qué iba a hacer, pero ya tenía claro qué no iba a hacer.
 

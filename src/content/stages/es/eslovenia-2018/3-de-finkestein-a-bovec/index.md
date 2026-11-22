@@ -20,11 +20,11 @@ Al poco de salir del hotel entro en un carril bici. Salgo de Austria y entro en 
 
 Paso por Tarvisio en mi vuelta a Eslovenia y subo el Paso del Predil, un bonito puerto de montaña junto a un lago.
 
-![](./italy_lake.jpg)
+![Lago de montaña con playa de grava, rodeado de pinos y una gran pared de roca](./italy_lake.jpg)
 
 Me paso el día cruzando fronteras (lo que me hace cierta ilusión, no lo voy a negar), y en poco más de tres horas he llegado a destino.
 
-![](./crossing_borders.jpg)
+![Collage de la bicicleta junto a los carteles de frontera de Eslovenia, Italia y Austria](./crossing_borders.jpg)
 
 Hoy he pedaleado durante poco más de 55 kilómetros y mil metros de desnivel, todo por carretera. Un día tranquilo y relajado para recuperar fuerzas y disfrutar de la etapa de mañana. Será dura, sobre todo en su primera parte.
 
@@ -32,10 +32,10 @@ Bovec es el centro turístico para actividades deportivas de la zona. Creo que p
 
 La noche está muy animada y me quedo un rato a ver a la banda. Parecen ser conocidos en Eslovenia...
 
-![](./bovec_party.jpg)
+![Banda tocando en un escenario iluminado de azul, con el público a contraluz](./bovec_party.jpg)
 
 Pero lo cierto es que su música no me resulta muy interesante. Aprovecho el mercadillo de la zona para probar la polenta, a la que le doy un notable alto, y me voy para el camping. La música de la banda se oye perfectamente desde la cama, así que leo un rato hasta que se les acaba el repertorio. He de decir que me estoy acostando todos los días bastante temprano.
 
 Ahora sí, estómago lleno y piernas relajadas. Mañana tendré un día intenso.
 
-![](./bovec_food.jpg)
+![Gente haciendo cola de noche ante casetas de madera de comida](./bovec_food.jpg)

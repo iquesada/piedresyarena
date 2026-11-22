@@ -26,7 +26,7 @@ I feel joy and sadness. Joy, because I’d fulfilled my dream. Sadness, because 
 
 After hugging loads of people I see Stephan in the distance. He reaches the finish and gives me a big hug, thanking me again and again for leaving him my tools. He tells me how, by pulling like a madman, he managed to get the 26-inch tube into the 29-inch wheel.
 
-![](./DSCN2095.jpg)
+![Stephan and me arm in arm by the finish arch](./DSCN2095.jpg)
 
 And that’s all. All that’s left is to cruise down to Karakorum for a ceremonial entry, outside the race, and visit Erdene Zuu, the oldest Buddhist monastery in Mongolia.
 
@@ -36,4 +36,4 @@ It’s the end of the adventure, I’ve earned a rest.
 
 I’ll leave you with this video that sums up this great adventure. You can see me, briefly, at 3:40!!
 
-<div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/H5fAcNsIfoQ" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/H5fAcNsIfoQ" title="Video: Mongolia Bike Challenge 2010" loading="lazy" allowfullscreen></iframe></div>

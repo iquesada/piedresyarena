@@ -18,34 +18,34 @@ Salí por Patios bien temprano. Pero no importa lo temprano que vayas: un sábad
 
 Una vez en la cima de Patios, me desvié por un camino que me alejó de todo ese tráfico de ciclistas. Bogotá se encuentra bastante alto, a 2.600 metros sobre el nivel del mar, y esta subida te lleva aún más alto, con lo cual es fácil meterse en la niebla. Al poco de coronar, me metí en la niebla y en una lluvia fina que ya no me abandonaría durante todo el día.
 
-![](./IMG_20231104_100017.jpg)
+![Pista de tierra embarrada entre prados, bajo nubes bajas y niebla](./IMG_20231104_100017.jpg)
 
 Siguiendo una ruta que está cuidadosamente marcada, me fui alejando de Bogotá hasta llegar a La Calera.
 
-![](./IMG_20231104_101141.jpg)
+![Poste de madera que señaliza la ruta, entre hierba alta](./IMG_20231104_101141.jpg)
 
 Aunque llevaba poca ruta, ya apetecía tomar algo caliente. Y aquí es donde empecé a disfrutar de la amabilidad colombiana. Nada más pasar por delante de un bar, ya me ofrecieron un café con cualquier otra cosa que se me antojase. Como aún no llevaba muchos kilómetros, lo acompañé de una pequeña arepa.
 
-![](./IMG_20231104_105512.jpg)
+![Arepa y café en vaso de papel sobre una bandeja azul](./IMG_20231104_105512.jpg)
 
 A partir de ahí he de reconocer que apenas tomé fotos. La lluvia se hizo más intensa, el camino se fue embarrando y el frío se me metió en el cuerpo. Así que solo quería llegar.
 
-![](./IMG_20231104_122435.jpg)
+![Bicicleta de bikepacking cubierta de barro, tumbada en la hierba](./IMG_20231104_122435.jpg)
 
 Cuando ya iba apretando el hambre, a mi paso por Briceño, vi un restaurante en el que había bastantes bicicletas. Supuse que sería como dice el dicho: donde paran los camioneros, se come bien. Y vaya si acerté. Un magnífico <em>ajiaco santafereño</em>. Grande, muy grande, tal vez demasiado para continuar dando pedales.
 
-![](./IMG_20231104_131949.jpg)
+![Cuenco de ajiaco con arroz, aguacate, alcaparras y nata al lado](./IMG_20231104_131949.jpg)
 
 Por fortuna ya quedaba poco hasta Zipaquirá, el fin de la ruta de hoy. Solo quedaba un pequeño manguerazo para dejar la bicicleta limpia y lista para mañana.
 
 Y sí, ahí estaba, en Zipaquirá, lugar de origen del gran ciclista Egan Bernal.
 
-![](./IMG-20221122-WA0018.jpg)
+![Yo, ante un mural de Egan Bernal con el maillot amarillo y el lema «El orgullo de la patria»](./IMG-20221122-WA0018.jpg)
 
 Ya solo quedaba ir al alojamiento, buscar un lugar donde cenar y acostarse temprano para la siguiente etapa.
 
-![](./IMG_20231104_181143.jpg)
+![Pared morada con un trompo de carne pintado y el lema «El trompo es mi pastor»](./IMG_20231104_181143.jpg)
 
 Fue una grata sorpresa encontrar un restaurante como El Labriego, donde nuevamente volví a disfrutar de la gastronomía colombiana. Dos días más y estaría de vuelta en Bogotá.
 
-![](./IMG_20231104_191323.jpg)
+![Cena en El Labriego: ceviche adornado con una flor y patacones](./IMG_20231104_191323.jpg)

@@ -20,21 +20,21 @@ Further on we come to the village of Tenta. I have to admit I have a soft spot f
 
 <div class="gallery">
 
-![](./DSCN2641.jpg)
+![Tenta market: women with bundles of firewood and donkeys on an open dirt ground](./DSCN2641.jpg)
 
-![](./DSCN2637.jpg)
+![A boy and a woman by the grain mill, inside a dim shed](./DSCN2637.jpg)
 
-![](./DSCN2636.jpg)
+![Donkeys loaded with sacks and men beside a thatched hut](./DSCN2636.jpg)
 
-![](./DSCN2634.jpg)
+![Woman sitting on the ground selling dried red chillies on a cloth](./DSCN2634.jpg)
 
-![](./DSCN26311.jpg)
+![Two women in headscarves sitting beside a sack of grain](./DSCN26311.jpg)
 
-![](./DSCN2630.jpg)
+![Pile of reddish grain on sacks spread on the ground](./DSCN2630.jpg)
 
-![](./DSCN2629.jpg)
+![Crowd at the market, with a man and a boy looking at the camera](./DSCN2629.jpg)
 
-![](./DSCN2626.jpg)
+![Dirt street full of people, with a boy in a grey hood in the foreground](./DSCN2626.jpg)
 
 </div>
 

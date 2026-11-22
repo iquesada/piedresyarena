@@ -10,14 +10,14 @@ I leave the trails for a moment for one of the most widespread cycling vices: a 
 
 After the coffee break I head back to the trails. This area is particularly beautiful. The trails are clear, the trees let me ride in the shade...
 
-![](./IMG_20220708_111444.jpg)
+![Bike leaning on a fallen log beside a path in a pine forest](./IMG_20220708_111444.jpg)
 
 ... and I even get free blueberries.
 
-![](./IMG_20220708_111424.jpg)
+![My fingers picking a blueberry from a bush](./IMG_20220708_111424.jpg)
 
 One thing that strikes me is that, the few times I leave the trails, it’s to cross a road or a small village, and I rarely do so without passing a military cemetery. Belgium’s military cemeteries have their origins in the tragic events of the two world wars of the 20th century. Belgium was a major theatre of fighting in both wars, which cost the lives of many soldiers of different nationalities. These military cemeteries are places of great historical and commemorative importance, and they remain as reminders of the horrors of war and of the sacrifice of those who fought for freedom and peace.
 
-![](./IMG_20220708_202748.jpg)
+![Houffalize memorial to the victims of the Battle of the Bulge, with dozens of name plaques](./IMG_20220708_202748.jpg)
 
 The last of these cemeteries I’ll visit is in Houffalize, the end of today’s route. After pitching my tent at the campsite and before going to bed, I satisfy my hunger with Belgian chip-shop fare. Definitely a poor choice for dinner. But I had to try it.

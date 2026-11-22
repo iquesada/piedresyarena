@@ -34,7 +34,7 @@ Siento alegría y tristeza. Alegría, había cumplido mi sueño. Tristeza, la fe
 
 Después de abrazarme con un montón de gente veo a lo lejos a Stephan. Llega a meta y me da un gran abrazo mientras me agradece, una y otra vez, que le dejase herramienta. Me cuenta cómo, a base de tirar como un bestia, consiguió meter la cámara de 26' en la rueda de 29'.
 
-![](./DSCN2095.jpg)
+![Stephan y yo abrazados junto al arco de meta](./DSCN2095.jpg)
 
 Y eso es todo. Tan solo nos queda dejarnos bajar hasta Karakorum para hacer una entrada protocolaria y fuera de carrera, y visitar el monasterio de Erdene Zuu, el monasterio budista más antiguo de Mongolia.
 
@@ -44,4 +44,4 @@ Es el fin de la aventura, me he ganado un descanso.
 
 Os dejo este vídeo que resume esta gran aventura. ¡¡Podéis verme, brevemente, en el 3:40!!
 
-<div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/H5fAcNsIfoQ" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/H5fAcNsIfoQ" title="Vídeo: Mongolia Bike Challenge 2010" loading="lazy" allowfullscreen></iframe></div>

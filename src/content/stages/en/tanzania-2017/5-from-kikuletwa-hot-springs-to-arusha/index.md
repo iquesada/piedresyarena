@@ -10,7 +10,7 @@ We set off early towards Arusha. It’s going to be an easy day: we have a short
 
 We set off at a gentle pace. The days and the kilometres are starting to tell, the ground is very, very broken, and our bodies are crying out for rest. We retrace the previous day’s route, back to the road, where we head for Arusha. The road is a constant up and down, with more traffic than we’d like. But at least the surface is very good.
 
-![](./arusha_road.jpg "The Arusha road")
+![Nines riding on the shoulder of a paved road, beside a crash barrier](./arusha_road.jpg "The Arusha road")
 
 Halfway there we make a short stop at a roadside bar for a drink and a bite to eat. There we chat with a lad who speaks pretty good English. He has a foot in plaster: he got injured playing football. He tells us how keen he is to play again, how he dreams of playing in Europe and making a future for himself as a footballer. He talks with great enthusiasm, and the truth is that this future, however unlikely, is practically the only promising future he can have. Otherwise his future will be happy, I’m sure, but he won’t be able to live out the dreams he’s told us about.
 

@@ -18,7 +18,7 @@ Salimos temprano rumbo a Arusha. Va a ser un día tranquilo, tenemos una pequeñ
 
 Salimos tranquilamente, ya se van notando los días y los kilómetros, y el terreno está muy, muy roto, y nuestros cuerpos piden descanso. Desandamos lo andado el día anterior, volviendo sobre nuestros pasos hasta la carretera, donde tomamos rumbo Arusha. La carretera es un continuo sube-baja, con más tráfico del que nos gustaría. Pero al menos, el firme es muy bueno.
 
-![](./arusha_road.jpg "Carretera de Arusha")
+![Nines pedalea por el arcén de una carretera asfaltada, junto a un quitamiedos](./arusha_road.jpg "Carretera de Arusha")
 
 A medio camino hacemos una pequeña parada en un bar de carretera para beber y comer algo. Allí hablamos con un chico que habla inglés bastante bien. Tiene un pie escayolado, se lesionó jugando al fútbol. Nos habla de las ganas que tiene de volver a jugar, cómo sueña con jugar en Europa y labrarse un futuro como futbolista. Nos habla con mucha ilusión, y lo cierto es que ese futuro, aunque improbable, es prácticamente el único futuro prometedor que puede tener. En caso contrario su futuro será feliz, seguro, pero no podrá realizar los sueños que nos ha contado.
 

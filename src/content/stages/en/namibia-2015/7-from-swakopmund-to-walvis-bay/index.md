@@ -33,7 +33,7 @@ And here we are. It’s incredible: there are seals everywhere. About 10,000 sea
 
 We dress up like Captain Birdseye and get into the kayaks. Seals, pelicans and even dolphins, so fast and elusive they wouldn’t let us photograph or film them. I got good use out of the GoPro.
 
-<div class="embed"><iframe src="https://www.youtube.com/embed/Bb_w8tgchnA" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><iframe src="https://www.youtube.com/embed/Bb_w8tgchnA" title="Video: kayaking among the seals in Walvis Bay" loading="lazy" allowfullscreen></iframe></div>
 
 I’d say the seals had more fun than we did, if it weren’t for the fact that we had a really, really great time. It was one of those experiences that put a smile on your face every time you remember it.
 

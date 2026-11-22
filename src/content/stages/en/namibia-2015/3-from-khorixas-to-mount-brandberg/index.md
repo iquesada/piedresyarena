@@ -35,7 +35,7 @@ Luckily gravity is on our side: the track runs gently downhill and we can keep g
 
 With the panniers loaded, all we can do is push the bikes while the track, far from improving, keeps getting worse, and we have no idea when it will improve or whether it ever will. We decide it’s impossible to carry on and get the map out to look for an alternative to this sandy track. This is where we’re most grateful for how well both the GPS and the <a title="Tracks4Africa" href="https://tracks4africa.co.za/" target="_blank">Tracks4Africa</a> digital maps we bought for the trip have worked. Luckily, we find an alternative and, though it’s a far cry from a motorway, it’s rideable. This new route is only a couple of kilometres longer.
 
-<div class="embed"><iframe src="https://www.youtube.com/embed/Ju_qE8b3mJ0" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><iframe src="https://www.youtube.com/embed/Ju_qE8b3mJ0" title="Video: Namibia, corrugated tracks and sand" loading="lazy" allowfullscreen></iframe></div>
 
 Little by little we press on. Sand, corrugations, more sand... and what’s that smell? 5 kilometres from our destination we cross the bed of the Ugab River, completely and utterly dry. And there’s that smell again...
 

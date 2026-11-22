@@ -14,4 +14,4 @@ translationKey: "camino-de-santiago-2013/relato"
 
 No me quiero extender en esta entrada. Nunca había salido en televisión, ni me habían entrevistado para una revista. Pero una llamada de mi gran amiga Ruth Moll me llevó de un día para otro a la grabación de un programa de televisión con <a title="Biografía de Chus Castellanos" href="https://planetmtb.es/conocenos/" target="_blank">Chus Castellanos</a>, que paralelamente a su proyecto <a title="Web de PlanetMTB" href="http://www.planetmtb.es/" target="_blank">PlanetMTB</a> se embarcó en otro llamado Planeta Bike. Fueron dos ~~fríos~~ grandes días de rodaje por el Camino de Santiago con Chus y su equipo, y éste fue el resultado.
 
-<div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/ICWe9I0eRnw" title="YouTube" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/ICWe9I0eRnw" title="Vídeo: programa 1 de Planeta Bike" loading="lazy" allowfullscreen></iframe></div>
