@@ -16,4 +16,4 @@ Nobody had the guts to ride down in the 4x4, heh. Well, there’s no denying we 
 
 ![Carlos Abellán and me in the snow, with a herd of yaks behind](./mbc8_3.jpg)
 
-At last we reach the camp. Good news awaits us... today is our last night in a tent! And tomorrow, the ninth stage, the longest of all at 144km. Bring it on!
+At last we reach the camp. Good news awaits us… today is our last night in a tent! And tomorrow, the ninth stage, the longest of all at 144km. Bring it on!

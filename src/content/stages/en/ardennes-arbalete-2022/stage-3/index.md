@@ -8,7 +8,7 @@ Wait, wasn’t Belgium supposed to be flat? As soon as I leave Houffalize (where
 
 ![Dirt path through a forest, seen from the handlebar with the GPS](./IMG_20220709_131059.jpg)
 
-Although I knew I’d be passing <a href="https://chouffe.com/en-gb/our-beer/la-chouffe">La Chouffe</a> today, coming across it was still a nice little surprise. Fond of beer as I am in general, it’s funny that my first visit to a brewery should be so far from home. I took the chance to look around the brewery grounds and, of course, the gift shop. And in case anyone’s wondering... far too many kilometres ahead to have one! There’ll be time for that later.
+Although I knew I’d be passing <a href="https://chouffe.com/en-gb/our-beer/la-chouffe">La Chouffe</a> today, coming across it was still a nice little surprise. Fond of beer as I am in general, it’s funny that my first visit to a brewery should be so far from home. I took the chance to look around the brewery grounds and, of course, the gift shop. And in case anyone’s wondering… far too many kilometres ahead to have one! There’ll be time for that later.
 
 ![Bike leaning on a fence beside the brewery’s wooden signposts](./IMG_20220709_101532.jpg)
 

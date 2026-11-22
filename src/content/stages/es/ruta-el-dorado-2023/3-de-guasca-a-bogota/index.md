@@ -12,7 +12,7 @@ distance: 56.5
 elevation: 1283
 ---
 
-Ya solo quedaba el último día para volver a Bogotá. Con un café, fruta y galletas... ¿qué puede salir mal?
+Ya solo quedaba el último día para volver a Bogotá. Con un café, fruta y galletas… ¿qué puede salir mal?
 
 ![Desayuno en una mesa de madera: café, plátano y galletas, con la bicicleta detrás](./IMG_20231106_071044.jpg)
 

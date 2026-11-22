@@ -16,7 +16,7 @@ Shortly after setting off, another sunny day lets us see clearly, from the plate
 
 The view is incredible, and once again it’s clear that the trip has been worth it. But there are still more interesting things to come.
 
-Further on we come to the village of Tenta. I have to admit I have a soft spot for bustling villages, full of life and people, and Tenta has both. The village square greets us and our visit doesn’t cause the stir it did in earlier villages, which tells us that this crossroads gets visitors from many places. We go into the market, and what we see fascinates us. The <em>loading and unloading</em> area, with donkeys as the only means of transport. The sections for vegetables, salt, electronics, clothes... there’s even a mill we manage to get into, which the foreman didn’t like one bit, and he chased us out with a broom.
+Further on we come to the village of Tenta. I have to admit I have a soft spot for bustling villages, full of life and people, and Tenta has both. The village square greets us and our visit doesn’t cause the stir it did in earlier villages, which tells us that this crossroads gets visitors from many places. We go into the market, and what we see fascinates us. The <em>loading and unloading</em> area, with donkeys as the only means of transport. The sections for vegetables, salt, electronics, clothes… there’s even a mill we manage to get into, which the foreman didn’t like one bit, and he chased us out with a broom.
 
 <div class="gallery">
 

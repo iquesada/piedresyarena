@@ -32,6 +32,6 @@ De repente, se abre un claro en el bosque y llego a una casa. Bien, al menos pod
 
 ![Valle verde con un pueblo de tejados rojos y montañas rocosas detrás](./slovenia2.jpg)
 
-Aún me quedaba otra hora de más de lo mismo. Al fin, la vegetación se abre y llego a un camino. Después carretera, coches... y Bled. Sitio turístico donde los haya, el tráfico y el bullicio contrastan con las horas de soledad que he vivido durante el día de hoy. Busco el camping, que está a la orilla del lago, y monto mi tienda. Un baño, una buena cena y a descansar, los 70 kilómetros han hecho mella, especialmente los kilómetros de empujar la bici. Mañana tendré que mirar dónde me meto, tal vez la ruta que he descargado no está actualizada. Pero que no se me malinterprete: he disfrutado como un niño.
+Aún me quedaba otra hora de más de lo mismo. Al fin, la vegetación se abre y llego a un camino. Después carretera, coches… y Bled. Sitio turístico donde los haya, el tráfico y el bullicio contrastan con las horas de soledad que he vivido durante el día de hoy. Busco el camping, que está a la orilla del lago, y monto mi tienda. Un baño, una buena cena y a descansar, los 70 kilómetros han hecho mella, especialmente los kilómetros de empujar la bici. Mañana tendré que mirar dónde me meto, tal vez la ruta que he descargado no está actualizada. Pero que no se me malinterprete: he disfrutado como un niño.
 
 ![Bicicleta sosteniendo una pequeña tienda de campaña amarilla con un toldo gris](./bikamper.jpg)

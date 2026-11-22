@@ -34,7 +34,7 @@ And you can tell. When the kilometres fly by, it means you’re really enjoying 
 
 ![Bike lying on a dirt track, between trees and grass](./IMG_20231105_134510.jpg)
 
-In Guatavita, just before reaching Guasca, I stopped for lunch. Food... is something I remember a lot from this trip.
+In Guatavita, just before reaching Guasca, I stopped for lunch. Food… is something I remember a lot from this trip.
 
 ![Lunch in Guatavita: ribs, small yellow potatoes, rice and a Coke, with the bike behind](./IMG_20231105_140938.jpg)
 

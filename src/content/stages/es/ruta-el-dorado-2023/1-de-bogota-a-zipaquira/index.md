@@ -5,7 +5,7 @@ trip: "ruta-el-dorado-2023"
 lat: 4.68521
 lng: -74.05443
 address: "Bogotá"
-description: "Toma de contacto con Colombia... ¡y con la lluvia!"
+description: "Toma de contacto con Colombia… ¡y con la lluvia!"
 image: "./IMG_20231104_122435.jpg"
 translationKey: "ruta-el-dorado-2023/1-de-bogota-a-zipaquira"
 distance: 70.5

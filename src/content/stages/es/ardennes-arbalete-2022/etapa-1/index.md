@@ -34,7 +34,7 @@ Por fortuna apenas me llovió y, aunque el tiempo distaba mucho de ser bueno, la
 
 ![Mi mano con un burrito a medio comer, con la bicicleta tumbada en la hierba](./IMG_20220707_141330.jpg)
 
-Y así, poco a poco, fui haciendo camino mientras el cielo se oscurecía y las nubes cada vez se cerraban más. La temperatura comenzó a bajar, no a lo loco, pero sí lo suficiente para plantearme... ¡por qué tengo que ir tan abrigado en pleno julio! Ay, vacaciones de verano, ¿dónde estáis?
+Y así, poco a poco, fui haciendo camino mientras el cielo se oscurecía y las nubes cada vez se cerraban más. La temperatura comenzó a bajar, no a lo loco, pero sí lo suficiente para plantearme… ¡por qué tengo que ir tan abrigado en pleno julio! Ay, vacaciones de verano, ¿dónde estáis?
 
 ![Yo, con chubasquero amarillo y casco, en una carretera ancha y vacía bajo cielo gris](./IMG_20220707_160229.jpg)
 

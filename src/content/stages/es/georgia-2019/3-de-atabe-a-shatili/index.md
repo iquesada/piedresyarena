@@ -12,7 +12,7 @@ distance: 45.2
 elevation: 1205
 ---
 
-¡Qué bien se duerme cuando se está cansado! La noche ha sido fría, así que me he acurrucado y he dormido como pocas veces. Me levanto temprano y me encuentro con otro desayuno contundente, compuesto de prácticamente lo mismo que la cena del día anterior: queso casero, miel de sus abejas, verduras de su huerto... pero desgraciadamente, el único café que se consume por la zona es café soluble. Vaya, tampoco me voy a quejar por eso... pero mejor me tomo un té.
+¡Qué bien se duerme cuando se está cansado! La noche ha sido fría, así que me he acurrucado y he dormido como pocas veces. Me levanto temprano y me encuentro con otro desayuno contundente, compuesto de prácticamente lo mismo que la cena del día anterior: queso casero, miel de sus abejas, verduras de su huerto… pero desgraciadamente, el único café que se consume por la zona es café soluble. Vaya, tampoco me voy a quejar por eso… pero mejor me tomo un té.
 
 La mañana está fría, y la niebla mantiene un punto de humedad bastante alto. Además los primeros kilómetros son en bajada, así que hoy será el primer y único día que pondré algo de ropa de abrigo. Voy perdiendo altura rápidamente y voy saliendo de la niebla que está posada en lo alto de las montañas. La mañana me regala unas vistas maravillosas.
 
@@ -36,7 +36,7 @@ Durante la subida me voy encontrando con varias máquinas que están trabajando 
 
 Después de unas horas llego a la cima. Aunque estoy a casi 3.000 metros y se nota la diferencia de temperatura, la brisa es tan agradable que ni me planteo abrigarme. Toca perder altura hasta el valle para encarar la última parte de la ruta hasta Shatili.
 
-Parecía que llegaba un descenso vertiginoso hasta el valle, pero nada más lejos de la realidad. Había multitud de obras en la carretera para ensanchar el trazado, para alargar la pista quitando algún desnivel, para apartar algún derrumbe... pero no eran obras como a las que estamos acostumbrados. Lo más normal era encontrarte las máquinas cortando la carretera, y una caravana de vehículos y personas esperando a que acabasen lo que estaban haciendo para volver a abrir la carretera. Aunque el tráfico era más bien escaso, sí que te encontrabas a un buen puñado de coches esperando durante 15 o 20 minutos. Y nadie parecía impacientarse, ¡es lo que hay! Así pues, el <em>vertiginoso</em> descenso se convirtió en un pequeño descenso seguido de una parada, una y otra vez.
+Parecía que llegaba un descenso vertiginoso hasta el valle, pero nada más lejos de la realidad. Había multitud de obras en la carretera para ensanchar el trazado, para alargar la pista quitando algún desnivel, para apartar algún derrumbe… pero no eran obras como a las que estamos acostumbrados. Lo más normal era encontrarte las máquinas cortando la carretera, y una caravana de vehículos y personas esperando a que acabasen lo que estaban haciendo para volver a abrir la carretera. Aunque el tráfico era más bien escaso, sí que te encontrabas a un buen puñado de coches esperando durante 15 o 20 minutos. Y nadie parecía impacientarse, ¡es lo que hay! Así pues, el <em>vertiginoso</em> descenso se convirtió en un pequeño descenso seguido de una parada, una y otra vez.
 
 ![Pshav-Khevsureti downhill](./P1110475.jpg)
 

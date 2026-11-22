@@ -21,8 +21,8 @@ Esta soledad durará poco. Me lanzo a pedalear a la contra del Camino Francés 
 
 El camino es un continuo sube-baja de pistas al principio y senderos después, muy divertidos. Atravieso una serie de pueblos que conozco de nombre pero que nunca había visitado, zonas muy bonitas que me recuerdan que Zamora ha quedado atrás y ya miramos a Asturias.
 
-Esta parte de la ruta la estoy disfrutando especialmente, tanto que me paso Pola de Gordón, el lugar donde pensaba comer... y acabo dando la vuelta. Es curioso cómo cambia el terreno según el punto de vista. Habré pasado por aquí, en coche, cientos de veces, y nunca había visto los pueblos que estoy atravesando hoy.
+Esta parte de la ruta la estoy disfrutando especialmente, tanto que me paso Pola de Gordón, el lugar donde pensaba comer… y acabo dando la vuelta. Es curioso cómo cambia el terreno según el punto de vista. Habré pasado por aquí, en coche, cientos de veces, y nunca había visto los pueblos que estoy atravesando hoy.
 
 Finalmente llego a Poladura de la Tercia. Un modesto, aunque cómodo, albergue municipal me espera. Y está lleno de caminantes, lo cual me sorprende bastante dado que no he adelantado a nadie en ruta. Apenas hay sitio para todos, y no todos traen comida. Una pareja de italianos acaba cogiendo un taxi hasta Villamanín para comprar comida, porque en Poladura no hay ni bar ni restaurante.
 
-Rápidamente hacemos buenas migas y nos pasamos lo que queda de tarde charlando. Hay gente de Euskadi, Alemania, Italia... y yo, llegando a casa. Aprovecho para revisar la bici, no quiero sustos de última hora. Mañana es la última etapa del Camino de San Salvador, mañana llego a casa.
+Rápidamente hacemos buenas migas y nos pasamos lo que queda de tarde charlando. Hay gente de Euskadi, Alemania, Italia… y yo, llegando a casa. Aprovecho para revisar la bici, no quiero sustos de última hora. Mañana es la última etapa del Camino de San Salvador, mañana llego a casa.

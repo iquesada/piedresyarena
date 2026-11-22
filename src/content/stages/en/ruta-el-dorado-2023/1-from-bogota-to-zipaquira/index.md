@@ -1,6 +1,6 @@
 ---
 title: "El Dorado route 1, from Bogotá to Zipaquirá"
-description: "Getting to know Colombia... and the rain!"
+description: "Getting to know Colombia… and the rain!"
 translationKey: "ruta-el-dorado-2023/1-de-bogota-a-zipaquira"
 ---
 

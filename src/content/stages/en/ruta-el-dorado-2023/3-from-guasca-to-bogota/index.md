@@ -4,7 +4,7 @@ description: "Rain in Chingaza, a tamal in La Calera and a final soaking on Pati
 translationKey: "ruta-el-dorado-2023/3-de-guasca-a-bogota"
 ---
 
-All that was left was the last day to get back to Bogotá. With coffee, fruit and biscuits... what could go wrong?
+All that was left was the last day to get back to Bogotá. With coffee, fruit and biscuits… what could go wrong?
 
 ![Breakfast on a wooden table: coffee, a banana and biscuits, with the bike behind](./IMG_20231106_071044.jpg)
 

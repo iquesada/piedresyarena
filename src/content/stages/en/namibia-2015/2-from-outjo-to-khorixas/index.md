@@ -5,7 +5,7 @@ seoDescription: "Namibia by bike. Stage 2, from Outjo to Khorixas"
 translationKey: "namibia-2015/2-de-outjo-a-khorixas"
 ---
 
-A breakfast fit for champions starts the day and sees us off from the <a title="Sophienhof Lodge" href="http://www.sophienhof-lodge.com/en/" target="_blank">Sophienhof</a> lodge, a peaceful place we’d love to come back to some day. Comfortable and quiet... but that’s not what this trip is about. We came here to ride our bikes, and that’s exactly what we’re going to do. 123 kilometres of road separate us from our destination, Khorixas.
+A breakfast fit for champions starts the day and sees us off from the <a title="Sophienhof Lodge" href="http://www.sophienhof-lodge.com/en/" target="_blank">Sophienhof</a> lodge, a peaceful place we’d love to come back to some day. Comfortable and quiet… but that’s not what this trip is about. We came here to ride our bikes, and that’s exactly what we’re going to do. 123 kilometres of road separate us from our destination, Khorixas.
 
 We hit the road keen and strong, making quick progress riding side by side and chatting, enjoying the trip and the road. Luckily, this road has much less traffic than yesterday’s, which lets us enjoy the cycling. The kilometres fly by and the landscape changes, turning into desert as the vegetation slowly disappears.
 
@@ -35,6 +35,6 @@ Even so, the campsite we’re staying at is pretty and comfortable, and once aga
 
 ![A friend](./P1060850.jpg "A friend")
 
-We plan the stage after a trip to the supermarket (water, lots of water!), and now we feel confident. It’s going to be a great stage, we know it. Mind you, we need to sleep... and the party around us just won’t stop. Reggaeton has made it all the way here, noooooo!
+We plan the stage after a trip to the supermarket (water, lots of water!), and now we feel confident. It’s going to be a great stage, we know it. Mind you, we need to sleep… and the party around us just won’t stop. Reggaeton has made it all the way here, noooooo!
 
 ![Khorixas campsite](./P1060858.jpg "Khorixas campsite")

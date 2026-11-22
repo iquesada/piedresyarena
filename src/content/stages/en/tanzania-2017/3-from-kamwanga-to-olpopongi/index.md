@@ -4,7 +4,7 @@ description: "Discovering the Maasai people"
 translationKey: "tanzania-2017/3-de-kamwanga-a-olpopongi"
 ---
 
-Last night we ~~enjoyed~~ endured a rough night. We’d chosen to sleep right at the heart of the local nightlife. Until the small hours we listened, at full volume, to the music that’s all the rage around here. Then came the late-night partying in the rooms next door... in short, it wasn’t easy to get to sleep. Luckily we were very tired and, although we didn’t sleep as much as we’d have liked, we did get some rest in the end.
+Last night we ~~enjoyed~~ endured a rough night. We’d chosen to sleep right at the heart of the local nightlife. Until the small hours we listened, at full volume, to the music that’s all the rage around here. Then came the late-night partying in the rooms next door… in short, it wasn’t easy to get to sleep. Luckily we were very tired and, although we didn’t sleep as much as we’d have liked, we did get some rest in the end.
 
 The next morning they made us what may well be the most calorific breakfast I’ve ever had, based on pancakes so thick we couldn’t even roll them up. We had to cut them in half! And in case we were still hungry, they made us a few more to take away.
 

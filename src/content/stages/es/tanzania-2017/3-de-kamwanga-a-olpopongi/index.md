@@ -12,7 +12,7 @@ distance: 65.6
 elevation: 659
 ---
 
-Hoy hemos ~~disfrutado~~ sufrido una noche complicada. Hemos elegido quedarnos a dormir en el centro neurálgico de la marcha nocturna. Hasta altas horas hemos escuchado, a todo volumen, la música de moda en esta zona. Después han venido las juergas nocturnas en las habitaciones contiguas... en resumen, no ha sido sencillo dormirse. Afortunadamente estábamos muy cansados y, aunque no hemos dormido todo lo que nos habría gustado, al final pudimos descansar.
+Hoy hemos ~~disfrutado~~ sufrido una noche complicada. Hemos elegido quedarnos a dormir en el centro neurálgico de la marcha nocturna. Hasta altas horas hemos escuchado, a todo volumen, la música de moda en esta zona. Después han venido las juergas nocturnas en las habitaciones contiguas… en resumen, no ha sido sencillo dormirse. Afortunadamente estábamos muy cansados y, aunque no hemos dormido todo lo que nos habría gustado, al final pudimos descansar.
 
 A la mañana siguiente nos prepararon el que posiblemente sea mi desayuno más calórico hasta la fecha, a base de unos pancakes tan gordos que ni siquiera los podíamos enrollar. ¡Había que partirlos por la mitad! Y por si hubiésemos quedado con hambre, nos prepararon alguno más para llevar.
 

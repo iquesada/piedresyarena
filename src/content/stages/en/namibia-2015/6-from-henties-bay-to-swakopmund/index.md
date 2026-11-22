@@ -25,11 +25,11 @@ After a stroll along the seafront we head into the town centre and find a place 
 
 As soon as we enter the town we realise that it really is a German town on the African coast. With its 35,000 inhabitants, this small town is a piece of Germany in the desert. Neither its shops nor its people remind us that we’re in Africa. I mean, I don’t think we’ll have any trouble if we fancy sauerkraut for dinner.
 
-As we’ve arrived early, we pitch the tent at what must be the most comfortable campsite on the planet and go for a wander round the town. That door you can see in front of our tent is our private bathroom, next to our private washing line, sink, barbecue... We didn’t know places like this existed, and we love it!
+As we’ve arrived early, we pitch the tent at what must be the most comfortable campsite on the planet and go for a wander round the town. That door you can see in front of our tent is our private bathroom, next to our private washing line, sink, barbecue… We didn’t know places like this existed, and we love it!
 
 ![Campsite in Swakopmund](./P1060988.jpg "Campsite in Swakopmund")
 
-Just outside the campsite we come across Swakopmund’s small aquarium, which is well worth a visit. And yes, Swakopmund is pretty, but... this isn’t what we came to Africa for. Though there’s no denying it’s quite a curiosity.
+Just outside the campsite we come across Swakopmund’s small aquarium, which is well worth a visit. And yes, Swakopmund is pretty, but… this isn’t what we came to Africa for. Though there’s no denying it’s quite a curiosity.
 
 ![Hohenzollernhaus](./P1060997.jpg "Hohenzollernhaus")
 

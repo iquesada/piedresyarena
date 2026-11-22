@@ -35,10 +35,10 @@ Mucho calor, demasiado, hace que los animales busquen las zonas más frescas, la
 
 ![La única jirafa del viaje](./P1070093.jpg "La única jirafa del viaje")
 
-El terreno es muy abrasivo y está lleno de pequeños pinchos, lo cual nos hace tener especial cuidado. La roca agarra más que el asfalto, por lo que subimos por casi cualquier pendiente. Solo las fuerzas (la ausencia de ellas) nos obligan a bajarnos de la bici. Y los pinchazos... los vamos salvando por los pelos.
+El terreno es muy abrasivo y está lleno de pequeños pinchos, lo cual nos hace tener especial cuidado. La roca agarra más que el asfalto, por lo que subimos por casi cualquier pendiente. Solo las fuerzas (la ausencia de ellas) nos obligan a bajarnos de la bici. Y los pinchazos… los vamos salvando por los pelos.
 
 ![Pinchos en Namibia](./P1070076.jpg "Pinchos en Namibia")
 
-Acabado el trekking, volvemos al restaurante donde comenzamos para relajarnos un poco antes de volver a Windhoek. Solo nos queda empaquetar las bicis, subirlas al avión y volver a casa. La peor parte del viaje, sin duda. La vuelta se hace dura, han sido muchos días de aventura, incertidumbre, de dormir en tienda de campaña, de compañerismo y de apoyo mutuo cuando las cosas se torcían. Ahora hay que volver a la realidad. Toca separarnos, aunque mucha gente que nos quiere nos está esperando y tenemos muchas ganas de verlos. Hay que escribir la crónica y seguir soñando. El futuro será duro, pero, ¿quién sabe si volveremos a vivir una aventura similar... o mejor? Lo que queda claro es que he tenido la mejor de las compañías, sin la que esto no habría sido posible. ¡¡Gracias Nines!!
+Acabado el trekking, volvemos al restaurante donde comenzamos para relajarnos un poco antes de volver a Windhoek. Solo nos queda empaquetar las bicis, subirlas al avión y volver a casa. La peor parte del viaje, sin duda. La vuelta se hace dura, han sido muchos días de aventura, incertidumbre, de dormir en tienda de campaña, de compañerismo y de apoyo mutuo cuando las cosas se torcían. Ahora hay que volver a la realidad. Toca separarnos, aunque mucha gente que nos quiere nos está esperando y tenemos muchas ganas de verlos. Hay que escribir la crónica y seguir soñando. El futuro será duro, pero, ¿quién sabe si volveremos a vivir una aventura similar… o mejor? Lo que queda claro es que he tenido la mejor de las compañías, sin la que esto no habría sido posible. ¡¡Gracias Nines!!
 
 ![Fin de la aventura](./namibia.jpg "Fin de la aventura")

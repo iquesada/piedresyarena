@@ -13,7 +13,7 @@ distance: 81.7
 elevation: 235
 ---
 
-Seis de la mañana, suena el despertador. Si vas con tienda de campaña hay que ir con el sol, y no nos podemos despistar porque en el invierno austral anochece temprano. El día amaneció frío. Tras el proceso de desmontaje de la tienda, más lento de lo habitual debido a la inexperiencia del primer día, nos preparamos un desayuno para quitar el hambre. Hemos buscado alcohol de quemar desde que llegamos, pero hasta ahora nos ha sido imposible localizarlo, lo que nos obliga a conformarnos con un desayuno frío. Afortunadamente, mientras desayunábamos se acercó una persona que se interesó por nuestras bicis y nos indicó la ubicación de una tienda con artículos de camping. Nuestros ánimos suben y estamos convencidos de que la búsqueda de alcohol de quemar se va a terminar. Nos montamos en las bicis, vamos a la tienda y... por abreviar, el alcohol de quemar no existe en Namibia. Con nuestro gozo en un pozo y nuestro estómago frío, nos lanzamos a la carretera rumbo a Outjo. 70km fáciles, donde lo único complicado es sobrevivir al tráfico.
+Seis de la mañana, suena el despertador. Si vas con tienda de campaña hay que ir con el sol, y no nos podemos despistar porque en el invierno austral anochece temprano. El día amaneció frío. Tras el proceso de desmontaje de la tienda, más lento de lo habitual debido a la inexperiencia del primer día, nos preparamos un desayuno para quitar el hambre. Hemos buscado alcohol de quemar desde que llegamos, pero hasta ahora nos ha sido imposible localizarlo, lo que nos obliga a conformarnos con un desayuno frío. Afortunadamente, mientras desayunábamos se acercó una persona que se interesó por nuestras bicis y nos indicó la ubicación de una tienda con artículos de camping. Nuestros ánimos suben y estamos convencidos de que la búsqueda de alcohol de quemar se va a terminar. Nos montamos en las bicis, vamos a la tienda y… por abreviar, el alcohol de quemar no existe en Namibia. Con nuestro gozo en un pozo y nuestro estómago frío, nos lanzamos a la carretera rumbo a Outjo. 70km fáciles, donde lo único complicado es sobrevivir al tráfico.
 
 ![Carretera a Outjo](./outjo.jpg "Carretera a Outjo")
 
@@ -21,7 +21,7 @@ Seis de la mañana, suena el despertador. Si vas con tienda de campaña hay que 
 
 ![Enormes termiteros de Namibia](./termitero.jpg "Enormes termiteros de Namibia")
 
-Viajamos por una carretera sencilla y, una vez en Outjo, visitamos su museo. Se trata de una casa colonial, habitada hasta 1980 por un general alemán. En ella podemos ver cómo se vivía a mediados del siglo XX... o más bien cómo vivía el hombre blanco de mediados del siglo XX en Namibia.
+Viajamos por una carretera sencilla y, una vez en Outjo, visitamos su museo. Se trata de una casa colonial, habitada hasta 1980 por un general alemán. En ella podemos ver cómo se vivía a mediados del siglo XX… o más bien cómo vivía el hombre blanco de mediados del siglo XX en Namibia.
 
 ![Museo de Outjo](./outjo_museo.jpg "Museo de Outjo")
 

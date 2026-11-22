@@ -5,7 +5,7 @@ trip: "tanzania-2017"
 lat: -3.4437619
 lng: 37.19343600000002
 address: "Kikuletwa Hot Springs"
-description: "Mucho asfalto... ¡por fin!"
+description: "Mucho asfalto… ¡por fin!"
 image: "./tanzania5.jpg"
 translationKey: "tanzania-2017/5-de-kikuletwa-hot-spring-a-arusha"
 distance: 71.9

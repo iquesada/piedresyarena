@@ -10,7 +10,7 @@ image: "./grado-1.jpg"
 translationKey: "camino-primitivo-2016/1-de-oviedo-a-campiello"
 ---
 
-Parece extraño que, viviendo en una ciudad de paso del Camino de Santiago, nunca me haya animado a hacerlo... pero así es. Aprovechando el invierno tan suave que estamos teniendo, escogí unos días a principios de febrero y me animé a hacerlo. Esta época del año te permite hacer el camino sin agobios en los albergues de peregrinos.
+Parece extraño que, viviendo en una ciudad de paso del Camino de Santiago, nunca me haya animado a hacerlo… pero así es. Aprovechando el invierno tan suave que estamos teniendo, escogí unos días a principios de febrero y me animé a hacerlo. Esta época del año te permite hacer el camino sin agobios en los albergues de peregrinos.
 
 Siendo de Oviedo, lo más lógico parecía empezar desde aquí y realizar el camino primitivo. He planificado cuatro etapas, veremos si es posible cumplirlas. En esta primera etapa mi padre decidió acompañarme unos kilómetros. Son las 9 de la mañana y sopla un viento bochornoso que presagia agua. El camino que nos lleva a Grado siempre me ha encantado, hace mucho que no lo hago y hoy lo disfruto como un niño. Las nubes se disipan y sale el sol, un sol que calienta con ganas, sobre todo pensando en la época del año en que nos encontramos. Disfrutamos de unos bonitos senderos hasta la primera parada, en Grado, donde quitamos ropa como locos. Nos sobra todo, empiezo a pensar que no habría estado mal traer ropa corta.
 

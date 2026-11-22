@@ -4,15 +4,15 @@ description: "Now this is summer!"
 translationKey: "ardennes-arbalete-2022/etapa-2"
 ---
 
-What would today bring? A surprise... a good one. Although it’s cold, the day dawns clear, which makes me really want to ride. Shortly after leaving Malmedy I’m already in the woods. I spend the whole morning on narrow trails that take me from one forest to the next, crossed every now and then by a road, and then back onto the trail. Every cyclist’s dream!
+What would today bring? A surprise… a good one. Although it’s cold, the day dawns clear, which makes me really want to ride. Shortly after leaving Malmedy I’m already in the woods. I spend the whole morning on narrow trails that take me from one forest to the next, crossed every now and then by a road, and then back onto the trail. Every cyclist’s dream!
 
 I leave the trails for a moment for one of the most widespread cycling vices: a coffee and a pastry. Imagine my surprise when, just as I’d got used to <em>bonjour</em>, I walk into the café and get greeted with a <em>Guten Morgen</em>. Without realising it I’d crossed into the German-speaking area. For a traveller, it’s actually rather fun.
 
-After the coffee break I head back to the trails. This area is particularly beautiful. The trails are clear, the trees let me ride in the shade...
+After the coffee break I head back to the trails. This area is particularly beautiful. The trails are clear, the trees let me ride in the shade…
 
 ![Bike leaning on a fallen log beside a path in a pine forest](./IMG_20220708_111444.jpg)
 
-... and I even get free blueberries.
+… and I even get free blueberries.
 
 ![My fingers picking a blueberry from a bush](./IMG_20220708_111424.jpg)
 

@@ -16,7 +16,7 @@ Pero, ¿Bélgica no era todo llano? Nada más salir de Houffalize (donde, por ci
 
 ![Sendero de tierra por un bosque, visto desde el manillar con el GPS](./IMG_20220709_131059.jpg)
 
-Aunque sabía que hoy iba a pasar por <a href="https://chouffe.com/es-es/nuestra-cerveza/la-chouffe">La Chouffe</a>, lo cierto es que encontrármela fue una pequeña sorpresa. Aficionado como soy a la cerveza en general, es curioso que mi primera visita a una fábrica sea tan lejos de casa. Aproveché para visitar el entorno de la fábrica y, cómo no, la tienda de regalos. Y por si queda alguna duda... ¡demasiados kilómetros por delante como para tomarme una! Ya habrá tiempo después.
+Aunque sabía que hoy iba a pasar por <a href="https://chouffe.com/es-es/nuestra-cerveza/la-chouffe">La Chouffe</a>, lo cierto es que encontrármela fue una pequeña sorpresa. Aficionado como soy a la cerveza en general, es curioso que mi primera visita a una fábrica sea tan lejos de casa. Aproveché para visitar el entorno de la fábrica y, cómo no, la tienda de regalos. Y por si queda alguna duda… ¡demasiados kilómetros por delante como para tomarme una! Ya habrá tiempo después.
 
 ![Bicicleta apoyada en una valla junto a los letreros de madera de la cervecería](./IMG_20220709_101532.jpg)
 

@@ -24,6 +24,6 @@ Suddenly, a clearing opens up in the forest and I come to a house. Good, at leas
 
 ![Green valley with a red-roofed village and rocky mountains behind](./slovenia2.jpg)
 
-I still had another hour of more of the same ahead of me. At last, the vegetation opens up and I reach a track. Then a road, cars... and Bled. A tourist spot if ever there was one, its traffic and bustle are a sharp contrast to the hours of solitude I’ve had today. I find the campsite, right on the lakeshore, and pitch my tent. A wash, a good dinner and time to rest: the 70 kilometres have taken their toll, especially the kilometres spent pushing the bike. Tomorrow I’ll have to watch where I’m going; maybe the route I downloaded is out of date. But don’t get me wrong: I had the time of my life.
+I still had another hour of more of the same ahead of me. At last, the vegetation opens up and I reach a track. Then a road, cars… and Bled. A tourist spot if ever there was one, its traffic and bustle are a sharp contrast to the hours of solitude I’ve had today. I find the campsite, right on the lakeshore, and pitch my tent. A wash, a good dinner and time to rest: the 70 kilometres have taken their toll, especially the kilometres spent pushing the bike. Tomorrow I’ll have to watch where I’m going; maybe the route I downloaded is out of date. But don’t get me wrong: I had the time of my life.
 
 ![Bike holding up a small yellow tent with a grey tarp over it](./bikamper.jpg)

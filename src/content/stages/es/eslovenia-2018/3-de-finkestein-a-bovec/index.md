@@ -30,7 +30,7 @@ Hoy he pedaleado durante poco más de 55 kilómetros y mil metros de desnivel, t
 
 Bovec es el centro turístico para actividades deportivas de la zona. Creo que podrías pasar una semana entera, realizando actividades diariamente, sin repetir deporte. He llegado bastante temprano, así que tengo tiempo para conocer el pueblo y hacer algo de turismo.
 
-La noche está muy animada y me quedo un rato a ver a la banda. Parecen ser conocidos en Eslovenia...
+La noche está muy animada y me quedo un rato a ver a la banda. Parecen ser conocidos en Eslovenia…
 
 ![Banda tocando en un escenario iluminado de azul, con el público a contraluz](./bovec_party.jpg)
 

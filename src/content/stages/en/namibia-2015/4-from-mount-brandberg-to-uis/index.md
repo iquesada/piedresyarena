@@ -17,11 +17,11 @@ It doesn’t take us long to reach the start of the trek that will take us to th
 
 ![Riverbed towards the White Lady](./P1060965.jpg "Riverbed towards the White Lady")
 
-As we walk, our guide points out the most common trees and plants in the area. Acacias, much prized by elephants, and the tamarisk, an almost magical tree that provides practically everything, from a coffee-like drink to juices... pretty much anything, really.
+As we walk, our guide points out the most common trees and plants in the area. Acacias, much prized by elephants, and the tamarisk, an almost magical tree that provides practically everything, from a coffee-like drink to juices… pretty much anything, really.
 
 ![Trek to the White Lady](./P1060947.jpg "Trek to the White Lady")
 
-At last we reach the spot. He explains how a German adventurer found these and other paintings on the rock around Mount Brandberg. Some 600 rock paintings have been discovered in the area, which is surprising not so much for their number as for the fact that they’re well preserved. The most important of all is the White Lady, 2,000 years old. Discovered by the German explorer and surveyor Reinhard Maack, it shows a woman with white legs and arms in a hunting scene. I’m not so sure it’s a woman rather than a man... judge for yourselves.
+At last we reach the spot. He explains how a German adventurer found these and other paintings on the rock around Mount Brandberg. Some 600 rock paintings have been discovered in the area, which is surprising not so much for their number as for the fact that they’re well preserved. The most important of all is the White Lady, 2,000 years old. Discovered by the German explorer and surveyor Reinhard Maack, it shows a woman with white legs and arms in a hunting scene. I’m not so sure it’s a woman rather than a man… judge for yourselves.
 
 ![The White Lady’s hunting scene](./P1060957.jpg "The White Lady’s hunting scene")
 

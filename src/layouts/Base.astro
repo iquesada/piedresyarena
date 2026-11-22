@@ -49,7 +49,7 @@ const versions = switchTo && { [locale]: canonical, [other]: new URL(switchTo, A
   <body class:list={{ dark }}>
     <a href="#main" class="skip">{t(locale, 'skip.main')}</a>
     <header class:list={['bar', { overlay }]}>
-      <a href={homePath(locale)} class="brand"><LogoIcon /><span>{wordmark}</span></a>
+      <a href={homePath(locale)} class="brand"><LogoIcon /><span translate="no">{wordmark}</span></a>
       <nav>
         <a href={aboutPath(locale)}>{t(locale, 'nav.about')}</a>
         {switchTo && <a href={switchTo} hreflang={other} lang={other} aria-label={t(other, 'lang.switch')}>{other.toUpperCase()}</a>}
@@ -59,7 +59,7 @@ const versions = switchTo && { [locale]: canonical, [other]: new URL(switchTo, A
       <slot />
     </main>
     <footer>
-      <a href={homePath(locale)} class="brand"><LogoIcon /><span>{wordmark}</span></a>
+      <a href={homePath(locale)} class="brand"><LogoIcon /><span translate="no">{wordmark}</span></a>
       <p>{t(locale, 'site.description')}</p>
       <InstagramLink />
     </footer>
@@ -94,7 +94,7 @@ const versions = switchTo && { [locale]: canonical, [other]: new URL(switchTo, A
     background: var(--sand); color: var(--black); font: 600 1rem var(--display); text-decoration: none;
   }
   .skip:not(:focus) { width: 1px; height: 1px; padding: 0; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
-  h1, h2, h3 { font-family: var(--display); line-height: 0.95; margin: 0; }
+  h1, h2, h3 { font-family: var(--display); line-height: 0.95; margin: 0; text-wrap: balance; overflow-wrap: break-word; }
 
   .bar {
     display: flex; align-items: center; justify-content: space-between; gap: 1rem;

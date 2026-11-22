@@ -19,7 +19,7 @@ La de hoy será nuestra primera etapa fuera del asfalto, con casi 100 kilómetro
 
 ![Pista que une Khorixas con Uis](./P1060861.jpg "Pista que une Khorixas con Uis")
 
-El paisaje se va haciendo cada vez más árido, la arena se come la vegetación y cada vez que damos una curva nos parece ver un animal... pero nada, no hay rastros de vida. La soledad nos acompaña a lo largo de esta pista en la que, de vez en cuando, algún coche rompe el suave ruido de nuestras ruedas sobre el terreno recordándonos que no estamos solos en este país.
+El paisaje se va haciendo cada vez más árido, la arena se come la vegetación y cada vez que damos una curva nos parece ver un animal… pero nada, no hay rastros de vida. La soledad nos acompaña a lo largo de esta pista en la que, de vez en cuando, algún coche rompe el suave ruido de nuestras ruedas sobre el terreno recordándonos que no estamos solos en este país.
 
 ![Soledad en el camino](./P1060867.jpg "Soledad en el camino")
 
@@ -37,7 +37,7 @@ Avanzamos con alegría hasta el kilómetro 60, a 40 del final. Ahí abandonamos 
 
 Rodamos solos, completamente solos, durante horas. Esa soledad horada y ablanda la pista (y nuestros ánimos), convirtiéndola en una tôle ondulée o en una playa, alternativamente. La tôle ondulée es lo peor. La sensación es la misma (me imagino) que rodar sobre una uralita. A veces las estrías están más juntas, otras veces más separadas, pero siempre consiguen el mismo efecto de botes continuos. Y sí, con alforjas es mucho peor.
 
-Por fortuna la gravedad juega a nuestro favor, la pista es ligeramente descendente y podemos avanzar. Aun así, todo se va haciendo cada vez más pesado y nosotros nos vamos cansando más y más... y lo peor está por llegar. A 20 kilómetros del destino cogemos el desvío que nos ha de llevar directos al lodge, pero resulta ser una pista de arena que se va ablandando poco a poco hasta que nos obliga a echar pie a tierra.
+Por fortuna la gravedad juega a nuestro favor, la pista es ligeramente descendente y podemos avanzar. Aun así, todo se va haciendo cada vez más pesado y nosotros nos vamos cansando más y más… y lo peor está por llegar. A 20 kilómetros del destino cogemos el desvío que nos ha de llevar directos al lodge, pero resulta ser una pista de arena que se va ablandando poco a poco hasta que nos obliga a echar pie a tierra.
 
 ![Arena y más arena](./frm.jpg "Arena y más arena")
 
@@ -45,11 +45,11 @@ Con las alforjas cargadas no podemos hacer más que empujar la bici mientras que
 
 <div class="embed"><iframe src="https://www.youtube.com/embed/Ju_qE8b3mJ0" title="Vídeo: Namibia, pistas de chapa ondulada y arena" loading="lazy" allowfullscreen></iframe></div>
 
-Poco a poco vamos avanzando. Arena, tôle ondulée, más arena... ¿y qué es ese olor? A 5 kilómetros de destino pasamos por el cauce del río Ugab, total y absolutamente seco. Y nuevamente ese olor...
+Poco a poco vamos avanzando. Arena, tôle ondulée, más arena… ¿y qué es ese olor? A 5 kilómetros de destino pasamos por el cauce del río Ugab, total y absolutamente seco. Y nuevamente ese olor…
 
 ![Camino rumbo al Monte Brandberg](./P1060900.jpg "Camino rumbo al Monte Brandberg")
 
-Cansados, absolutamente destrozados, llegamos al lodge. Nos registramos, bebemos algo y vamos a montar la tienda cuanto antes para poder descansar. Nada más salir de recepción nos encontramos de bruces con un gran elefante. Tal vez no era tan grande, no lo sé, pero desde luego nos pareció enorme. Y solo hay algo mejor que ver un animal como este, y es verlo en libertad. Grande, enorme, impasible. Majestuoso. Delante de nosotros, comiendo las plantas que dan la bienvenida al lodge como si fuesen suyas. Aunque, pensándolo bien, suyas son. Nosotros somos los visitantes, los extranjeros que hemos llegado a molestarles. Intentaremos molestarles lo menos posible, no se vayan a cabrear... Bien, hemos descubierto qué era ese olor. Y ya lo siento, pero al elefante no le gustamos y nos fuimos de allí sin sacar fotos.
+Cansados, absolutamente destrozados, llegamos al lodge. Nos registramos, bebemos algo y vamos a montar la tienda cuanto antes para poder descansar. Nada más salir de recepción nos encontramos de bruces con un gran elefante. Tal vez no era tan grande, no lo sé, pero desde luego nos pareció enorme. Y solo hay algo mejor que ver un animal como este, y es verlo en libertad. Grande, enorme, impasible. Majestuoso. Delante de nosotros, comiendo las plantas que dan la bienvenida al lodge como si fuesen suyas. Aunque, pensándolo bien, suyas son. Nosotros somos los visitantes, los extranjeros que hemos llegado a molestarles. Intentaremos molestarles lo menos posible, no se vayan a cabrear… Bien, hemos descubierto qué era ese olor. Y ya lo siento, pero al elefante no le gustamos y nos fuimos de allí sin sacar fotos.
 
 Sinceramente, es una de esas cosas que hace que un viaje merezca la pena. El camping es precioso, tal vez el mejor lugar al que he llegado en bicicleta en toda mi vida. Nuevamente un lujo en medio de la nada. ¿Quién nos iba a decir que íbamos a acampar en tierra de elefantes?
 
@@ -65,7 +65,7 @@ Por cierto, los baños no tenían techo. Otro punto exótico a añadir a tan mag
 
 ![Anochecer en el desierto de Namibia](./P1060905.jpg "Anochecer en el desierto de Namibia")
 
-Quiero uno de estos...
+Quiero uno de estos…
 
 ![Otra forma de acampar](./P1060917.jpg "Otra forma de acampar")
 

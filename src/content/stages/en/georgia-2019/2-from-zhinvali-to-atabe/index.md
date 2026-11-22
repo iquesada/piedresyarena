@@ -4,7 +4,7 @@ description: "Into the Caucasus"
 translationKey: "georgia-2019/2-de-zhinvali-a-atabe"
 ---
 
-The day doesn’t start well at all. I woke up in the middle of the night with a migraine. By morning it’s just as bad, with its usual symptoms of headache and nausea. I have a coffee for breakfast and little else, and set off feeling rather scared... and on an almost empty stomach.
+The day doesn’t start well at all. I woke up in the middle of the night with a migraine. By morning it’s just as bad, with its usual symptoms of headache and nausea. I have a coffee for breakfast and little else, and set off feeling rather scared… and on an almost empty stomach.
 
 My plan for today is to reach Atabe, which seems to be a small village high up in the Caucasus mountains, in the north of Georgia. To get there from Zhinvali, I’ll follow the track that runs alongside one of the rivers feeding the Zhinvali reservoir.
 
@@ -12,7 +12,7 @@ My plan for today is to reach Atabe, which seems to be a small village high up i
 
 It’s a curious place. Apparently, the real Zhinvali lies at the bottom of the reservoir, which was built in Soviet times. To rehouse all its inhabitants, they decided to build a <em>new Zhinvali</em>, about five kilometres south of the original. Walking into this <em>new Zhinvali</em> is a real trip back to Soviet times: big square buildings among green spaces and wide avenues. Sadly, the country’s economic situation shows in the general state of the town, which is very run-down (though not dirty) and old.
 
-I start on a well-surfaced road that takes me up to the top of the dam... first fifteen minutes, first meltdown. From there on, no big surprises. The road runs alongside a river, so it climbs all the time. My head is still bothering me, so I take every chance to stop for a break. Here, resting with a new friend.
+I start on a well-surfaced road that takes me up to the top of the dam… first fifteen minutes, first meltdown. From there on, no big surprises. The road runs alongside a river, so it climbs all the time. My head is still bothering me, so I take every chance to stop for a break. Here, resting with a new friend.
 
 ![A white dog asleep on the tarmac in front of the bike](./sleep.jpg)
 
@@ -36,11 +36,11 @@ The track gets more broken with every metre, and both my hands and my backside a
 
 ![Shop with a “Market” sign and the bike leaning on the fence](./P1110435.jpg)
 
-You couldn’t say the village is very well stocked... all I find is this little shop, where I was hoping for something more substantial than fruit or ice cream. Well, let’s be honest, ice cream always goes down well, no complaints there. But it still strikes me that, being the first shop I’ve seen in several hours, it isn’t a bit better stocked. Soft drinks and ice cream are fine for the passengers of the <em>marshrutka</em>, as minibuses are known in Georgia, but not for the people who live here.
+You couldn’t say the village is very well stocked… all I find is this little shop, where I was hoping for something more substantial than fruit or ice cream. Well, let’s be honest, ice cream always goes down well, no complaints there. But it still strikes me that, being the first shop I’ve seen in several hours, it isn’t a bit better stocked. Soft drinks and ice cream are fine for the passengers of the <em>marshrutka</em>, as minibuses are known in Georgia, but not for the people who live here.
 
 Still, I have a good feeling about the guesthouse waiting for me in Atabe. I’m sure I’ll be able to treat myself to a proper feast for dinner.
 
-I follow the track, which keeps getting steeper, and every so often I come across a fountain. Georgians are very proud of their water, and rightly so. There are fountains of cool, crystal-clear water everywhere. But it isn’t the number of fountains that catches my eye, it’s their decoration. Each fountain usually has a stone plaque with a sort of photograph set into it. It isn’t a relief; it’s completely smooth. It looks like a kind of headstone... I don’t know why, but I’d like to find out. As I don’t think I’ve explained it very well, here are a couple of photos.
+I follow the track, which keeps getting steeper, and every so often I come across a fountain. Georgians are very proud of their water, and rightly so. There are fountains of cool, crystal-clear water everywhere. But it isn’t the number of fountains that catches my eye, it’s their decoration. Each fountain usually has a stone plaque with a sort of photograph set into it. It isn’t a relief; it’s completely smooth. It looks like a kind of headstone… I don’t know why, but I’d like to find out. As I don’t think I’ve explained it very well, here are a couple of photos.
 
 ![Stone fountain with a young man’s portrait engraved on a plaque](./P1110436.jpg)
 
@@ -52,13 +52,13 @@ At last I reach the turn-off that will take me to Atabe. I have no elevation pro
 
 ![Grassy hillside with a few scattered houses and rocky peaks behind](./P1110443.jpg)
 
-I’m not too sure where I’m going, as I have no maps of the area and there are no signs either. Still, I was told the guesthouse was signposted, so I suppose that sooner or later I’ll see a sign. And judging by the landscape, it can’t be much further... because I’m running out of mountain!
+I’m not too sure where I’m going, as I have no maps of the area and there are no signs either. Still, I was told the guesthouse was signposted, so I suppose that sooner or later I’ll see a sign. And judging by the landscape, it can’t be much further… because I’m running out of mountain!
 
 And so it is. A little further on, after an hour of gruelling climbing in which I’ve had to push the bike more than I’d have liked, I reach the guesthouse. It’s a small cabin at the highest point you can get to. From here up, just mountain and rock.
 
 ![Single-storey house with a metal roof among trees, at the end of a path](./P1110453.jpg)
 
-A lady who doesn’t speak a word of English welcomes me. It’s very hard to communicate in words when you don’t have a single word in common, not even a similar one... but we all understand each other with gestures. First things first: put the bike somewhere safe.
+A lady who doesn’t speak a word of English welcomes me. It’s very hard to communicate in words when you don’t have a single word in common, not even a similar one… but we all understand each other with gestures. First things first: put the bike somewhere safe.
 
 ![A large dog asleep by the wall, behind the bike](./IMG_20190814_163521.jpg)
 
